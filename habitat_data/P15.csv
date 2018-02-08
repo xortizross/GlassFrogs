@@ -1,0 +1,51 @@
+who,date,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3
+MET,28-Jun-17,P15,RT2,2,Pteridophyta unknown familiy,,spores,0,no,no,1156,,10.714,11.793,18.752
+MET,28-Jun-17,P15,RT2,4,Pteridophyta unknown familiy,,spores,0,no,no,1157,,6.533,8.217,9.727
+MET,28-Jun-17,P15,RT2,6,Burseraceae,Protium panemense,glabrous,0,no,no,1158-1160,,67.291,88.771,161.693
+MET,28-Jun-17,P15,RT2,8,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,"1164, 1165, 1167",,171.303,141.716,148.22
+MET,28-Jun-17,P15,RT2,10,Rubiaceae,Warszewiczia coccinea,hairy,1,yes,no,1168-1170,,187.864,160.43,132.046
+MET,28-Jun-17,P15,RT2,12,Cyclanthaceae,,glabrous,0,no,no,1172-1174,,291.439,222.017,133.697
+MET,28-Jun-17,P15,RT2,14,Heliconiaceae,Heliconia irrasa,glabrous,0,no,no,1175-,,254.86,163.69,47.772
+MET,28-Jun-17,P15,RT2,16,Annonaceae ,Guataria auringinosa,hairy,0,no,no,1184-1186,,204.043,121.702,85.448
+MET,28-Jun-17,P15,RT2,18,Lacistemataceae ,Lozania pittieri,glabrous,0,no,no,1187,,35.514,53.04,42.992
+MET,28-Jun-17,P15,RT2,20,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1189,,148.601,60.91,51.14
+MET,28-Jun-17,P15,RT2,22,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1190,,204.015,44.744,71.013
+MET,28-Jun-17,P15,RT2,24,Rubiaceae,Warszewiczia coccinea,hairy,0,no,no,1191-1193,,59.093,42.631,35.42
+MET,28-Jun-17,P15,RT2,26,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,2,no,no,1194-1196,,54.224,53.575,23.841
+MET,28-Jun-17,P15,RT2,28,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,1198-1200,,160.583,193.116,135.408
+MET,28-Jun-17,P15,RT2,30,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,1201-1203,,75.501,124.951,80.848
+MET,28-Jun-17,P15,RT2,32,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1205,,137.262,60.194,142.778
+MET,28-Jun-17,P15,RT2,34,Melastomataceae,Miconia multispicata,hairy,0,no,no,"1208, 1210",,103.606,98.835,138.471
+MET,28-Jun-17,P15,RT2,36,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1212,,142.92,38.023,61.304
+MET,28-Jun-17,P15,RT2,38,Cyclanthaceae,Asplunia sleeperie,glabrous,3,no,no,1214-1216,,1495.514,1276.674,1290.838
+MET,28-Jun-17,P15,RT2,40,Cyclanthaceae,,glabrous,0,no,no,1218-1220,,156.381,94.227,100.146
+MET,28-Jun-17,P15,RT2,42,Tectariaceae,Tectaria sp.,glabrous,,no,no,1222,,135.971,32.928,18.901
+MET,28-Jun-17,P15,RT2,44,Araceae,Anthurium ochranthum,glabrous,1,no,no,1229-1231,,469.702,817.67,770.961
+MET,28-Jun-17,P15,RT2,46,Tectariaceae,Tectaria sp.,glabrous,0,no,ants,1232,,145.655,52.223,61.874
+MET,28-Jun-17,P15,RT2,48,Burseraceae,Protium panemense,glabrous,0,yes,no,1233-1235 (look up),,,,
+MET,28-Jun-17,P15,RT2,50,Piperaceae,Piper pseudobumbratum,glabrous,0,no,no,1236-1240,,92.315,80.799,128.742
+MET,28-Jun-17,P15,RT3,2,Gesneriaceae,Besleria robusta,hairy,0,yes,no,1254-1256,,171.977,119.062,220.125
+MET,28-Jun-17,P15,RT3,4,Heliconiaceae,Heliconia irrasa,glabrous,0,no,no,1257-1259,,205.032,201.173,83.761
+MET,28-Jun-17,P15,RT3,6,Heliconiaceae,Heliconia irrasa,glabrous,1,no,no,"1260, 1261, 1263",,529.837,231.646,644.945
+MET,28-Jun-17,P15,RT3,8,Melastomataceae,Conostegia micrantha,hairy,0,no,no,1265-1267,,131.034,94.557,42.672
+MET,28-Jun-17,P15,RT3,10,Tectariaceae,Tectaria sp.,spores,1,no,no,1268,,104.306,29.503,17.542
+MET,28-Jun-17,P15,RT3,12,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1270,,127.381,50.32,48.8
+MET,28-Jun-17,P15,RT3,14,Melastomataceae,Henriettea tuberculosa,glandular,0,no,no,1271-1273,,32.398,41.816,34.172
+MET,28-Jun-17,P15,RT3,16,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1274,,116.698,47.698,37.926
+MET,28-Jun-17,P15,RT3,18,Tectariaceae,Tectaria sp.,spores,0,no,no,1277,,263.998,77.297,93.007
+MET,28-Jun-17,P15,RT3,20,Araceae,Philodendron grandipes,glabrous,0,no,no,"1279-1280, 1283",,457.012,319.785,206.709
+MET,28-Jun-17,P15,RT3,22,Piperaceae,Piper culebranum,hairs,0,no,no,1287-1289,,57.141,37.7,48.392
+MET,28-Jun-17,P15,RT3,24,Rubiaceae,Warszewiczia coccinea,glabrous,1,no,no,1294-1296,,442.728,206.497,149.731
+MET,28-Jun-17,P15,RT3,26,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1297,,52.302,106.196,39.896
+MET,28-Jun-17,P15,RT3,28,Convolvulaceae,Ipomodea sp. ,glabrous,0,no,no,1298 (look up),,,,
+MET,28-Jun-17,P15,RT3,30,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1299,,240.603,67.29,59.801
+MET,28-Jun-17,P15,RT3,32,Cyclanthaceae,,glabrous,0,no,no,1300-1302,,58.567,47.944,52.116
+MET,28-Jun-17,P15,RT3,34,Rhamnaceae,Colubrina spinosa ,glabrous,0,yes,no,1303-1305,,117.982,80.845,166.114
+MET,28-Jun-17,P15,RT3,36,Melastomataceae,Conostegia setifera,hairy,0,yes,no,1306-1309,,91.535,78.898,86.482
+MET,28-Jun-17,P15,RT3,38,Melastomataceae,Conostegia setifera,hairy,0,yes,no,"1306-1308, 1312",,128.181,105.863,64.814
+MET,28-Jun-17,P15,RT3,40,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,1,no,no,1313-1315,,165.29,105.834,133.118
+MET,28-Jun-17,P15,RT3,42,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,1316-1319,,192.65,161.098,185.769
+MET,28-Jun-17,P15,RT3,44,Melastomataceae,Conostegia micrantha,hairy,0,no,no,1320-1322,,117.976,176.895,139.64
+MET,28-Jun-17,P15,RT3,46,Acanthaceae,Odontonema tubaeforme,glabrous,0,no,no,1323-1325,,26.347,30.47,16.958
+MET,28-Jun-17,P15,RT3,48,Fabaceae,Inga leiocalycina,hairy,0,no,no,1326-1330,,40.831,24.914,37.007
+MET,28-Jun-17,P15,RT3,50,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1331,,102.231,71.005,83.73

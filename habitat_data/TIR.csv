@@ -1,0 +1,51 @@
+who,date,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3
+MET,19-Jul-17,TIR,RT1,2,Melastomataceae,Miconia solearis,hairy,0,no,no,2149-2150,,79.901,128.048,198.848
+MET,19-Jul-17,TIR,RT1,4,Melastomataceae,Miconia laxivenula,glabrous,0,no,no,2151-2152,,114.954,123.358,135.924
+MET,19-Jul-17,TIR,RT1,6,Melastomataceae,Conostegia micrantha,hairy,0,no,no,2153-2154,,148.826,92.077,69.284
+MET,19-Jul-17,TIR,RT1,8,Arecaceae,Welfia regia,glabrous,0,no,no,2155,,136.783,37.518,29.283
+MET,19-Jul-17,TIR,RT1,10,Araceae,,glabrous,0,no,no,2157,,38.626,149.599,72.817
+MET,19-Jul-17,TIR,RT1,12,Tectariaceae,Tectaria sp.,glabrous,0,no,no,2158,,33.812,98.341,26.611
+MET,19-Jul-17,TIR,RT1,14,Tectariaceae,Tectaria sp.,glabrous,0,no,no,2161,,75.215,25.156,13.078
+MET,19-Jul-17,TIR,RT1,16,Araceae,,glabrous,0,no,no,2162,,52.133,46.602,64.481
+MET,19-Jul-17,TIR,RT1,18,Heliconiaceae,Heliconia irrasa,glabrous,0,no,spider,2163,,338.025,309.094,103.966
+MET,19-Jul-17,TIR,RT1,20,Fabaceae,Lonchocarpus oliganthus,glabrous,0,yes,no,2164-2167,look up average leaf area,,,
+MET,19-Jul-17,TIR,RT1,22,Heliconiaceae,,glabrous,0,no,no,2168-2169,,758.736,436.969,74.94
+MET,19-Jul-17,TIR,RT1,24,Apocynaceae,Geoppertia donnell-smithii,glabrous,0,no,ants,2170,,81.305,64.722,67.513
+MET,19-Jul-17,TIR,RT1,26,Piperaceae,Piper cenocladum,hairy,0,no,no,2171-2172,,363.293,427.264,367.993
+MET,19-Jul-17,TIR,RT1,28,Piperaceae,Piper cenocladum,hairy,0,no,no,2173-2174,,230.587,159.191,211.954
+MET,19-Jul-17,TIR,RT1,30,Thelypteridaceae,,glabrous,0,no,no,2175,,21.059,33.416,21.254
+MET,19-Jul-17,TIR,RT1,32,Piperaceae,Piper cenocladum,hairy,0,no,no,2176,,254.063,194.174,190.865
+MET,19-Jul-17,TIR,RT1,34,Tectariaceae,Tectaria sp.,glabrous,0,no,no,2177,,46.303,11.928,22.087
+MET,19-Jul-17,TIR,RT1,36,Araceae,Philodendron sp. ,glabrous,0,no,no,2178,,92.759,117.031,131.8
+MET,19-Jul-17,TIR,RT1,38,Tectariaceae,Tectaria sp.,glabrous,0,no,no,2179,,85.718,14.518,18.641
+MET,19-Jul-17,TIR,RT1,40,Marattiaceae,,glabrous,0,no,no,2180,,35.771,31.027,28.563
+MET,19-Jul-17,TIR,RT1,42,Rhamnaceae,Colubrina spinosa,glabrous,0,no,no,2181,,101.29,79.354,126.888
+MET,19-Jul-17,TIR,RT1,44,Piperaceae,,glabrous,0,no,ants,2182-2184,,318.988,213.093,210.895
+MET,19-Jul-17,TIR,RT1,46,Euphorbiaceae,Tetrorchidium euryphyllum,,0,no,no,2185?,,227.393,146.856,277.02
+MET,19-Jul-17,TIR,RT1,48,Piperaceae,Piper pentagonum,glabrous,0,no,no,2186,,157.839,132.383,137.8
+MET,19-Jul-17,TIR,RT1,50,Woody liana,,na,0,yes,no,woody liana - no photos,,,,
+MET,19-Jul-17,TIR,RT2,2,Arecaceae,,glabrous,0,no,no,"2213, 2214",,58.529,61.602,73.644
+MET,19-Jul-17,TIR,RT2,4,Arecaceae,,glabrous,0,no,no,2212,,334.644,22.664,18.609
+MET,19-Jul-17,TIR,RT2,6,Heliconiaceae,,glabrous,0,no,no,2110-2111,,201.053,784.773,1223.755
+MET,19-Jul-17,TIR,RT2,8,Melastomataceae,Miconia append.,glabrous,0,no,no,2209,,97.67,126.739,69.441
+MET,19-Jul-17,TIR,RT2,10,Araceae,Philodendron grandipes,glabrous,0,no,no,2206-2208,,749.235,740.945,900.219
+MET,19-Jul-17,TIR,RT2,12,Melastomataceae,variabilis,glabrous,0,no,no,2204,,274.555,266.244,117.539
+MET,19-Jul-17,TIR,RT2,14,Cyclanthaceae,,glabrous,0,no,no,2199-2200,,190.827,159.725,161.162
+MET,19-Jul-17,TIR,RT2,16,Melastomataceae,Miconia solearis,,0,no,no,2196-2198,,880.062,476.007,990.414
+MET,19-Jul-17,TIR,RT2,18,Araceae,,glabrous,0,no,no,2193-2195,,319.916,162.197,575.115
+MET,19-Jul-17,TIR,RT2,20,Unknown,Unknown,,0,no,no,2215-2217,,too high,,
+MET,19-Jul-17,TIR,RT2,22,Araceae,Syngonium triphyllum,glabrous,0,no,no,2219,,175.258,59.622,58.932
+MET,19-Jul-17,TIR,RT2,24,Gesneriaceae,Drymonia pilifera,hairy,0,no,no,2220,,39.83,22.377,48.174
+MET,19-Jul-17,TIR,RT2,26,Piperaceae,Piper cenocladum,hairy,0,no,ants,2221,,266.849,249.91,190.58
+MET,19-Jul-17,TIR,RT2,28,Araceae,,glabrous,0,no,no,2222-2224,,1967.249,903.537,1058.805
+MET,19-Jul-17,TIR,RT2,30,Piperaceae,Piper cenocladum,hairy,0,no,no,2225,,254.984,144.791,163.475
+MET,19-Jul-17,TIR,RT2,32,Arecaceae,Prestobea decurrens,glabrous,0,no,no,2226-2228,,43.498,41.579,53.377
+MET,19-Jul-17,TIR,RT2,34,Melastomataceae,new sp. ,glabrous,0,no,no,2229,,176.155,227.825,315.505
+MET,19-Jul-17,TIR,RT2,36,Melastomataceae,new sp. ,glabrous,0,yes,no,2231,,192.51,221.364,173.94
+MET,19-Jul-17,TIR,RT2,38,Euphorbiaceae,Tetrorchidium euryphyllum,,0,no,ants,2232-2233,,113.962,142.943,184.858
+MET,19-Jul-17,TIR,RT2,40,Araceae,,glabrous,0,no,no,2234,,170.527,103.905,189.641
+MET,19-Jul-17,TIR,RT2,42,Piperaceae,Piper pentagonum,glabrous,0,no,no,2235,,120.9896,111.826,110.852
+MET,19-Jul-17,TIR,RT2,44,Arecaceae,,glabrous,0,no,no,2236,,484.247,156.105,141.301
+MET,19-Jul-17,TIR,RT2,46,Arecaceae,,glabrous,0,no,no,2238,,234.221,161.269,169.219
+MET,19-Jul-17,TIR,RT2,48,Heliconiaceae,Heliconia irrasa,glabrous,0,no,no,2239,,353.034,676.073,606.506
+MET,19-Jul-17,TIR,RT2,50,Cyclanthaceae,,glabrous,0,no,no,2240,,31.058,41.881,38.466

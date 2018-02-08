@@ -1,0 +1,51 @@
+who,date,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3
+MET,23-Jun-17,POT4,RT3,2,Gesneriaceae,Beseleria pauciflora,hairy,0,no,no,914-917,,89.545,126.66,60.908
+MET,23-Jun-17,POT4,RT3,4,Gesneriaceae,Beseleria pauciflora,hairy,2,no,no,918-921,,66.564,76.406,47.435
+MET,23-Jun-17,POT4,RT3,6,Tectariaceae,Tectaria sp.,spores,0,no,no,922-924,,220.746,93.432,48.8
+MET,23-Jun-17,POT4,RT3,8,Gesneriaceae,Beseleria pauciflora,hairy,2,no,no,926-927,,73.198,59.092,66.016
+MET,23-Jun-17,POT4,RT3,10,Gesneriaceae,Beseleria pauciflora,hairy,2,no,no,928,,65.724,72.001,53.723
+MET,23-Jun-17,POT4,RT3,12,Gesneriaceae,Beseleria pauciflora,hairy,1,no,no,931,,40.451,53.607,45.153
+MET,23-Jun-17,POT4,RT3,14,Gesneriaceae,Beseleria pauciflora,hairy,0,no,no,932-934,,95.547,124.73,103.625
+MET,23-Jun-17,POT4,RT3,16,Araceae,Philodendron grandipes,glabrous,1,no,no,935-937,,521.243,530.835,232.565
+MET,23-Jun-17,POT4,RT3,18,Tectariaceae,Tectaria sp.,spores,0,no,yes(ants),939,,208.862,93.423,214.225
+MET,23-Jun-17,POT4,RT3,20,Araceae,Philodendron grandipes,glabrous,0,no,no,"949, 950, 952",,733.335,628.501,481.42
+MET,23-Jun-17,POT4,RT3,22,Gesneriaceae,Beseleria pauciflora,hairy,1,no,no,946-948,,57.966,60.662,56.387
+MET,23-Jun-17,POT4,RT3,24,Gesneriaceae,Beseleria pauciflora,hairy,0,no,no,953-955,,35.036,38.364,62.46
+MET,23-Jun-17,POT4,RT3,26,Tectariaceae,Tectaria sp.,spores,0,no,no,960-962,,126.48,172.833,77.505
+MET,23-Jun-17,POT4,RT3,28,Araceae,Philodendron grandipes,glabrous,1,no,yes(spider),963-965,,218.055,276.951,211.963
+MET,23-Jun-17,POT4,RT3,30,Acanthaceae,Odontonema cuspidatum,hairy,0,no,no,966-968,,77.455,45.446,29.812
+MET,23-Jun-17,POT4,RT3,32,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,973,,11.055,10.661,11.667
+MET,23-Jun-17,POT4,RT3,34,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,974,,6.876,5.876,5.825
+MET,23-Jun-17,POT4,RT3,36,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,975,,9.796,9.611,8.851
+MET,23-Jun-17,POT4,RT3,38,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,976,,15.601,17.889,13.658
+MET,23-Jun-17,POT4,RT3,40,Melastomataceae,Clidemia discolor,hairy,0,no,no,"977, 978, 981",,222.873,231.353,139.216
+MET,23-Jun-17,POT4,RT3,42,Fabaceae,Pentaclethra macroloba,glabrous,0,yes,no,982,,9.776,10.981,11.529
+MET,23-Jun-17,POT4,RT3,44,Melastomataceae,Clidemia hammelii,hairy,0,no,yes(ants),"983, 984, 986",,95.915,98.248,146.494
+MET,23-Jun-17,POT4,RT3,46,Helypteridaceae,,spores,1,no,no,987,,67.215,81.569,81.234
+MET,23-Jun-17,POT4,RT3,48,Cyclanthaceae,Cyclanthus bipartitus,glabrous,0,no,no,"990, 991, 993",,2387.087,859.763,1241.072
+MET,23-Jun-17,POT4,RT3,50,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,988-989,,140.292,135.043,156.156
+MET,26-Jun-17,POT4,RT1,2,Araceae,Philodendron sp.,glabrous,0,no,yes(ants),1065-1067,,95.184,72.306,68.655
+MET,26-Jun-17,POT4,RT1,4,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,,,,,
+MET,26-Jun-17,POT4,RT1,6,Araceae,Philodendron sp.,glabrous,0,no,no,"1068, 70, 71",,76.936,125.593,77.903
+MET,26-Jun-17,POT4,RT1,8,Cyathaceae,,spores,0,no,no,1072,,5.954,6.771,6.304
+MET,26-Jun-17,POT4,RT1,10,Heliconiaceae,Heliconia irrasa,glabrous,3,no,no,1073-1075,,141.73,113.53,211.93
+MET,26-Jun-17,POT4,RT1,12,Apocynaceae,Tabernaemontana amygdalifolia,glabrous,0,no,no,"1077-1079, 1081",,51.353,39.201,35.555
+MET,26-Jun-17,POT4,RT1,14,Araceae,Anthurium ochanthum,glabrous,0,no,no,1082-1084,,48.603,39.174,58.627
+MET,26-Jun-17,POT4,RT1,16,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,"1085-86, 1088",,185.973,130.981,105.867
+MET,26-Jun-17,POT4,RT1,18,Marantaceae,Geoppertia inocephala,glabrous,1,no,no,1089-1092,,905.86,2860.871,1584.975
+MET,26-Jun-17,POT4,RT1,20,Araceae,Anthurium ochanthum,glabrous,0,no,no,1093-1095,,1252.785,1491.351,1534.59
+MET,26-Jun-17,POT4,RT1,22,Marantaceae,Goeppertia leucostachys,glabrous,0,no,no,1096-1099,,327.311,253.709,262.538
+MET,26-Jun-17,POT4,RT1,24,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,1100,,9.313,7.684,7.739
+MET,26-Jun-17,POT4,RT1,26,Piperaceae,Piper pseudobumbratum,glabrous,0,yes,no,"1101, 1102, 1104",,149.923,321.062,118.535
+MET,26-Jun-17,POT4,RT1,28,Hernandiaceae,Hernandia didymantha,glabrous,0,no,no,1108-1110,,267.583,318.002,256.793
+MET,26-Jun-17,POT4,RT1,30,Araceae,Philodendron grandipes,glabrous,1,no,no,1111-1113,,568.295,638.107,518.271
+MET,26-Jun-17,POT4,RT1,32,Araceae,Philodendron grandipes,glabrous,0,no,no,1115-1117,,639.048,650.525,578.69
+MET,26-Jun-17,POT4,RT1,34,Fabaceae,Pentaclethra macroloba,glabrous,0,yes,no,no photo?,,,,
+MET,26-Jun-17,POT4,RT1,36,Araceae,,glabrous,0,no,no,1118-1120,,46.602,33.895,53.864
+MET,26-Jun-17,POT4,RT1,38,Araceae,,glabrous,0,no,no,"1121, 1123, 1125",,84.083,129.517,133.169
+MET,26-Jun-17,POT4,RT1,40,Piperaceae,Piper urostachyum,hairy,0,no,no,1126,,319.969,193.87,220.828
+MET,26-Jun-17,POT4,RT1,42,Rubiaceae,Hippotis panamensis,hairy,0,no,no,1128-1130,,320.988,277.908,194.341
+MET,26-Jun-17,POT4,RT1,44,Araceae,Philodendron grandipes,glabrous,1,no,no,1131-1133,,482.223,405.29,458.45
+MET,26-Jun-17,POT4,RT1,46,Araceae,,glabrous,0,no,no,1139-1141,,237.512,398.515,234.703
+MET,26-Jun-17,POT4,RT1,48,Araceae,,glabrous,1,no,no,1142-1144,,60.496,59.935,78.37
+MET,26-Jun-17,POT4,RT1,50,Marantaceae,Geoppertia inocephala,glabrous,0,no,no,1147-1149,,411.505,454.813,499.118

@@ -1,0 +1,51 @@
+who,date,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3
+MET,5-Jul-17,POT8,RT1,2,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,1512-1514,,102.732,124.822,113.528
+MET,5-Jul-17,POT9,RT1,4,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,1515-1517,,82.747,54.407,46.878
+MET,5-Jul-17,POT10,RT1,6,Euphorbiaceae,Acalypha diversifolia,glabrous,1,no,no,1518-1520,,113.802,61.63,90.479
+MET,5-Jul-17,POT11,RT1,8,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,1521-1523,,9.89,6.847,8.665
+MET,5-Jul-17,POT12,RT1,10,Lomariopsis,Cyclopeltis semicordata,glabrous,0,no,no,1524-1525,,1.298,1.38,1.022
+MET,5-Jul-17,POT13,RT1,12,Araceae,Alocasia macrorrhizos,glabrous,0,no,no,1526-1529,,661.912,743.844,525.862
+MET,5-Jul-17,POT14,RT1,14,Araceae,Alocasia macrorrhizos,glabrous,0,no,no,1530-1532,,620.243,1267.286,689.722
+MET,5-Jul-17,POT15,RT1,16,Araceae,Alocasia macrorrhizos,glabrous,0,no,no,1533-1535,,812.112,634.729,1013.568
+MET,5-Jul-17,POT16,RT1,18,Poaceae,,glabrous,0,no,no,1536-1537,,57.37,44.987,59.275
+MET,5-Jul-17,POT17,RT1,20,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,"tree too tall, same species as photos 1521-1523 - should be extra leaves in photos to use",,10.986,8.548,10.871
+MET,5-Jul-17,POT18,RT1,22,Melastomataceae,Conostegia micrantha,hairy,0,no,no,1538-1540,,106.504,82.214,115
+MET,5-Jul-17,POT19,RT1,24,Thelypteridaceae,,glabrous,0,no,no,1541-1542,,6.445,6.402,5.449
+MET,5-Jul-17,POT20,RT1,26,Araceae,,glabrous,0,no,no,1543-1546,,116.878,143.308,30.518
+MET,5-Jul-17,POT21,RT1,28,Lomariopsis,,glabrous,0,no,no,1547-1548,,7.783,7.239,5.26
+MET,5-Jul-17,POT22,RT1,30,Tectariaceae,Tectaria sp.,spores,0,no,no,1549,,111.736,92.614,76.948
+MET,5-Jul-17,POT23,RT1,32,Araceae,,glabrous,0,no,no,1550-1554,,197.936,182.915,245.744
+MET,5-Jul-17,POT24,RT1,34,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,1521-1523,,8.676,9.388,7.935
+MET,5-Jul-17,POT25,RT1,36,Tectariaceae,Tectaria sp.,spores,0,no,no,1555,,91.767,69.705,47.366
+MET,5-Jul-17,POT26,RT1,38,Melastomataceae,Leandra dichotoma,hairy,0,no,no,1556-1558,,196.269,106.02,136.763
+MET,5-Jul-17,POT27,RT1,40,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,1559,,9.846,11.089,11.31
+MET,5-Jul-17,POT28,RT1,42,Thelypteridaceae,,spores,0,no,no,1560-1561,,24.064,19.47,25.479
+MET,5-Jul-17,POT29,RT1,44,Fabaceae,Inga ruiziana,hairy,0,no,no,1562,,38.161,42.137,43.226
+MET,5-Jul-17,POT30,RT1,46,Fabaceae,Inga ruiziana,hairy,0,no,no,1563-1564,,68.488,54.299,51.255
+MET,5-Jul-17,POT31,RT1,48,Zingeberaceae,Hedychium coronarium,hairy,3,no,no,1565-1569,,23.098,30.223,14.212
+MET,5-Jul-17,POT32,RT1,50,Fabaceae,Inga ruiziana,hairy,0,no,no,1570-1572,,37.261,27.351,19.295
+MET,5-Jul-17,POT33,RT2,2,Melastomataceae,Miconia impetiolaris,hairy,0,no,no,1573-1575,,340.477,551.136,318.163
+MET,5-Jul-17,POT34,RT2,4,Rubiaceae,Odontonema tubaeforme,glabrous,0,no,no,1576-1579,,64.367,69.947,46.674
+MET,5-Jul-17,POT35,RT2,6,Fabaceae,Zygia longifolia,glabrous,0,no,no,1580-1582,,27.302,37.428,23.915
+MET,5-Jul-17,POT36,RT2,8,Piperaceae,Piper sp.D,hairy,0,no,no,1583-1585,,83.243,77.11,75.389
+MET,5-Jul-17,POT37,RT2,10,Thelypteridaceae,,spores,0,no,no,1586,,2.556,2.582,2.191
+MET,5-Jul-17,POT38,RT2,12,Melastomataceae,Clidenia hirta,hairy,3,no,no,1587-1592,,62.828,43.15,61.254
+MET,5-Jul-17,POT39,RT2,14,Urticaceae,Ortiga sp.,hairy,0,no,no,1594-1596,,779.662,749.494,319.98
+MET,5-Jul-17,POT40,RT2,16,Burseraceae,Protium panemense,glabrous,0,no,no,1597-1599,,,,
+MET,5-Jul-17,POT41,RT2,18,Burseraceae,Protium panemense,glabrous,0,no,no,1597-1599,,,,
+MET,5-Jul-17,POT42,RT2,20,Fabaceae,Inga oerstediana,hairy,2,no,ants,1601-1604,,224.534,120.116,98.343
+MET,5-Jul-17,POT43,RT2,22,Araceae,,glabrous,0,no,no,1605-1607,,694.951,624.823,627.847
+MET,5-Jul-17,POT44,RT2,24,Urticaceae,Ortiga sp. ,hairy,0,no,no,1608-1610,,264.157,482.784,456.91
+MET,5-Jul-17,POT45,RT2,26,Melastomataceae,Miconia impetiolaris,hairy,0,no,no,1611-1613,,580.377,185.595,544.152
+MET,5-Jul-17,POT46,RT2,28,Thelypteridaceae,,spores,0,no,no,1614,,33.788,26.409,18.674
+MET,5-Jul-17,POT47,RT2,30,Thelypteridaceae,,spores,0,no,ants,1615,,1.79,2.046,2.03
+MET,5-Jul-17,POT48,RT2,32,Fabaceae,Zygia longifolia,glabrous,0,no,no,1616-1617,,19.228,19.386,17.379
+MET,5-Jul-17,POT49,RT2,34,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,1618,,34.286,33.152,31.892
+MET,5-Jul-17,POT50,RT2,36,Fabaceae,Zygia longifolia,glabrous,1,yes,no,1619,,12.793,9.104,3.283
+MET,5-Jul-17,POT51,RT2,38,Fabaceae,Zygia longifolia,glabrous,1,yes,no,1619,,12.681,9.605,13.308
+MET,5-Jul-17,POT52,RT2,40,Fabaceae,Zygia longifolia,glabrous,0,yes,no,1620,,29.409,22.575,32.576
+MET,5-Jul-17,POT53,RT2,42,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,tree too tall  ,,0.113,0.113,0.113
+MET,5-Jul-17,POT54,RT2,44,Cyclanthaceae,Carludovica sulcata,glabrous,0,no,no,1621,,,,
+MET,5-Jul-17,POT55,RT2,46,Piperaceae,Piper culebrenum,hairy,0,no,no,1622-1624,,133.687,137.421,91.743
+MET,5-Jul-17,POT56,RT2,48,Moraceae,Ficus crassivenosa,glabrous,0,no,no,1625,,,,
+MET,5-Jul-17,POT57,RT2,50,Fabaceae,Inga oerstediana,hairy,0,no,no,1626-1628,,178.452,286.982,96.431

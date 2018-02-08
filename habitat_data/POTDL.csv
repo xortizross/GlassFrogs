@@ -1,0 +1,53 @@
+who,date,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3
+XOR,19-Jun,POTDL,RT1,0,Fabaceae,Inga ruiziana,hairy,1,no,,761-763,,69.091,100.197,168.903
+XOR,19-Jun,POTDL,RT1,2,Maranraceae,Goeppertia donnell-smithii,glabrous,0,no,,764-766,,593.057,379.567,312.883
+XOR,19-Jun,POTDL,RT1,4,Fabaceae,Inga ruiziana,hairy,0,no,,768-770,,63.499,94.204,63.587
+XOR,19-Jun,POTDL,RT1,6,Poeceae,,hairy,0,no,,771,,10.809,8.321,16.897
+XOR,19-Jun,POTDL,RT1,8,Maranraceae,Goeppertia donnell-smithii,glabrous,2,no,,772-774,,149.342,416.785,43.884
+XOR,19-Jun,POTDL,RT1,10,Poeceae,,hairy,0,no,,775,,12.414,11.933,9.599
+XOR,19-Jun,POTDL,RT1,12,Poeceae,,hairy,0,no,,777,,9.197,4.2,3.286
+XOR,19-Jun,POTDL,RT1,14,Poeceae,,hairy,0,no,,779,,3.632,7.727,8.325
+XOR,19-Jun,POTDL,RT1,16,Poeceae,,hairy,0,no,,781,,10.924,11.871,9.272
+XOR,19-Jun,POTDL,RT1,18,Poeceae,,hairy,0,no,,785-786,,6.71,8.299,5.798
+XOR,19-Jun,POTDL,RT1,20,Amarantaceae,Cyathula achyranthoides,glabrous,0,no,,782-784,,46.274,41.922,45.925
+XOR,19-Jun,POTDL,RT1,22,Tectariaceae,Tectaria sp.,glabrous,0,no,,787,,70.652,25.163,37.477
+XOR,19-Jun,POTDL,RT1,24,Tectariaceae,Tectaria sp.,glabrous,0,no,,788,,47.384,26.078,11.239
+XOR,19-Jun,POTDL,RT1,26,Poeceae,,hairy,0,no,,789,,6.996,8.335,10.403
+XOR,19-Jun,POTDL,RT1,28,Amarantaceae,Chamissoa altissima,hairy,0,no,,790,,22.368,29.745,20.342
+XOR,19-Jun,POTDL,RT1,30,Maranraceae,Goeppertia donnell-smithii,glabrous,0,no,,791-793,,334.289,316.589,84.131
+XOR,19-Jun,POTDL,RT1,32,Poeceae,,hairy,0,no,,795-797,,95.582,154.138,42.515
+XOR,19-Jun,POTDL,RT1,34,Poeceae,,hairy,0,no,,798,,12.159,15.056,9.339
+XOR,19-Jun,POTDL,RT1,36,Urticaceae,Coussapoa villosa,hairy,0,no,,799-801,,77.77,141.487,146.526
+XOR,19-Jun,POTDL,RT1,38,Poeceae,,hairy,0,no,,802,,9.775,10.425,8.977
+XOR,19-Jun,POTDL,RT1,40,Musaceae,Musa sp.,glabrous,0,no,,804-806 (803 for ID),,790.584,985.23,1070.4
+XOR,19-Jun,POTDL,RT1,42,Fabaceae,Pterocarpus officinalis,glabrous,0,no,,807,,48.918,78.676,64.825
+XOR,19-Jun,POTDL,RT1,44,Fabaceae,Pterocarpus officinalis,glabrous,0,no,,814,,48.263,42.151,48.291
+XOR,19-Jun,POTDL,RT1,46,Fabaceae,Pterocarpus officinalis,glabrous,0,no,,815,,53.592,49.425,32.586
+XOR,19-Jun,POTDL,RT1,48,Tectariaceae,Tectaria sp.,glabrous,0,no,,816,,35.771,24.42,18.869
+XOR,19-Jun,POTDL,RT1,50,Pteridaceae,Adiantum sp.,glabrous,0,no,,817,,2.159,2.83,2.733
+MET,20-Jul-17,POTDL,RT3,0,Fabaceae,,glabrous,0,no,0,2371,,8.883,10,6.289
+MET,20-Jul-17,POTDL,RT3,2,Poaceae,,hairy,0,no,0,2372,,82.252,81.787,33.188
+MET,20-Jul-17,POTDL,RT3,4,Poaceae,,hairy,0,no,0,2373,,64.903,76.083,117.127
+MET,20-Jul-17,POTDL,RT3,6,Poaceae,,hairy,0,no,0,2374,,115.873,97.373,117.983
+MET,20-Jul-17,POTDL,RT3,8,Poaceae,,hairy,0,no,0,2375,,69.42,67.079,44.818
+MET,20-Jul-17,POTDL,RT3,10,Poaceae,,hairy,0,no,0,2376,,69.381,66.272,50.502
+MET,20-Jul-17,POTDL,RT3,12,Poaceae,,hairy,0,no,0,2377,,50.81,23.178,102.035
+MET,20-Jul-17,POTDL,RT3,14,Poaceae,,hairy,0,no,0,2378,,75.871,61.469,50.65
+MET,20-Jul-17,POTDL,RT3,16,Poaceae,,hairy,0,no,0,2379,,51.454,101.829,56.85
+MET,20-Jul-17,POTDL,RT3,18,Poaceae,,hairy,0,no,0,2380,,39.828,12.028,8.306
+MET,20-Jul-17,POTDL,RT3,20,Poaceae,,hairy,0,no,0,2381,,85.951,80.798,63.01
+MET,20-Jul-17,POTDL,RT3,22,Poaceae,,hairy,0,no,0,2382,,110.242,35.798,60.296
+MET,20-Jul-17,POTDL,RT3,24,Poaceae,,hairy,0,no,0,2383,,84.248,60.41,83.525
+MET,20-Jul-17,POTDL,RT3,26,Poaceae,,hairy,0,no,0,2384,,120.878,117.239,74.165
+MET,20-Jul-17,POTDL,RT3,28,Poaceae,,hairy,0,no,0,2385,,66.483,79.563,50.827
+MET,20-Jul-17,POTDL,RT3,30,Poaceae,,hairy,0,no,0,2386,,83.632,66.461,113.313
+MET,20-Jul-17,POTDL,RT3,32,Urticaceae,Coussapoa villosa,hairy,0,no,0,2387,,82.184,149.906,65.15
+MET,20-Jul-17,POTDL,RT3,34,Urticaceae,Coussapoa villosa,hairy,0,no,0,2388-2389,,222.465,148.224,118.291
+MET,20-Jul-17,POTDL,RT3,36,Urticaceae,Coussapoa villosa,hairy,0,no,0,2390,,112.836,151.329,100.77
+MET,20-Jul-17,POTDL,RT3,38,Poaceae,,hairy,0,no,0,2391,,109.875,72.75,156.206
+MET,20-Jul-17,POTDL,RT3,40,Poaceae,,hairy,0,no,0,2392,,79.912,106.774,40.226
+MET,20-Jul-17,POTDL,RT3,42,Poaceae,,hairy,0,no,0,2393,,113.095,69.918,126.114
+MET,20-Jul-17,POTDL,RT3,44,Poaceae,,hairy,0,no,0,2394,,42.668,55.963,57.721
+MET,20-Jul-17,POTDL,RT3,46,Poaceae,,hairy,0,no,0,2395,,10.94,50.682,35.981
+MET,20-Jul-17,POTDL,RT3,48,Poaceae,,hairy,0,no,0,2396,,104.282,84.265,42.171
+MET,20-Jul-17,POTDL,RT3,50,Poaceae,,hairy,0,no,0,2397,,68.448,67.758,104.684

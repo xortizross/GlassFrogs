@@ -1,0 +1,51 @@
+who,date,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3
+MET,30-Jun-17,P13,RT2,2,Marantaceae,,glabrous,0,no,no,1420-1423,,606.864,510.123,591.252
+MET,30-Jun-17,P13,RT2,4,Rubiaceae,Faramea suerrensis,glabrous,0,no,no,1424,,44.332,95.062,76.933
+MET,30-Jun-17,P13,RT2,6,Marantaceae,Geoppertia inocephala,glabrous,0,no,ants,1427-1430,,2457.944,3096.365,845.307
+MET,30-Jun-17,P13,RT2,8,Araceae,,glabrous,0,no,no,1431-1433,,69.384,76.331,109.412
+MET,30-Jun-17,P13,RT2,10,Arecaceae,Prestobea decurrens,glabrous,0,no,no,1434-1435,,57.475,57.837,59.448
+MET,30-Jun-17,P13,RT2,12,Araceae,,glabrous,0,no,no,1436-1438,,69.69,73.862,74.956
+MET,30-Jun-17,P13,RT2,14,Arecaceae,Prestobea decurrens,glabrous,0,no,ants,1439-1441,,83.086,73.254,63.432
+MET,30-Jun-17,P13,RT2,16,Rubiaceae,Psychotia ilata,glabrous,0,no,no,1442-1445,,84.037,56.459,97.969
+MET,30-Jun-17,P13,RT2,18,Arecaceae,Astrogenia marteana,glabrous,0,no,no,1446-1449,,872.133,819.388,851.279
+MET,30-Jun-17,P13,RT2,20,Melastomataceae,Henriettea tuberculosa,glandular,0,no,no,1450-1452,,21.478,20.888,44.567
+MET,30-Jun-17,P13,RT2,22,Malvaceae,Herrania purpurea,glabrous,0,no,no,1453-1457,,74.836,145.81,183.402
+MET,30-Jun-17,P13,RT2,24,Araceae,,glabrous,0,no,no,1458-1460,,68.797,70.92,88.11
+MET,30-Jun-17,P13,RT2,26,Araceae,Spathaphyllum sp. ,glabrous,0,no,no,1461-1463,,309.938,305.864,420.191
+MET,30-Jun-17,P13,RT2,28,Acanthaceae,,glabrous,0,no,no,1464-1468,,16.547,18.223,24.614
+MET,30-Jun-17,P13,RT2,30,Melastomataceae,Henriettea tuberculosa,glandular,0,no,no,1469-1471,,27.47,23.039,23.629
+MET,30-Jun-17,P13,RT2,32,Bignoniaceae,Tanaecium pyramidatum,glabrous,0,no,no,1473-1477,,44.577,48.036,37.428
+MET,30-Jun-17,P13,RT2,34,Araceae,Philodendron grandipes,glabrous,0,no,no,1478-1481,,415.577,415.597,328.072
+MET,30-Jun-17,P13,RT2,36,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1483-1485,,92.231,119.447,71.469
+MET,30-Jun-17,P13,RT2,38,Bignoniaceae,Tanaecium pyramidatum,glabrous,0,no,no,1486-1491,,38.04,35.897,28.812
+MET,30-Jun-17,P13,RT2,40,Costaceae,,glabrous,0,no,no,1493-1494,,119.41,171.291,56.788
+MET,30-Jun-17,P13,RT2,42,Piperaceae,Piper decurrens,glabrous,0,no,no,1495-1496,,22.575,36.255,27.42
+MET,30-Jun-17,P13,RT2,44,Rubiaceae,Chione venosa,glabrous,0,no,no,1497-1501,,92.293,74.074,106.462
+MET,30-Jun-17,P13,RT2,46,Arecaceae,Prestobea decurrens,glabrous,0,no,no,1502-1504,,34.976,56.047,12.782
+MET,30-Jun-17,P13,RT2,48,Araceae,Spathaphyllum sp. ,glabrous,0,no,no,1506-1508,,157.596,136.578,242.356
+MET,30-Jun-17,P13,RT2,50,Araceae,longevaginata,glabrous,1,no,no,,,96.976,132.965,52.977
+MET,21-Jul-17,P13,RT3,2,Piperaceae,Piper sp. ,glabrous,0,no,no,"2399, 2400-2401",,219.778,206.852,141.872
+MET,21-Jul-17,P13,RT3,4,Piperaceae,Piper sp. ,hairy,0,no,no,2402,,91.723,89.898,90.348
+MET,21-Jul-17,P13,RT3,6,Marantaceae ,Geonoma longevaginata,glabrous,0,no,no,2403-2406,,356.654,189.023,177.352
+MET,21-Jul-17,P13,RT3,8,Araceae,,glabrous,0,no,no,2407,,35.748,47.484,47.817
+MET,21-Jul-17,P13,RT3,10,Araliaceae,Dendropanax arboreus,glabrous,1,no,no,too tall,,,,
+MET,21-Jul-17,P13,RT3,12,Araceae,,glabrous,0,no,no,2408,,42.103,63.682,53.115
+MET,21-Jul-17,P13,RT3,14,Araceae,,glabrous,0,no,no,2409-2410,,39.949,70.273,50.982
+MET,21-Jul-17,P13,RT3,16,Fabaceae,,glabrous,0,no,no,too tall,,,,
+MET,21-Jul-17,P13,RT3,18,Poaceae,,hairy,0,no,no,2411,,33.118,31.194,38.552
+MET,21-Jul-17,P13,RT3,20,Arecaceae,Prestobea decurrens,glabrous,0,no,no,2412-2413,,38.581,28.291,25.104
+MET,21-Jul-17,P13,RT3,22,Apocynaceae,Tabernaemontana arborea,glabrous,0,no,no,2415-2417,,376.104,,
+MET,21-Jul-17,P13,RT3,24,Thelypteridaceae,Thelypteris sp. ,glabrous,0,no,no,2419,,10.762,5.887,3.143
+MET,21-Jul-17,P13,RT3,26,Unknown,,,0,no,no,2420 (too tall or same as below?),,,,
+MET,21-Jul-17,P13,RT3,28,Olacaceae,Minquartia guianensis,glabrous,0,no,no,2421-2423,,79.518,73.037,62.136
+MET,21-Jul-17,P13,RT3,30,Araceae,Spathaphyllum sp. ,glabrous,0,no,no,2424-2426,,343.384,286.219,201.024
+MET,21-Jul-17,P13,RT3,32,Araceae,,glabrous,0,no,no,2427-2429,,101.397,89.199,107.703
+MET,21-Jul-17,P13,RT3,34,Sapindaceae,Allophylus psilospermus,glabrous,0,no,no,2430-2431,,57.299,91.907,51.028
+MET,21-Jul-17,P13,RT3,36,Melastomataceae,Miconia appendiculata,glabrous,0,no,no,2432-2434,,108.798,73.9,63.823
+MET,21-Jul-17,P13,RT3,38,Melastomataceae,Miconia gracilis,glabrous,0,no,no,2435,,74.343,150.883,206.536
+MET,21-Jul-17,P13,RT3,40,Heliconiaceae,Heliconia irrasa,glabrous,0,no,no,2436-2437,,546.581,438.236,360.394
+MET,21-Jul-17,P13,RT3,42,Piperaceae,Piper colonense,hairy,0,yes,no,2438-2440,,20.908,22.031,42.518
+MET,21-Jul-17,P13,RT3,44,Cyclanthaceae,,glabrous,0,no,no,2441-2443,,317.144,260.922,206.405
+MET,21-Jul-17,P13,RT3,46,Helypteridaceae,,spores,0,no,no,2444,,20.824,26.83,27.222
+MET,21-Jul-17,P13,RT3,48,Araceae,Philodendron sp. ,glabrous,0,no,no,2445-2447,,11.18,15.324,7.26
+MET,21-Jul-17,P13,RT3,50,Siparunaceae,Siparuna pauciflora,hairy,0,no,no,2448-2455,,74.277,49.636,37.743

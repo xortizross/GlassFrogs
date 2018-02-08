@@ -1,0 +1,51 @@
+who,date,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3
+MET,20-Jul-17,P1,RT2,2,Araceae,Philodendron sp.,glabrous,2,no,no,2275,,22.779,14.557,18.619
+MET,20-Jul-17,P1,RT2,4,Clusiaceae,Symphonia globulifera,glabrous,0,no,no,2277,,53.528,35.284,19.646
+MET,20-Jul-17,P1,RT2,6,Piperaceae,Piper paulowniifolium,hairy,0,no,no,2278-2280,,425.167,739.584,292.407
+MET,20-Jul-17,P1,RT2,8,Acanthaceae,Bravaisia integerrima,hairy,0,no,no,2281,,105.088,100.545,56.757
+MET,20-Jul-17,P1,RT2,10,Thelypteridaceae,Thelypteris sp. ,glabrous,0,no,no,2282,,6.622,7.407,7.317
+MET,20-Jul-17,P1,RT2,12,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,2283-2284,,67.072,61.321,37.445
+MET,20-Jul-17,P1,RT2,14,Costaceae,Costus sp. ,glabrous,0,no,no,2285-2286,,102.135,64.363,103.463
+MET,20-Jul-17,P1,RT2,16,Acanthaceae,Bravaisia integerrima,hairy,0,no,no,2287-2289,,90.333,151.098,115.424
+MET,20-Jul-17,P1,RT2,18,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,2290,,46.102,66.378,103.14
+MET,20-Jul-17,P1,RT2,20,Acanthaceae,Bravaisia integerrima,hairy,0,no,no,2291,,291.071,152.764,127.601
+MET,20-Jul-17,P1,RT2,22,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,2292,,5.681,7.197,7.973
+MET,20-Jul-17,P1,RT2,24,Heliconiaceae,Heliconia imbricata,glabrous,0,no,no,"2293, 2294, 2296",,745.495,797.802,1402.494
+MET,20-Jul-17,P1,RT2,26,Heliconiaceae,Heliconia imbricata,glabrous,0,no,no,"2297, 98, 2301",,444.518,407.89,298.471
+MET,20-Jul-17,P1,RT2,28,Melastomataceae,Miconia affinis,hairy,0,no,no,2302,,59.743,25.616,29.026
+MET,20-Jul-17,P1,RT2,30,Araceae,,glabrous,0,no,no,2303,,56.911,129.312,76.976
+MET,20-Jul-17,P1,RT2,32,Thelypteridaceae,Thelypteris sp. ,glabrous,0,no,no,2305,,4.978,6.552,7.062
+MET,20-Jul-17,P1,RT2,34,Salicaceae,Pleuranthodendron linderii,hairy,0,no,no,2306-2308,,128.505,146.428,121.815
+MET,20-Jul-17,P1,RT2,36,Araceae,Philodendron sp.,glabrous,0,no,no,2309-2311,,319.625,171.158,81.162
+MET,20-Jul-17,P1,RT2,38,Begoniaceae,Begonia semiovata,glabrous,0,no,no,2312,,7.51,14.242,11.468
+MET,20-Jul-17,P1,RT2,40,Piperaceae,Piper urophyllum,glabrous,0,no,no,2313,,28.51,32.155,33.095
+MET,20-Jul-17,P1,RT2,42,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,2314-2316,,313.105,76.862,200.666
+MET,20-Jul-17,P1,RT2,44,Araceae,Philodendron sp.,glabrous,0,no,no,2317-2319,,75.768,40.312,47.709
+MET,20-Jul-17,P1,RT2,46,Thelypteridaceae,Thelypteris sp. ,glabrous,0,no,no,2321,,6.328,6.323,7.763
+MET,20-Jul-17,P1,RT2,48,Piperaceae,Piper sp. ,hairy,0,no,no,2322,,248.416,126.611,249.326
+MET,20-Jul-17,P1,RT2,50,Piperaceae,Piper urophyllum,glabrous,0,no,no,2323,,47.338,23.209,42.051
+MET,20-Jul-17,P1,RT1,2,Melastomataceae,Henriettella tuberculosa,glandular,0,no,no,2324,,16.692,24.46,41.307
+MET,20-Jul-17,P1,RT1,4,Arecaceae,Geonoma interupta,glabrous,0,no,no,2325,,464.867,353.606,218.214
+MET,20-Jul-17,P1,RT1,6,Elaeocarpaceae,Sloanea geniculata,hairy,0,yes,no,2326,,151.387,95.602,270.361
+MET,20-Jul-17,P1,RT1,8,Moraceae,Sorocea pubivena,hairy,0,no,no,2327,,55.89,62.799,83.537
+MET,20-Jul-17,P1,RT1,10,Marattiaceae,,glabrous,0,no,no,2329,,3.283,3.734,3.38
+MET,20-Jul-17,P1,RT1,12,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,spider,2330-2332,,221.307,135.934,114.116
+MET,20-Jul-17,P1,RT1,14,Piperaceae,Piper urophyllum,glabrous,0,no,no,2335,,36.155,25.357,36.063
+MET,20-Jul-17,P1,RT1,16,Fabaceae,Mimosa watsonii,glabrous,0,no,no,2333,,81.808,69.07,84.312
+MET,20-Jul-17,P1,RT1,18,Piperaceae,Piper urophyllum,glabrous,0,no,no,2338,,36.41,25.772,37.159
+MET,20-Jul-17,P1,RT1,20,Piperaceae,Piper urophyllum,glabrous,0,no,no,2339,,29.866,39.388,35.29
+MET,20-Jul-17,P1,RT1,22,Marcgraviaceae,Marcglavia nepenthoides,glabrous,0,no,no,2341,,121.866,50.019,54.887
+MET,20-Jul-17,P1,RT1,24,Thelypteridaceae,,glabrous,0,no,no,2342,,12.706,9.702,5.709
+MET,20-Jul-17,P1,RT1,26,Thelypteridaceae,,glabrous,0,no,no,2344,,70.406,64.941,61.086
+MET,20-Jul-17,P1,RT1,28,Arecaceae,Geonoma interupta,glabrous,0,no,no,2346-2347,,315.737,188.148,286.815
+MET,20-Jul-17,P1,RT1,30,Urticaceae,Myriocarpa longipes,hairy,0,no,no,2348-2349,,142.864,310.352,119.02
+MET,20-Jul-17,P1,RT1,32,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,2350,,36.447,27.418,25.066
+MET,20-Jul-17,P1,RT1,34,Tectariaceae,Tectaria sp.,spores,0,no,no,2351,,181.489,72.529,63.126
+MET,20-Jul-17,P1,RT1,36,Melastomataceae,Miconia affinis,glabrous,0,no,ants,2352-2356,,10.521,10.559,11.113
+MET,20-Jul-17,P1,RT1,38,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,2357,,18.887,13.85,6.912
+MET,20-Jul-17,P1,RT1,40,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,2358-2359,,24.455,41.359,70.667
+MET,20-Jul-17,P1,RT1,42,Araceae,Rhodospatha wendlandii,glabrous,0,no,no,2360-2362,,110.141,122.4,23.193
+MET,20-Jul-17,P1,RT1,44,Araceae,Rhodospatha wendlandii,glabrous,0,no,no,2363-2365,,96.608,89.077,85.728
+MET,20-Jul-17,P1,RT1,46,Solaneaceae,Solanum arboreum,glabrous,0,no,no,2367-2368,,93.32,66.712,78.999
+MET,20-Jul-17,P1,RT1,48,Cannabaceae,Celtis iguanaca,glabrous,0,no,no,2369,,21.287,24.669,30.809
+MET,20-Jul-17,P1,RT1,50,Fabaceae,Inga oestediana,hairy,0,no,no,2370,,69.341,61.85,60.598

@@ -1,0 +1,50 @@
+who,date,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3
+MET,11-Jul-17,P5,RT2,2,Melastomataceae,Micronia nerviosa,hairy,1,no,no,1860-1862,,178.081,317.144,151.849
+MET,11-Jul-17,P5,RT2,4,Araceae,Spathaphyllum sp. ,glabrous,1,no,no,1863-1865,,384.494,367.89,343.971
+MET,11-Jul-17,P5,RT2,6,Violaceae,Gloeospermum diversipetalum,,1,no,no,1866-1868,,107.113,53.176,51.752
+MET,11-Jul-17,P5,RT2,8,Arecaceae,Astrogenea marteana,glabrous,1,no,no,1870-1872,,924.53,1205.148,455.996
+MET,11-Jul-17,P5,RT2,10,Lauraceae,Ocotea dendrodaphne,glabrous,1,no,no,1873-1875,,133.681,91.188,162.685
+MET,11-Jul-17,P5,RT2,12,Melastomataceae,Henriettea tuberculosa,glandular,1,no,no,1876-1878,,40.247,48.602,36.746
+MET,11-Jul-17,P5,RT2,14,Arecaceae,Astrogenea marteana,glabrous,2,no,no,1879-1881,,764.836,641.851,1328.634
+MET,11-Jul-17,P5,RT2,16,Arecaceae,Astrogenea marteana,glabrous,1,no,no,1882-1884,,1776.186,couldn't see measurement,1363.639
+MET,11-Jul-17,P5,RT2,18,Lacistemataceae,Lozania pitten,glabrous,0,no,no,1885,,30.795,21.324,24.334
+MET,11-Jul-17,P5,RT2,20,Rubiaceae,Psychotis surrensis,glabrous,0,no,no,1886-88,,133.313,98.212,63.029
+MET,11-Jul-17,P5,RT2,22,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1889-191,,634.009,,
+MET,11-Jul-17,P5,RT2,24,Fabaceae,Inga alba,glabrous,0,no,no,1898-1900,,150.689,198.603,262.359
+MET,11-Jul-17,P5,RT2,26,Cyclanthaceae,,glabrous,0,no,no,1903,,3.199,4.26,2.908
+MET,11-Jul-17,P5,RT2,28,Thelidaceae,,glabrous,0,no,no,1904-1905,,24.498,9.368,24.586
+MET,11-Jul-17,P5,RT2,30,Thelidaceae,,glabrous,0,no,no,1906-1908,,270.526,250.787,406.955
+MET,11-Jul-17,P5,RT2,32,Arecaceae,,glabrous,0,no,no,1911-1913,,38.048,38.282,23.165
+MET,11-Jul-17,P5,RT2,34,Melastomataceae,Henriettea tuberculosa,glandular,1,no,no,1914,,25.682,23.081,33.363
+MET,11-Jul-17,P5,RT2,36,Salicaceae,Pleuranthodendron lindenii,glabrous,0,no,no,1915,,46.138,37.169,12.79
+MET,11-Jul-17,P5,RT2,38,Araceae,,glabrous,0,no,no,1916-1918,,129.753,75.56,73.186
+MET,11-Jul-17,P5,RT2,40,Araceae,,glabrous,0,no,no,1919-1920,,118.714,105.705,73.381
+MET,11-Jul-17,P5,RT2,42,Melastomataceae,Micronia nerviosa,hairy,0,no,no,1921-1923,,333.261,196.144,417.953
+MET,11-Jul-17,P5,RT2,44,Arecaceae,Geonoma congesta,glabrous,0,no,no,1924-1926,,489.974,181.795,271.475
+MET,11-Jul-17,P5,RT2,46,Cyclanthaceae,,glabrous,0,no,no,1927-1929,,65.606,67.875,57.538
+MET,11-Jul-17,P5,RT2,48,Costaceae,,glabrous,0,no,no,1930,,121.042,109.749,103.922
+MET,19-Jul-17,P5,RT1,2,Moraceae,Brosimum lactescens,hairy,0,yes,no,2079-2081,,66.555,39.313,61.04
+MET,19-Jul-17,P5,RT1,4,Araceae,Philodendron sp. ,glabrous,1,no,no,2082-2084,,36.665,40.63,35.654
+MET,19-Jul-17,P5,RT1,6,Violaceae,Gloeospermum diversipetalum,,0,yes,no,2085,,38.761,23.924,51.808
+MET,19-Jul-17,P5,RT1,8,Melastomataceae,rusty hairs,hairy,0,no,no,2086-2088,,139.212,198.647,122.469
+MET,19-Jul-17,P5,RT1,10,Melastomataceae,Miconia approximata,hairy,0,no,no,2089-2091,,86.984,42.77,53.998
+MET,19-Jul-17,P5,RT1,12,Araceae,,glabrous,0,no,no,"2092, 2093, 2094, 2095",,87.54,80.611,120.778
+MET,19-Jul-17,P5,RT1,14,Araceae,,glabrous,0,no,no,"2100, 2101, 2096",,710.351,308.504,192.167
+MET,19-Jul-17,P5,RT1,16,Araceae,,glabrous,0,no,no,2097-2099,,69.76,69.306,49.03
+MET,19-Jul-17,P5,RT1,18,Araliaceae,Dendropanax arboreus,glabrous,0,no,no,tree too tall use avg leaf size,,,,
+MET,19-Jul-17,P5,RT1,20,Arecaceae,Prestobea decurrens,glabrous,0,no,no,2102-2104,,40.852,42.169,36.16
+MET,19-Jul-17,P5,RT1,22,Cyclanthaceae,,glabrous,0,no,no,2106-2108,,211.802,283.191,315.135
+MET,19-Jul-17,P5,RT1,24,Malvaceae,Goethalsia meiantha,hairy,0,no,no,"2109, 2110",,83.407,72.161,92.46
+MET,19-Jul-17,P5,RT1,26,Heliconiaceae,Heliconis irrasa,glabrous,0,no,no,"2111, 2113, 2122",,330.653,394.248,222.716
+MET,19-Jul-17,P5,RT1,28,Melastomataceae,Henriettea tuberculosa,glandular,0,no,no,2114-2116,,27.651,27.404,18.325
+MET,19-Jul-17,P5,RT1,30,Cyclanthaceae,,glabrous,0,no,no,2117-2121,,267.709,182.604,299.851
+MET,19-Jul-17,P5,RT1,32,Cyclanthaceae,,glabrous,0,no,no,2123-2125,,177.114,279.789,365.371
+MET,19-Jul-17,P5,RT1,34,Rubiaceae,Dicranopygium umbrophilum,glabrous,0,no,no,2126-2128,,135.803,132.001,90.152
+MET,19-Jul-17,P5,RT1,36,Moraceae,Brosium lactensis,glabrous,0,no,no,2129,,63.896,19.645,83.493
+MET,19-Jul-17,P5,RT1,38,Moraceae,Ficus glaucescens,hairy,0,no,no,2130,,40.31,82.667,121.976
+MET,19-Jul-17,P5,RT1,40,Arecaceae,Geonoma congesta,glabrous,40,no,spider,2131-2134,,179.031,503.852,113.209
+MET,19-Jul-17,P5,RT1,42,Piperaceae,Piper concepcionis,glabrous,0,no,no,2148,,132.41,172.43,222.386
+MET,19-Jul-17,P5,RT1,44,Piperaceae,Piper concepcionis,glabrous,1,no,no,2145-2147,,112.764,123.15,132.156
+MET,19-Jul-17,P5,RT1,46,Araceae,,glabrous,1,no,no,2142-2144,,93.569,171.897,74.962
+MET,19-Jul-17,P5,RT1,48,Araceae,Spathaphyllum sp. ,glabrous,0,no,no,2139-2141,,269.694,240.472,219.741
+MET,19-Jul-17,P5,RT1,50,Costaceae,,glabrous,0,no,no,2135-2138,,51.165,47.593,35.401
