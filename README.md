@@ -1,2 +1,3 @@
 # GlassFrogs
-Data from 2018 REU at La Selva
+Data from 2017 REU at La Selva.
+Supervisor: Michelle Thompson
