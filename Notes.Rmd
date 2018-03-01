@@ -11,3 +11,9 @@ Opening a branch from RStudio: use the shell (Tools > Shell) and type git checko
 
 
 # Project
+
+
+# Workflow
+
+* Species vs. leaf area
+* Species vs. height
