@@ -1,0 +1,323 @@
+who,ID,day.night,date,site,transect,species,meter,stage,clutches,eggs,height,locn,position on leaf,dist to margin,leaf area,photos,other EM in 5m,dist to nearest othr EM,plant family,plant species,leaf surf. type,water depth,water velocity,strm subst,parent,parent position,health at first obs,leaf damage,notes
+MET,45.1,N,41930,P5,RT4,HYAVAL,NA,NA,3,NA,NA,NA,under,NA,NA,5122-5133,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,",ale and female; all ID 45 with same male",NA,NA,NA,NA
+MET,45.2,N,41930,P5,RT4,HYAVAL,NA,NA,3,NA,NA,NA,under,NA,NA,5122-5133,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,",ale and female",NA,NA,NA,NA
+MET,45.3,N,41930,P5,RT4,HYAVAL,NA,NA,3,NA,NA,NA,under,NA,NA,5122-5133,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,",ale and female",NA,NA,NA,NA
+MET,n5,N,41934,P5,RT1,ESPPRO,NA,NA,1,NA,105,over water,top,NA,NA,589-598,NA,NA,Piperaceae,Piper decurrens,glabrous,NA,NA,mud,no,NA,NA,NA,NA
+MET,n6,N,41934,P5,RT1,ESPPRO,NA,NA,1,NA,121,over water,top,NA,NA,599-603,NA,NA,Arecaceae,NA,glabrous,NA,NA,NA,NA,NA,NA,NA,bifucated leaf (palmish but not?) on all fallen trees
+MET,n7,N,41938,P5,RT2,HYAVAL,NA,NA,1,NA,167,NA,under,NA,NA,NA,NA,NA,Rhamnaceae,Colubrina spinosa,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,n8,N,41938,P5,RT2,TERSPI,50,1,1,18,140,over water,under,NA,NA,5387,NA,NA,Melastomataceae,Miconia gracilis,glabrous,32,NA,NA,no,NA,NA,damaged leaf,NA
+MET,n9,N,41938,P5,RT2,TERSPI,50,4,1,NA,110,over water,under,NA,NA,5388,NA,NA,Melastomataceae,Miconia gracilis,glabrous,NA,NA,NA,no,NA,NA,damaged leaf,NA
+MET,123,N,41954,Tir,RT3,TERSPI,NA,1,1,17,230,NA,under,0,NA,5719-5727,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,181,N,41955,Tir,RT2,TERSPI,NA,NA,1,NA,131,NA,under,NA,NA,NA,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,no,NA,NA,NA,NA
+MET,321.10000000000002,N,41967,POT4,RT1,HYAVAL,NA,2,2,39,NA,over water,under,NA,NA,6153-6165,NA,NA,Marantaceae,Geoppertia inocephala,glabrous,NA,NA,NA,"male guarding not touching, same male as 321.2",not touching,NA,NA,NA
+MET,321.2,N,41967,POT4,RT1,HYAVAL,NA,3,2,38,NA,over water,under,NA,NA,6153-6165,NA,NA,Marantaceae,Geoppertia inocephala,glabrous,NA,NA,NA,"male guarding not touching, same male as 321.1",not touching,NA,NA,NA
+MET,734,N,42029,P5,RT2,TERSPI,10,3,1,NA,150,over water,under,NA,NA,7590-7595,NA,NA,Arecaceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,735,N,42029,P5,RT2,TERSPI,10,2,1,NA,87,over bank,under,NA,NA,7596-7600,NA,NA,Araceae,Spathiphyllum sp.,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,721,N,42029,P5,RT4,ESPPRO,20,NA,1,NA,260,over water,top,NA,NA,7554-7561,NA,NA,Salicaceae,Ryania speciosa,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,865,N,42041,POT4,RT1,TERSPI,NA,NA,1,NA,115,over water,under,NA,NA,7805-7809,NA,NA,Piperaceae,Piper pseudobumbratum,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,866,N,42041,POT4,RT1,TERSPI,NA,NA,1,NA,58,over bank,under,NA,NA,7968-7974,NA,NA,Araceae,Philodendron grandipes,glabrous,NA,NA,NA,no,NA,fungus/parasite,NA,NA
+MET,915,N,42045,P13,RT3,TERSPI,50,1,1,24,126,over water,under,NA,NA,8209-8213,NA,NA,Heliconiaceae,NA,glabrous,NA,NA,NA,no,NA,NA,damaged leaf,NA
+MET,949,N,42052,Tir,RT1,ESPPRO,NA,2,1,NA,165,over water,moss,NA,NA,8310-8311,NA,NA,Moss,NA,other,NA,NA,mud,no,NA,NA,NA,NA
+MET,947,N,42052,Tir,RT2,TERSPI,NA,1,1,15,220,over water,under,NA,NA,8308,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,no,NA,NA,NA,NA
+MET,973,N,42053,Tir,RT1,TERSPI,NA,1,1,18,NA,over bank,under,NA,NA,8396,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,mud,male nearby leaf onsame plant,NA,NA,NA,NA
+MET,964,N,42053,Tir,RT2,TERSPI,NA,4,1,NA,NA,over water,under,NA,NA,8368,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,969,N,42053,Tir,RT3,ESPPRO,NA,NA,1,NA,NA,over water,moss,NA,NA,8390-8391,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,1045,N,42058,P1,RT1,ESPPRO,NA,NA,1,NA,221,over water,top,NA,NA,8531-8536,NA,NA,Elaeocarpaceae,Sloanea geniculata,hairy,NA,NA,mud,no,NA,NA,NA,NA
+MET,1046,N,42058,P1,RT1,ESPPRO,NA,NA,1,NA,200,NA,moss,NA,NA,8531-8536,NA,NA,Moss,NA,other,NA,NA,mud,no,NA,NA,NA,NA
+MET,1056,N,42059,P1,RT3,TERSPI,NA,NA,1,NA,200,over water,under,NA,NA,8528,NA,NA,Costaceae,NA,glabrous,NA,NA,mud,no,NA,NA,NA,NA
+MET,3457,N,42145,POT4,RT1,ESPPRO,NA,NA,1,NA,NA,over water,moss,NA,NA,NA,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,3458,N,42145,POT4,RT1,TERSPI,NA,NA,1,NA,80,over water,under,NA,NA,NA,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,no,NA,NA,NA,NA
+MET,3459,N,42145,POT4,RT1,HYAVAL,NA,NA,1,NA,140,over water,under,NA,NA,NA,NA,NA,Marantaceae,Geoppertia inocephala,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,2017,N,42164,P5,RT4,HYAVAL,NA,NA,1,NA,65,NA,NA,NA,NA,9505,NA,NA,Hernandiaceae,Hernandia didymantha,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,2039,N,10-June-15,P5,RT1,ESPPRO,NA,NA,1,NA,190,over water,top,NA,NA,9582-9591,NA,NA,Piperaceae,Piper decurrens,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,2041,N,10-June-15,P5,RT1,ESPPRO,NA,4,1,NA,124,over bank,top,NA,NA,9598,NA,NA,Piperaceae,Piper decurrens,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,2044,N,10-June-15,P5,RT1,HYAVAL,NA,1,1,29,356,over water,under,NA,NA,9599-9603,NA,NA,Moraceae,Ficus sp.,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,2029,N,10-June-15,P5,RT2,HYAVAL,NA,1,1,NA,>2m,over water,under,NA,NA,9549,NA,NA,Arecaceae,Geonoma congesta,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,2109,N,19-June-15,P13,RT2,TERSPI,NA,NA,1,NA,230,over water,NA,NA,NA,9684-9688,NA,NA,Melastomataceae,Miconia gracilis,glabrous,NA,NA,NA,NA,NA,NA,NA,NA
+MET,2111,N,19-June-15,P13,RT2,TERSPI,NA,NA,1,NA,93,over water,NA,NA,NA,9689-9693,NA,NA,Rhamnaceae,Colubrina spinosa,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,2124,N,19-June-15,P13,RT3,HYAVAL,NA,NA,1,NA,175,over water,under,NA,NA,9713-9717,NA,NA,Piperaceae,Piper culebranum,hairy,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,2179,N,2-July-15,P5,RT4,ESPPRO,NA,NA,1,NA,NA,over water,top,NA,NA,9815-9821,NA,NA,Salicaceae,Ryania speciosa,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,2184,N,2-July-15,P5,RT4,HYAVAL,NA,NA,1,NA,NA,over water,under,NA,NA,9822-9823,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,male guarding,on top of clutch,NA,NA,NA
+MET,2186.1,N,2-July-15,P5,RT4,HYAVAL,50,NA,2,NA,245,over water,under,NA,NA,9838-9842,NA,NA,Rubiaceae,Posoqueria grandifructa,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,2186.1999999999998,N,2-July-15,P5,RT4,HYAVAL,50,NA,2,NA,245,over water,under,NA,NA,9838-9842,NA,NA,Rubiaceae,Posoqueria grandifructa,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,2187,N,2-July-15,P5,RT4,HYAVAL,50,NA,1,NA,110,over bank,under,NA,NA,NA,NA,NA,Rubiaceae,Posoqueria grandifructa,glabrous,NA,NA,NA,NA,NA,NA,NA,NA
+MET,2208,N,28-July-15,P1,RT2,TERSPI,NA,NA,1,NA,170,over water,under,NA,NA,30-39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MET,2209,N,28-July-15,P1,RT2,TERSPI,NA,1,1,21,170,over water,under,NA,NA,30-39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MET,P1HYAVAL11,N,11-June-17,P1,RT1,HYAVAL,45,4,2,20,400,over bank,under,na,NA,663-665,4,0,Heliconiaceae,Heliconia imbricata,glabrous,NA,NA,mud,male guarding,not touching,healthy,NA,"hyaval 11, 12, same male"
+MET,2238,N,29-July-15,P1,RT2,TERSPI,NA,NA,1,NA,124,over water,under,NA,NA,70,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,2239,N,29-July-15,P1,RT2,UK,NA,NA,1,NA,140,over water,NA,NA,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MET,2225,N,29-July-15,P1,RT3,ESPPRO,NA,NA,1,NA,145,over water,top,NA,NA,47-51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,damaged leaf,NA
+MET,2226,N,29-July-15,P1,RT3,ESPPRO,NA,NA,1,NA,150,over water,moss,NA,NA,52-59,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,2227,N,29-July-15,P1,RT3,ESPPRO,NA,NA,1,NA,170,over water,moss,NA,NA,52-59,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,2228,N,29-July-15,P1,RT3,ESPPRO,NA,NA,1,NA,150,over water,moss,NA,NA,52-59,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,2229,N,29-July-15,P1,RT3,TERSPI,NA,NA,1,NA,45,over water,under,NA,NA,60-66,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA
+MET,2318,N,42221,Tir,RT1,TERSPI,NA,NA,1,NA,NA,over water,under,NA,NA,146-154,NA,NA,Euphorbiaceae,Tetrorchidium euryphyllum,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,2319,N,42221,Tir,RT1,TERSPI,NA,NA,1,NA,NA,over water,under,NA,NA,136-145,NA,NA,Primulaceae,Ardisia fimbrillifera,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,2317,N,42221,Tir,RT3,ESPPRO,NA,NA,1,NA,200,over water,moss,NA,NA,NA,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,2919,N,42297,Tir,RT1,ESPPRO,NA,NA,1,NA,NA,over water,moss,NA,NA,9909-9912,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,2904,N,42297,Tir,RT2,ESPPRO,NA,NA,1,NA,>2m,over water,top,NA,NA,9887-9891,NA,NA,Meliaceae,Guarea bullata,hairy,NA,NA,NA,no,NA,NA,NA,NA
+MET,2908,N,42297,Tir,RT2,TERSPI,NA,NA,1,NA,200,over water,under,NA,NA,9892-9895,NA,NA,Gesneriaceae,Besleria robusta,hairy,NA,NA,NA,no,NA,NA,NA,NA
+MET,2912,N,42297,Tir,RT3,ESPPRO,NA,NA,1,NA,NA,over water,top,NA,NA,902-9908,NA,NA,Violaceae,Rinorea deflexiflora,hairy,NA,NA,NA,male perched on same plant,NA,NA,NA,NA
+MET,3036,N,42304,POT4,RT1,TERSPI,NA,NA,1,NA,130,over water,under,NA,NA,42-49,NA,NA,Piperaceae,Piper pseudobumbratum,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,3186,N,42332,P5,RT1,ESPPRO,NA,NA,1,NA,130,over water,top,NA,37.57,262-265,NA,NA,Piperaceae,Piper decurrens,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,3191,N,42332,P5,RT1,ESPPRO,NA,NA,1,NA,300,over water,top,NA,NA,NA,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,3192.1,N,42332,P5,RT1,HYAVAL,50,NA,2,NA,220,over water,under,NA,NA,NA,NA,NA,Moraceae,Ficus sp.,glabrous,NA,NA,NA,NA,NA,NA,NA,NA
+MET,3192.2,N,42332,P5,RT1,HYAVAL,50,NA,2,NA,220,over water,under,NA,NA,NA,NA,NA,Moraceae,Ficus sp.,glabrous,NA,NA,NA,NA,NA,NA,NA,NA
+MET,3204,N,42339,P1,RT1,TERSPI,NA,1,1,NA,143,over water,under,0,690.87,291-293,NA,NA,Araceae,Diffenbachia nitidipetiolata,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,3216,N,42340,P1,RT2,TERSPI,NA,NA,1,NA,165,over water,under,NA,NA,309-311,NA,NA,Araceae,Philodendron sp.,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,3217,N,42340,P1,RT2,TERSPI,NA,NA,1,NA,155,over land,under,NA,NA,312-317,NA,NA,Euphorbiaceae,Acalypha diversifolia,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,4592,N,42525,P5,RT1,ESPPRO,NA,NA,1,NA,230,over water,top,NA,NA,877-878,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,4608,N,42525,P5,RT1,ESPPRO,NA,NA,1,NA,NA,over water,top,NA,128.46,901-906,NA,NA,Bignoniaceae,Tanaecium pyramidatum,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,4606,N,42525,P5,RT1,ESPPRO,NA,NA,1,NA,172,over land,top,NA,20.24,895-900,NA,NA,Piperaceae,Piper decurrens,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,4603,N,42525,P5,RT2,HYAVAL,NA,NA,1,NA,152,over water,under,NA,NA,883,NA,NA,Arecaceae,Welfia regia,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,4604,N,42525,P5,RT2,TERSPI,NA,NA,1,NA,253,over water,under,NA,NA,"891, 892, 894",NA,NA,Rubiaceae,Warszewiczia coccinea,hairy,NA,NA,NA,no,NA,NA,NA,NA
+MET,4738,N,42533,P1,RT2,TERSPI,NA,NA,1,NA,180,over bank,under,0,NA,970,NA,NA,Costaceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,4742,N,42533,P1,RT2,TERSPI,NA,NA,1,NA,40,over bank,under,NA,NA,971-978,NA,NA,Araceae,Anthurium ochanthum,glabrous,NA,NA,NA,male perched on same plant,NA,NA,NA,NA
+MET,4753,N,42533,P1,RT3,TERSPI,NA,NA,1,NA,200,over bank,under,NA,NA,NA,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,4754,N,42533,P1,RT3,TERSPI,NA,NA,1,NA,25,over bank,under,NA,NA,NA,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,4899,N,42551,P13,RT3,TERSPI,NA,NA,1,NA,130,over water,under,0,348.48,1141,NA,NA,Heliconiaceae,NA,glabrous,NA,NA,NA,no,NA,NA,damaged leaf,NA
+MET,5113,N,42627,POT4,RT1,TERSPI,NA,NA,1,NA,NA,over bank,under,NA,NA,1435-1441,NA,NA,Piperaceae,Piper pseudobumbratum,glabrous,NA,NA,NA,no,NA,NA,damaged leaf,NA
+MET,5501,N,42669,P5,RT1,ESPPRO,NA,NA,1,NA,240,over water,top,NA,NA,451-458,NA,NA,Piperaceae,Piper decurrens,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,5502,N,42669,P5,RT1,TERSPI,NA,NA,1,NA,120,over bank,moss,NA,NA,451-458,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,5520,N,42670,P5,RT2,TERSPI,NA,NA,1,NA,145,over water,under,NA,247.01,463-471,NA,NA,Rubiaceae,Psychotria elata,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,5523,N,42670,P5,RT2,TERSPI,NA,1,1,21,120,over water,under,27,NA,474,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,5542.1,N,42670,P5,RT4,HYAVAL,NA,NA,2,NA,50,over water,under,NA,NA,526-533,NA,NA,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,5542.2,N,42670,P5,RT4,HYAVAL,NA,NA,2,NA,50,over water,under,NA,NA,526-533,NA,NA,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,5544,N,42670,P5,RT4,TERSPI,NA,NA,1,NA,80,over bank,under,NA,NA,534-541,NA,NA,Araceae,Spathiphyllum flavovirens,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,550.1,N,42670,P5,RT4,HYAVAL,NA,NA,2,NA,215,over water,under,NA,NA,592-560,NA,NA,Rubiaceae,Faramea suerrensis,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,550.20000000000005,N,42670,P5,RT4,HYAVAL,NA,NA,2,NA,215,over water,under,NA,NA,592-560,NA,NA,Rubiaceae,Faramea suerrensis,glabrous,NA,NA,NA,male guarding,touching,NA,NA,NA
+MET,5553,N,42670,P5,RT4,HYAVAL,NA,NA,1,NA,130,over water,under,NA,NA,592-560,NA,NA,Rubiaceae,Faramea suerrensis,glabrous,NA,NA,NA,male guarding,not touching,NA,NA,NA
+MET,5566,N,42671,P1,RT1,TERSPI,NA,NA,1,NA,159,over water,under,NA,44.57,609-612,NA,NA,Pteridophyta,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,5568,N,42671,P1,RT3,TERSPI,NA,NA,1,NA,135,over water,under,NA,NA,613-618,1,NA,Burseraceaee,Protium panamense,glabrous,NA,NA,NA,no,NA,NA,damaged leaf,NA
+MET,5569,N,42671,P1,RT3,TERSPI,NA,NA,1,NA,135,over water,under,NA,NA,619,1,NA,Burseraceaee,Protium panamense,glabrous,NA,NA,NA,no,NA,NA,damaged leaf,NA
+MET,5596,N,42674,P1,RT3,TERSPI,NA,1,1,22,130,over bank,under,0,NA,633-637,NA,NA,Euphorbiaceae,Acalypha diversifolia,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,P1HYAVAL12,N,11-June-17,P1,RT1,HYAVAL,45,4,2,39,400,over bank,under,na,NA,663-665,4,0,Heliconiaceae,Heliconia imbricata,glabrous,NA,NA,mud,male guarding,not touching,healthy,NA,"hyaval 11, 12, same male"
+MET,P1HYAVAL13,N,11-June-17,P1,RT1,HYAVAL,46,4,3,uk,450,over bank,under,na,6203.226,666,4,1,Heliconiaceae,Heliconia imbricata,glabrous,NA,NA,mud,male guarding,not touching,uk,damaged leaf,"hyaval, 13, 14, 15, same male"
+MET,P1HYAVAL14,N,11-June-17,P1,RT1,HYAVAL,45,"3,4",3,uk,450,over bank,under,NA,6203.226,666,4,1,Heliconiaceae,Heliconia imbricata,glabrous,NA,NA,mud,male guarding,not touching,uk,damaged leaf,"hyaval, 13, 14, 15, same male"
+MET,5611,N,42674,P1,RT2,TERSPI,NA,NA,1,NA,160,over water,under,NA,NA,644-645,NA,NA,Araceae,Anthurium ochanthum,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,P1HYAVAL15,N,11-June-17,P1,RT1,HYAVAL,46,1,3,uk,450,over bank,under,NA,6203.226,666,4,1,Heliconiaceae,Heliconia imbricata,glabrous,NA,NA,mud,male guarding,not touching,uk,damaged leaf,"hyaval, 13, 14, 15, same male"
+XOR,P1HYAVAL30,N,42915,P1,RT1,HYAVAL,16.5,3/4,1,unk,200,over land,under,na,159.462,3413-3418/1403-1408,0,NA,Araceae,Rhodospatha wendlandii,glabrous,NA,NA,NA,no,NA,2 fungal,yes,check species
+MET,5622,N,42674,P1,RT1,TERSPI,NA,NA,1,NA,NA,over water,under,NA,NA,665-670,NA,NA,Piperaceae,Piper urophyllum,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,6036,N,42702,Tir,RT2,TERSPI,NA,NA,1,NA,180,over water,under,NA,NA,NA,NA,NA,Melastomataceae,Miconia commutata,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,6038,N,42702,Tir,RT2,TERSPI,NA,NA,1,NA,180,over water,under,NA,NA,NA,NA,NA,Gesneriaceae,Besleria robusta,hairy,NA,NA,NA,no,NA,NA,NA,NA
+MET,6057,N,42702,Tir,RT1,TERSPI,NA,NA,1,NA,52,over water,under,NA,NA,NA,NA,NA,Melastomataceae,Henriettella tuberculosa,glandular,NA,NA,NA,no,NA,NA,NA,NA
+MET,6058,N,42702,Tir,RT1,ESPPRO,NA,NA,1,NA,195,over water,under,NA,NA,NA,NA,NA,Melastomataceae,Henriettella tuberculosa,glandular,NA,NA,NA,no,NA,NA,NA,NA
+MET,6061,N,42702,Tir,RT1,ESPPRO,NA,NA,1,NA,165,over water,moss,NA,NA,NA,NA,NA,Moss,NA,other,NA,NA,NA,no,NA,NA,NA,NA
+MET,6062,N,42702,Tir,RT1,TERSPI,NA,NA,1,NA,120,over water,under,NA,NA,NA,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,no,NA,NA,NA,NA
+MET,3163,N,42328,P15,RT3,TERSPI,NA,NA,1,NA,146,over bank,under,NA,NA,233,NA,NA,Arecaceae,NA,glabrous,NA,NA,NA,NA,NA,NA,NA,NA
+MET,3164,N,42328,P15,RT3,TERSPI,NA,NA,1,NA,200,NA,under,NA,NA,NA,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,NA,NA,NA,NA,NA
+MET,3485,N,42391,P15,RT3,TERSPI,NA,NA,1,NA,180,over water,under,NA,NA,175-177,NA,NA,Melastomataceae,Henriettea tuberculosa,glandular,NA,NA,NA,NA,NA,NA,NA,NA
+MET,6066,N,42702,Tir,RT1,TERSPI,NA,NA,1,NA,300,over water,under,NA,NA,NA,NA,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+MET,P16ESPPRO1,N,42877,P16,RT2,ESPPRO,28,4,1,30,180,over water,top,na,NA,"477, 480, 485",0,>20m,Piperaceae,Piper decurrens,glabrous,NA,NA,NA,no,NA,1 eggs grey/undeveloped,NA,NA
+MET,P16ESPPRO2,N,42880,P16,RT3,ESPPRO,0,2,1,21,152,over water,moss,na,NA,490,2,0.2,Moss,NA,other,NA,NA,sand,no,NA,2 eggs grey/undeveloped,NA,NA
+MET,P16ESPPRO3,N,42880,P16,RT3,ESPPRO,0,1,1,24,152,over water,moss,na,NA,"491, 493",2,0.2,Moss,NA,other,4,NA,sand,no,NA,healthy,NA,one tadpole left from previous egg mass laid in sampe spot (no data taken)
+MET,P16TERSPI1,N,42880,P16,RT3,TERSPI,46,4,1,20,130,over water,under,na,NA,499,0,>20m,Araceae,NA,glabrous,NA,NA,sand,no,NA,healthy,NA,NA
+MET,P16ESPPRO4,N,42885,P16,RT1,ESPPRO,20,2,1,21,201,over water,top,na,NA,na,0,NA,Moraceae,Maquira guianensis,glabrous,NA,NA,mud,no,NA,healthy,NA,NA
+MET,P1HYAVAL1,D,8-June-17,P1,RT3,HYAVAL,50,4,1,15,350,over bank,under,na,NA,na,2,NA,Burseraceae,Protium panamense,glabrous,NA,NA,mud,male guarding,not touching,healthy,NA,NA
+MET,P1HYAVAL2,D,8-June-17,P1,RT3,HYAVAL,50,4,2,uk,350,over water,under,na,NA,na,2,0.1,Burseraceae,Protium panamense,glabrous,60,NA,mud,male guarding,not touching,healthy,NA,same male as hyaval2
+MET,P1HYAVAL3,D,8-June-17,P1,RT3,HYAVAL,50,1,2,45,350,over water,under,na,NA,na,2,0.1,Burseraceae,Protium panamense,glabrous,60,NA,mud,male guarding,not touching,healthy,NA,same male as hyaval 3
+MET,P1HYAVAL4,D,8-June-17,P1,RT2,HYAVAL,50,4,3,4,140,over water,under,na,265.588,644-653,2,NA,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,NA,NA,mud,male guarding,not touching,4 eggs grey/undeveloped,NA,"hyaval 4, 5, 6 same male"
+MET,P1HYAVAL5,D,8-June-17,P1,RT2,HYAVAL,50,4,3,3,140,over water,under,na,265.588,644-653,2,0.02,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,NA,NA,mud,male guarding,not touching,healthy,NA,"hyaval 4, 5, 6 same male"
+MET,P1HYAVAL6,D,8-June-17,P1,RT2,HYAVAL,50,3,3,34,140,over water,under,na,265.588,644-653,2,0.02,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,NA,NA,mud,male guarding,touching,healthy,NA,"hyaval 4, 5, 6 same male"
+MET,P1TERSPI1,D,8-June-17,P1,RT1,TERSPI,5,3/4,1,28,250,over water,under,na,178.292,655-656,0,7,Primulaceae,Ardisia auriculata,glabrous,NA,NA,NA,no,NA,healthy,NA,NA
+MET,P1ESPPRO1,D,8-June-17,P1,RT1,ESPPRO,12,3,1,21,200,over water,moss,na,NA,657,2,0.02,Moss,(on plant Elaeocarpaceae:Sloanea geniculata),other,NA,NA,sand,no,NA,healthy,NA,NA
+MET,P1ESPPRO2,D,8-June-17,P1,RT1,ESPPRO,12,4,1,22,200,over water,moss,na,NA,658,2,0.02,Moss,(on plant Elaeocarpaceae:Sloanea geniculata),other,NA,NA,sand,no,NA,healthy,NA,NA
+MET,P1ESPPRO3,D,8-June-17,P1,RT1,ESPPRO,12,4,1,16,200,over water,moss,na,NA,659,2,2.5000000000000001E-2,Moss,(on plant Elaeocarpaceae:Sloanea geniculata),other,NA,NA,sand,no,NA,healthy,NA,NA
+MET,P1HYAVAL7,D,8-June-17,P1,RT1,HYAVAL,33,1,1,40,NA,over water,under,NA,520.568,667,4,0.04,Urticaceae,Myriocarpa longipes,hairy,10,NA,sand,male guarding,touching,healthy,NA,"hyaval7, 8 same male"
+MET,P1HYAVAL8,D,8-June-17,P1,RT1,HYAVAL,33,3/4,1,uk,NA,over water,under,na,520.568,667,4,0.04,Urticaceae,Myriocarpa longipes,hairy,10,NA,sand,male guarding,touching,healthy,NA,"hyaval7, 8 same male"
+MET,P1HYAVAL9,D,8-June-17,P1,RT1,HYAVAL,33,3,2,27,NA,over water,under,na,718.776,668,4,1,Urticaceae,Myriocarpa longipes,hairy,NA,NA,sand,male guarding,touching,healthy,NA,"hyaval 9, 10, same male"
+MET,P1HYAVAL10,D,8-June-17,P1,RT1,HYAVAL,33,2,2,uk,NA,over water,under,NA,718.776,668,4,NA,Urticaceae,Myriocarpa longipes,hairy,NA,NA,sand,male guarding,not touching,unhealthy,NA,"hyaval 9, 10, same male"
+XOR,P1HYAVAL24,N,42915,P1,RT1,HYAVAL,31,1,1,unk,300,over water,under,17.34,439.823,3423-3425/1413-1414,0,NA,Urticaceae,Myriocarpa longipes,hairy,8,medium,sand,male guarding,on them,NA,no,NA
+XOR,P1HYAVAL25,N,42915,P1,RT1,HYAVAL,33,1,2,40,225,over water,under,21.87,374.107,3425-3426/1415-1416,4,NA,Urticaceae,Myriocarpa longipes,hairy,12,medium,sand,male and female in amplexus,amplexus on other side of leaf,NA,no,"hyaval 25, 26 same male. Spider on leaf"
+XOR,P1HYAVAL26,N,42915,P1,RT1,HYAVAL,33,4,2,12,225,over water,under,na,374.107,3425-3426/1415-1416,4,NA,Urticaceae,Myriocarpa longipes,hairy,12,medium,sand,male and female in amplexus,amplexus on other side of leaf,NA,no,"hyaval 25, 26 same male. Spider on leaf"
+XOR,P1HYAVAL27,N,42915,P1,RT1,HYAVAL,33,4,2,unk,250,over water,under,na,494.898,3427-3428/1417-1418,4,NA,Urticaceae,Myriocarpa longipes,hairy,NA,NA,NA,NA,NA,NA,NA,NA
+XOR,P1HYAVAL28,N,42915,P1,RT1,HYAVAL,33,unk,2,1,250,over water,under,na,494.898,3427-3428/1417-1418,4,NA,Urticaceae,Myriocarpa longipes,hairy,10,medium,sand,adults nearby,"same plant, different leaf",11 fungal,no,"hyaval 27, 28 same male"
+MET,P1TERSPI2,N,11-June-17,P1,RT1,TERSPI,6,3,1,18,120,over water,under,na,213.091,"676-677, 678",2,0.5,Siparunaceae,Siparuna pauciflora,hairy,NA,NA,NA,no,NA,healthy,NA,NA
+MET,P1TERSPI3,N,11-June-17,P1,RT1,TERSPI,6,1,1,19,100,over water,under,0,51.944,681-682,2,0.5,Araceae,NA,glabrous,14,NA,sand,no,NA,healthy,NA,NA
+MET,P1TERSPI4,N,11-June-17,P1,RT2,TERSPI,44,1,1,36,320,over water,under,0,NA,687-689,0,9,Rubiaceae,NA,glabrous,17,NA,mud,no,NA,healthy,NA,lots of wasp nests in area
+MET,P1ESPPRO4,N,11-June-17,P1,RT2,ESPPRO,34,1,1,uk,270,over water,top,0,61.211,690,0,10,Salicaceae,Pleuranthodendron linderii,hairy,15,NA,sand,no,NA,healthy,NA,NA
+MET,2234,N,29-July-15,P1,RT2,HYAVAL,NA,NA,1,NA,170,over water,under,NA,NA,67-69,NA,NA,NA,NA,NA,NA,NA,NA,male guarding,NA,NA,NA,NA
+MET,5613,N,42674,P1,RT2,HYAVAL,NA,NA,1,NA,200,over water,under,NA,NA,646-647,NA,NA,Heleconiaceae,NA,glabrous,NA,NA,NA,male guarding,not touching,NA,damaged leaf,NA
+MET,P1TERSPI5,N,11-June-17,P1,RT3,TERSPI,30,2,1,21,135,over water,under,3,129.413,700-702,1,1.5,Burseraceae,Protium panamense,glabrous,NA,NA,mud,no,NA,healthy,NA,NA
+MET,P1TERSPI6,N,11-June-17,P1,RT3,TERSPI,29,3/4,1,12,130,over bank,under,na,1271.732,703-704,1,1,Araceae,Diffenbachia nitidipetiolata,glabrous,NA,NA,mud,no,NA,healthy,NA,NA
+MET,P1TERSPI7,N,11-June-17,P1,RT3,TERSPI,5,"1, 2",1,19,135,over bank,under,0,3243.751,705-706,1,1.5,Araceae,Diffenbachia nitidipetiolata,glabrous,NA,NA,mud,no,NA,NA,damaged leaf,NA
+MET,P1TERSPI8,N,11-June-17,P1,RT3,TERSPI,4,4,1,16,260,over bank,under,na,1400.697,707-710,1,1.5,Araceae,Diffenbachia nitidipetiolata,glabrous,NA,NA,mud,no,NA,healthy,NA,NA
+MET,PIHYAVAL18,D,42901,P1,RT3,HYAVAL,50,1,2,42,135,over water,under,42,NA,490,3,<1,Araceae,Anthurium upalaense,glabrous,NA,NA,mud,yes,not touching,healthy,NA,"hyaval 16, 18 same male"
+XOR,P16ESPPRO5,N,12-June-17,P16,RT1,ESPPRO,5,4,1,6,83,over water,moss,na,NA,NA,0,na,Moss,NA,other,NA,NA,mud,?,nearby,healthy,NA,6 tadpoles left
+XOR,P16ESPPRO6,N,12-June-17,P16,RT2,ESPPRO,26,4,1,uk,300,over water,top,na,NA,NA,1,0.4,Piperaceae,Piper decurrens,glabrous,NA,NA,sand,no,NA,possible predation,NA,possible predation (had a spider on it)
+XOR,P16ESPPRO7,N,12-June-17,P16,RT2,ESPPRO,26,2,1,uk,310,over water,top,0,41.091,726-727,1,0.4,Piperaceae,Piper decurrens,glabrous,NA,NA,sand,no,NA,healthy,NA,NA
+XOR,P16TERPI2,N,12-June-17,P16,RT3,TERSPI,7,4,1,12,70,over bank,under,na,NA,NA,0,NA,Pteridophyta,NA,spores,NA,NA,sand,?,"nearby 3 individuals, 2 in amplexus",healthy,NA,NA
+XOR,P16TERPI3,N,12-June-17,P16,RT3,TERSPI,27,1,1,22,210,over water,under,0,105.118,724,1,3,Araceae,NA,glabrous,10,NA,sand,no,NA,healthy,NA,males calling nearby
+XOR,P16TERPI4,N,12-June-17,P16,RT3,TERSPI,30,1,1,21,155,over water,under,0,43.278,719-723,1,3,Piperaceae,Piper decurrens,NA,25,NA,sand,no,NA,healthy,NA,NA
+BG,TIRESPPRO3,N,42903,TIR,RT1,ESPPRO,18,4,1,17,190,over water,moss,na,NA,755,0,0,Moss,(on plant Melastomataceae:Henriettella tuberculosa),other,10,NA,sand,no,NA,healthy,NA,NA
+BG,TIRESPPRO1,N,42903,TIR,RT2,ESPPRO,23,4,1,2,185,over water,top,na,29.183,729-734,0,3,NA,NA,NA,NA,slow,mud,no,NA,1healthy/1unhealhty,Damaged leaf,2 old egg masses near
+BG,TIRTERSPI1,N,42903,TIR,RT2,TERSPI,26,"3, 4",1,25,122,over water,under,na,1103.288,735-736,0,3,Araceae,Anthurium ochanthum,glabrous,15,medium,rock,no,NA,healthy,damaged leaf,holey leaf
+BG,TIRTERSPI2,N,42903,TIR,RT2,TERSPI,34,4,1,15,175,over bank,under,na,NA,NA,1,0,Gesneriaceae,Besleria robusta,hairy,NA,slow,NA,no,NA,healthy,No,Michelle ripped leaf off and tied back
+BG,TIRTERSPI3,N,42903,TIR,RT2,TERSPI,34,1,1,22,217,over water,NA,18,194.148,738-739,1,0,Gesneriaceae,Besleria robusta,hairy,20,slow,sand,no,NA,healthy,no,Many TERSPI calling above
+BG,TIRTERSPI4,N,42903,TIR,RT2,TERSPI,40,na,1,1,210,over water,under,0,NA,742-744,0,3,Piperaceae,Piper pentagonum,glabrous,NA,medium,NA,no,NA,i unhealthy at stage 1,no,NA
+BG,TIRTERSPI5,N,42903,TIR,RT2,TERSPI,43,3,1,15?,215,over water,under,na,NA,745-748,0,3,Araceae,NA,glabrous,NA,medium,NA,no,NA,healthy,no,one dropped due to MT
+BG,TIRTERSPI6,N,42903,TIR,RT3,TERSPI,30,4,1,3,100,over land,under,na,613.049,749-753,0,5,Araceae,Philodendron grandipes,glabrous,NA,NA,NA,no,NA,healthy,yes,male calling near at 130cm height
+BG,TIRTESPPRO2,N,42903,TIR,RT3,ESPPRO,35,4,1,16,150,over water,moss,na,NA,NA,0,5,Moss,NA,other,NA,NA,NA,no,NA,15 healthy/1 fungal/parasite,yes,Michelle broke mossy stick and tied back
+XOR,POT4TERSPI1,N,18-June-17,POT4,RT3,TERSPI,28,4,1,18,68,over bank,under,na,221.673,10-11,0,NA,Araceae,NA,glabrous,1,NA,rock,adult nearby,adult nearby (0.5m away),healthy,NA,NA
+XOR,POT4HYAVAL1,N,18-June-17,POT4,RT1,HYAVAL,30.5,3/4,1,30,100,over water,under,na,847.287,12-15,0,NA,Marantaceae,NA,glabrous,25,NA,rock,male guarding,not touching,healthy,NA,NA
+XOR,POT4HYAVAL2,N,18-June-17,POT4,RT1,HYAVAL,49,2,1,18,89,over water,under,0,167.204,16-20,0,NA,Hernandiaceae,Hernandia didymantha,glabrous,5,NA,sand,male guarding,not touching,healthy,NA,NA
+BG,P16ESPPRO8,D,19-June-17,P16,RT2,ESPPRO,26,"1,2",1,22?,280,over water,top,0,NA,21-24 REU,2,0,Piperaceae,Piper decurrens,glabrous,NA,NA,sand,no,NA,healthy,no,to high to see clearly
+BG,P5HYAVAL1,N,42907,P5,RT2,HYAVAL,25,4,2,2,153,over water,under,na,271.547,819-824,2,0,Cyclanthaceae,NA,glabrous,NA,medium,NA,no,NA,1 fungal/parasite,no,Male for Hyaval 1+2
+BG,P5HYAVAL2,N,42907,P5,RT2,HYAVAL,25,3,2,48,160,over water,under,na,271.547,819-824,2,0,Cyclanthaceae,NA,glabrous,NA,medium,NA,no,NA,1 fungal/parasite,no,Male for Hyaval 1+2
+BG,P5HYAVAL3,N,42907,P5,RT2,HYAVAL,26,2,1,44,157,over water,under,27.4,472.991,829-831,2,0,Cyclanthaceae,NA,glabrous,10,fast,NA,yes,touching,healthy,yes,"((3,19,34,35)?"
+BG,P5EPPRO1,N,42907,P5,RT2,ESPPRO,26,4,1,13?,255,over water,moss,na,NA,832-835,2,0,Moss,on tree:,other,12,medium,rock,no,NA,1 undeveloped,no,NA
+BG,P5TERSPI1,N,42907,P5,RT2,TERSPI,49,4,1,13,157,over water,under,na,36.589,839-848,0,23,Rubiaceae,Psychotria buchtienii,glabrous,18,slow,rock,no,NA,healthy,no,NA
+BG,P5ESPPRO2,N,42907,P5,RT1,ESPPRO,5,4,1,3,180,over water,under,na,NA,849-851,0,NA,Moss,(on tree Moraceae:Brosimum lactescens),other,22,slow,sand,no,NA,1 fungal/parasite,no,NA
+BG,P5TERSPI2,N,42907,P5,RT1,TERSPI,uk,uk,1,uk,345,over water,under,NA,NA,852,NA,NA,Araceae,NA,glabrous,20,medium,rock,no,NA,healthy,yes,NA
+BG,P5ESPPRO3,N,42907,P5,RT1,ESPPRO,37,4,2,20?,268,bank,moss,na,NA,855-860,1,0.5,Moss,NA,other,NA,medium,NA,no,NA,healthy,na,3+4 somewhat on top of one another in the moss
+BG,P5ESPPRO4,N,42907,P5,RT1,ESPPRO,37,1,2,20?,268,bank,moss,na,NA,855-860,1,0.5,Moss,NA,other,NA,medium,NA,no,NA,healthy,na,3+4 somewhat on top of one another in the moss
+BG,P5HYAVAL4,N,42907,P5,RT1,HYAVAL,36.5,2,1,34,128,bank,under,14.2,158.107,861-868,1,0.5,NA,NA,NA,NA,NA,NA,yes,not touching,healthy,no,1-2 possible predation
+BG,P5HYAVAL5,N,42907,P5,RT4,HYAVAL,12,4,3,1,80,over water,under,na,351.289,869-874,2,0,Araceae,Spathaphylum sp.,glabrous,8,fast,rock,yes,touching,healthy,no,"Male for Hyaval 5,6,7"
+BG,P5HYAVAL6,N,42907,P5,RT4,HYAVAL,12,3,3,38,80,over water,under,na,351.289,869-874,2,0,Araceae,Spathaphylum sp.,glabrous,8,fast,rock,yes,touching,healthy,no,"Male for Hyaval 5,6,7"
+BG,P5HYAVAL7,N,42907,P5,RT4,HYAVAL,12,2,3,42 0r 55 (55 was written in #clutches),80,over water,under,38.4,351.289,869-874,2,0,Araceae,Spathaphylum sp.,glabrous,8,fast,rock,yes,touching,healthy,no,"Male for Hyaval 5,6,7"
+BG,P5HYAVAL8,N,42907,P5,RT4,HYAVAL,19,"1,2",1,45,150,bank,under,50.1,381.293,875-882,0,7,Arecaceae,NA,glabrous,NA,NA,NA,yes,not touching,healthy,no,NA
+BG,P5HYAVAL9,N,42907,P5,RT4,HYAVAL,28,"3,4",1,42?,90,over water,under,na,274.465,884-888,0,10,Cyclanthaceae,NA,glabrous,7,medium,mud,yes,not touching,healthy,yes,NA
+BG,P5HYAVAL10,N,42907,P5,RT4,HYAVAL,38,2,2,50?,313,over water,under,229.85,3398.077,889-891,1,0,Arecaceae,NA,glabrous,19,medium,mud,yes,not touching,healthy,no,"Male for Hyaval 10,11"
+BG,P5HYAVAL11,N,42907,P5,RT4,HYAVAL,38,3,2,44?,313,over water,under,na,3398.077,889-891,1,0,Arecaceae,NA,glabrous,19,medium,mud,yes,not touching,healthy,no,"Male for Hyaval 10,11"
+BG,P5HYAVAL12,N,42907,P5,RT4,HYAVAL,40,1,3,4,120,over water,under,11.3,77.001,892-896,7,0,Rubiaceae,Faramea suerrensis,glabrous,21,medium,rock,yes,not touching,fungus/parasite,no,"Male Hyaval 12,13,14"
+BG,P5HYAVAL13,N,42907,P5,RT4,HYAVAL,40,4,3,11,120,over water,under,na,77.001,892-896,7,0,Rubiaceae,Faramea suerrensis,glabrous,21,medium,rock,yes,not touching,healthy,no,"Male Hyaval 12,13,14"
+BG,P5HYAVAL14,N,42907,P5,RT4,HYAVAL,40,4,3,43,120,over water,under,na,77.001,892-896,7,0,Rubiaceae,Faramea suerrensis,glabrous,21,medium,rock,yes,not touching,healthy,no,"Male Hyaval 12,13,14"
+BG,P5HYAVAL15,N,42907,P5,RT4,HYAVAL,40,4,2,26,160,bank,under,na,152.382,899,7,0,Rubiaceae,Faramea suerrensis,glabrous,NA,medium,NA,no,NA,2 fungus/parasite,no,"2 Males near. Male Hyaval 15,16"
+BG,P5HYAVAL16,N,42907,P5,RT4,HYAVAL,40,1,2,1,160,bank,under,NA,152.382,899,7,0,Rubiaceae,Faramea suerrensis,glabrous,NA,medium,NA,no,NA,fungus/parasite,no,"2 Males near. Male Hyaval 15,16"
+BG,P5TERSPI3,N,42907,P5,RT4,TERSPI,45,2,1,23,245,over water,under,0,103.27,900-904,0,0,Costaceae,NA,glabrous,18,slow,rock,no,NA,healthy,no,NA
+MET,P15HYAVAL1,N,42910,P15,RT2,HYAVAL,38,4,1,uk,430,over water,under,na,NA,NA,3,NA,Rhamnaceae,Colubrina spinosa,glabrous,9,fast,rock,male guarding,not touching,NA,no,NA
+MET,P15HYAVAL2,N,42910,P15,RT2,HYAVAL,38,1,1,uk,430,over water,under,NA,NA,NA,3,NA,Rhamnaceae,Colubrina spinosa,glabrous,55,fast,rock,male guarding,touching,NA,no,NA
+MET,P15HYAVAL3,N,42910,P15,RT2,HYAVAL,38,2/3,1,uk,430,over water,under,NA,NA,NA,3,NA,Rhamnaceae,Colubrina spinosa,glabrous,45,fast,rock,male guarding,not touching,NA,no,NA
+MET,P15HYAVAL4,N,42910,P15,RT2,HYAVAL,38,3/4,1,uk,430,over water,under,na,NA,NA,3,NA,Rhamnaceae,Colubrina spinosa,glabrous,45,fast,rock,male guarding,not touching,NA,no,NA
+XOR,P13TERSPI1,N,42911,P13,RT2,TERSPI,29,3,1,22,170,over water,under,na,119.822,1041-1044,0,NA,Melastomataceae,Miconia gracilis,glabrous,10,medium,rock,no,NA,healthy,yes,NA
+XOR,P13TERSPI2,N,42911,P13,RT2,TERSPI,41.5,4,1,21,169,over water,under,na,27.896,26,0,NA,Arecaceae,NA,glabrous,9,fast,rock,no,NA,healthy,no,NA
+XOR,P13HYAVAL1,N,42911,P13,RT3,HYAVAL,9,3/4,1,33+-2,300,over water,under,na,122.715,1057-1058,1,1.5,Araliaceae,Dendropanax arboreus,glabrous,12,medium,rock,yes,touching,NA,no,NA
+XOR,P13HYAVAL2,N,42911,P13,RT3,HYAVAL,10,4,1,44,380,over water,under,na,529.211,1059-1063,1,1.5,Araceae,NA,glabrous,5,medium,rock,yes,not touching,NA,no,NA
+BG,P15HYAVAL5,D,42914,P15,RT2,HYAVAL,38,1,2,40+-1,430,over water,under,NA,NA,1242,NA,NA,Rhamnaceae,Colubrina spinosa,glabrous,9,fast,rock,yes,not touching,healthy,no,Touching other eggs
+BG,P15HYAVAL6,D,42914,P15,RT2,HYAVAL,38,1,2,43,430,over water,under,NA,NA,1248,NA,NA,Rhamnaceae,Colubrina spinosa,glabrous,55,fast,rock,yes,not touching,healthy,no,touching other eggs
+XOR,P1TERSPI9,N,42915,P1,RT3,TERSPI,42,3?,1,unk,170,over bank,under,NA,1709.071,3343-3352/1333-1342,2 + some old ones,2,Araceae,Diffenbachia nitidipetiolata,glabrous,NA,medium,NA,no,NA,NA,no,NA
+XOR,P1TERSPI10,N,42915,P1,RT3,TERSPI,45,1,1,22,270,over bank,under,0,NA,3354-3356/1344-1346,2 + some old ones,1,NA,NA,NA,NA,medium,NA,no,NA,NA,no,NA
+XOR,P1TERSPI11,N,42915,P1,RT3,TERSPI,50,1,1,23,240,over land,under,9.1300000000000008,313.238,3357-3359/1347-1349,0,5,Piperaceae,Piper urophyllum,glabrous,NA,NA,NA,no,NA,healthy,no,NA
+MET,5615,N,42674,P1,RT2,HYAVAL,NA,NA,1,NA,169,over water,under,NA,NA,648-653,NA,NA,Piperaceae,Piper generalense,glabrous,NA,NA,NA,NA,NA,NA,NA,NA
+XOR,P1TERSPI12,N,42915,P1,RT2,TERSPI,0,1,1,12,90,over land,under,0,50.707,3366-3368/1356-1358,1,20cm (estimated),Rhamnaceae,Colubrina spinosa,glabrous,NA,NA,NA,no,NA,healthy,no,check if on same leaf
+XOR,P1TERSPI13,N,42915,P1,RT2,TERSPI,0,1,1,1,95,over land,under,0,78.07,3369/1359,1,20cm (estimated),NA,NA,glabrous,NA,NA,NA,no,NA,1 healthy,yes,check if on same leaf
+XOR,P1ESPPRO6,N,42915,P1,RT2,ESPPRO,17,4,1,30,105,over water,moss,na,NA,3370-3371/1360-1361,0,3,Moss,NA,other,17,medium,mud,3 adults nearby,NA,"28 healthy, 2 fungal",NA,1 just hatched
+XOR,P1TERSPI14,N,42915,P1,RT2,TERSPI,20,1,1,21,220,over water,under,0,179.222,"3375-3378/1362,1365,1368",1,25cm (estimated),Acanthaceae,Bravaisia integerrima,hairy,20,medium,mud,no,NA,NA,no,NA
+XOR,P1TERSPI15,N,42915,P1,RT2,TERSPI,20,1,1,23,220,over water,under,0,106.189,"3377-3379/1366,67,69",1,25cm (estimated),Acanthaceae,Bravaisia integerrima,hairy,14,medium,mud,no,NA,NA,yes,NA
+XOR,P1HYAVAL20,N,42915,P1,RT2,HYAVAL,48.5,1,2,45,120,over water,under,32.5,351.788,3380-3381/1370-1371,3,2,Cyclanthaceae,NA,glabrous,25,fast,mud,male guarding,touching,healthy,no,NA
+XOR,P1HYAVAL21,N,42915,P1,RT2,HYAVAL,50,3/4,2,37,130,over water,under,na,1133.054,3382-3386/1372-1376,3,0.5 (estimated),Marantaceae,NA,glabrous,16,fast,mud,in amplexus,in amplexus,all healthy,no,"hyaval 21, 22, 32same male"
+XOR,P1HYAVAL22,N,42915,P1,RT2,HYAVAL,50,1,2,51,130,over water,under,75,1133.054,3382-3386/1372-1377,3,0.5 (estimated),Marantaceae,NA,glabrous,16,fast,mud,in amplexus,in amplexus,all healthy,no,"hyaval 21, 22, 32same male"
+XOR,P1HYAVAL23,N,42915,P1,RT2,HYAVAL,50,1,1,40,190,over water,under,6,NA,3387-3391/1377-1384,3,0.5 (estimated),Marantaceae,NA,glabrous,17,fast,sand,male guarding,not touching,healthy,no,NA
+XOR,P1TERSPI13,N,42915,P1,RT1,TERSPI,7,1,1,1,140,over water,under,0,NA,1386-1391,0,NA,Araceae,NA,glabrous,28,slow,mud,no,NA,1 fungal,NA,NA
+XOR,P1ESPPRO7,N,42915,P1,RT1,ESPPRO,12,4,1,20,175,over water,moss,na,NA,3409/1399,0,NA,Moss,NA,other,14,medium,sand,adults nearby,NA,3 underdeveloped,NA,NA
+MET,5604.1,N,42674,P1,RT3,HYAVAL,NA,NA,2,NA,300,over land,under,NA,NA,NA,NA,NA,Burseraceae,Protium panamense,glabrous,NA,NA,NA,male guarding,NA,NA,NA,NA
+XOR,P1TERSPI15.1,N,42915,P1,RT1,TERSPI,25,1,1,22+-1,350,over water,under,0,374.745,3419-3422/1409-1412,0,NA,Moraceae,Ficus tonduzii,glabrous,20,medium,sand,no,NA,NA,no,check species
+MET,5604.2,N,42674,P1,RT3,HYAVAL,NA,NA,2,NA,300,over land,under,NA,NA,NA,NA,NA,Burseraceae,Protium panamense,glabrous,NA,NA,NA,male guarding,NA,NA,NA,NA
+MET,5607,N,42674,P1,RT3,HYAVAL,NA,NA,1,NA,200,over water,under,NA,NA,638-643,NA,NA,Euphorbiaceae,Acalypha diversifolia,glabrous,NA,NA,NA,NA,NA,NA,NA,NA
+MET,P1HYAVAL16,N,11-June-17,P1,RT3,HYAVAL,48,1,1,51,135,over water,under,29.1,370.051,696-697,7,2,Araceae,Anthurium upalaense,glabrous,10,NA,mud,male guarding,touching,healthy,NA,NA
+MET,P1HYAVAL17,N,11-June-17,P1,RT3,HYAVAL,48,unk,1,unk,800,over bank,under,NA,NA,NA,2,2,Burseraceae,Protium panamense,glabrous,NA,NA,mud,male guarding,touching,uk,damaged leaf,NA
+XOR,P1HYAVAL19,N,42915,P1,RT3,HYAVAL,50,1,1,45,400,over bank,under,24.27,359.131,3363-3365/1353-1355,1,across,Burseraceae,Protium panamense,glabrous,NA,NA,NA,yes,not touching,healthy,no,NA
+BG,POT4HYAVAL3,N,42917,POT4,RT1,HYAVAL,31,2,2,33,130,over water,under,17.5,451.181,"1630-1633, 1512-1513",1,0,Marantaceae,Geoppertia inocephala,glabrous,18,slow,rock,yes,touching,healthy,no,"hyaval 1, 3, 4, same male, heavy rainfall"
+BG,POT4HYAVAL4,N,42917,POT4,RT1,HYAVAL,31,2,2,37,130,over water,under,13.1,451.181,"1630-1633,1512-1513",1,0,Marantaceae,Geoppertia inocephala,glabrous,18,slow,rock,yes,not touching,healthy,no,"hyaval 1, 3, 4, same male, heavy rainfall"
+BG,POT4TERSPI2,N,42917,POT4,RT1,TERSPI,50,3,1,21,100,over water,under,na,NA,1634,1,0,Hernandiaceae,Hernandia didymantha,glabrous,11,slow,sand,no,NA,healthy,yes,heavy rainfall
+BG,POT4TERSPI3,N,42917,POT4,RT2,TERSPI,41,1,1,17,22,over land,under,0,NA,1635-1637,0,NA,Araceae,NA,glabrous,NA,NA,NA,no,NA,healthy,no,"heavy rainfall, caterpillar found on same leaf. Very droopy"
+BG,P16ESPPRO9,N,42918,P16,RT1,ESPPRO,16,4,1,2,140,over land,moss,na,NA,NA,0,34,Moss,NA,other,NA,NA,NA,no,NA,healthy,no,male nearby
+BG,P16TERSPI5,N,42918,P16,RT1,TERSPI,50,4,1,17,169,over water,under,na,1026.65,30-31 REU,0,34,NA,NA,NA,12,slow,mud,no,NA,"16 healthy, 1 undeveloped",no,NA
+BG,P16ESPPRO10,N,42918,P16,RT2,ESPPRO,13,2,1,unk,300,over land,top,0,188.493,1514-1515,1,0,Rhamnaceae,Colubrina spinosa,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+BG,P16ESPPRO11,N,42918,P16,RT2,ESPPRO,13,"1,2",1,unk,300,over land,under,0,58.965,1514-1515,1,0,Rhamnaceae,Colubrina spinosa,glabrous,NA,NA,NA,no,NA,NA,NA,NA
+BG,P5TERSPI4,N,42919,P5,RT2,TERSPI,8,4,1,14,105,over water,under,na,101.159,1550,0,18,Costaceae,NA,glabrous,24,slow,boulder,no,NA,healthy,yes,Adult near
+BG,P5HYAVAL19,N,42919,P5,RT2,HYAVAL,26,2,2,47,155,over water,under,23.3,472.991,1551,2,0,Cyclanthaceae,NA,glabrous,12,fast,boulder,yes,not touching,healthy,no,"same leaf HYAVAL3 (3,19,34,35)"
+BG,P5ESPPRO6,N,42919,P5,RT2,ESPPRO,26,2,1,unk,225,over water,moss,na,NA,NA,2,0.5 (estimated),Moss,NA,other,10,medium,boulder,no,NA,healthy,NA,Big spider nearby
+BG,P5TERSPI5,N,42919,P5,RT2,TERSPI,30,4,1,4,145,over water,under,na,184.848,1554-1555,0,4,Arecaceae,NA,glabrous,7,slow,rock,no,NA,1 undeveloped,no,1 stage 2 undev
+BG,P5HYAVAL20,N,42919,P5,RT2,HYAVAL,46,unk,1,unk,520,over land,under,NA,NA,1557-1578,0,3,Araceae,NA,glabrous,NA,NA,NA,yes,not touching,NA,no,too high
+BG,P5TERSPI6,N,42919,P5,RT2,TERSPI,49,1,1,14,225,over water,under,0,150.897,1563-1564,1,.2 (estimated),Cyclanthaceae,NA,glabrous,21,slow,boulder,no,NA,healthy,no,NA
+BG,P5TERSPI7,N,42919,P5,RT2,TERSPI,49,"2,3",1,21,240,over water,under,0,161.271,1565-1567,1,.2 (estimated),Cyclanthaceae,NA,glabrous,28,slow,boulder,no,NA,healthy,no,NA
+BG,P5ESPPRO7,N,42919,P5,RT1,ESPPRO,13,2,1,26-27,140,over water,top,0,219.986,1568-1573,3,0.5,Melastomataceae,NA,hairy,1,slow,mud,no,NA,healthy,no,NA
+BG,P5ESPPRO8,N,42919,P5,RT1,ESPPRO,12.5,1,1,unk,380,over water,top,0,NA,na,3,0.1,Rubiaceae,Palicourea calidicola,glabrous,4,slow,boulder,no,NA,NA,no,NA
+BG,P5ESPPRO9,N,42919,P5,RT1,ESPPRO,12.5,1,1,unk,390,over water,top,0,NA,na,3,0.1,Rubiaceae,Palicourea calidicola,glabrous,4,slow,boulder,no,NA,NA,no,NA
+BG,P5ESPPRO10,N,42919,P5,RT1,ESPPRO,12,unk,1,unk,324,over water,top,0,127.7,1577,3,0.5,Rubiaceae,Palicourea calidicola,glabrous,13,slow,boulder,no,NA,NA,yes,NA
+BG,P5TERSPI8,N,42919,P5,RT1,TERSPI,19,3,1,25,420,over water,under,na,NA,1579,2,1.5,Araceae,NA,glabrous,2,slow,boulder,no,NA,healthy,no,NA
+BG,P5HYAVAL21,N,42919,P5,RT1,HYAVAL,20.5,1,2,40,130,over water,under,7.5,359.627,1580-1583,2,0,Araceae,Spathaphylum sp.,glabrous,14,slow,boulder,yes,touching other mass,healthy,no,NA
+BG,P5HYAVAL22,N,42919,P5,RT1,HYAVAL,20.5,1,2,46,130,over water,under,12.2,359.627,1590-1583,2,0,Araceae,Spathaphylum sp.,glabrous,14,slow,boulder,yes,touching,healthy,no,NA
+BG,P5ESPPRO11,N,42919,P5,RT1,ESPPRO,35,1,1,35,220,over water,top,1.2,113.826,1584,NA,13,NA,NA,NA,NA,NA,NA,no,NA,healthy,no,wasp on eggs
+BG,P5HYAVAL23,N,42919,P5,RT1,HYAVAL,48,1,1,42,140,over water,under,21.6,993.996,1585-1590,0,13,Arecaceae,NA,glabrous,5,slow,mud,yes,touching,healthy,no,male calling
+BG,P5HYAVAL24,N,42919,P5,RT4,HYAVAL,15,1,2,44,100,over land,under,16.100000000000001,246.5,1591-1592,1,0,Araceae,Spathaphylum sp.,glabrous,NA,NA,NA,yes,not touching,healthy,no,eggs touching
+BG,P5HYAVAL25,N,42919,P5,RT4,HYAVAL,15,2,2,36,100,over land,under,16.100000000000001,246.5,1591-1592,1,0,Araceae,Spathaphylum sp.,glabrous,NA,NA,NA,yes,not touching,healthy,no,eggs touching
+BG,P5HYAVAL26,N,42919,P5,RT4,HYAVAL,18,1,3,41,150,over land,under,na,381.293,1596,2,0,Araceae,NA,glabrous,NA,NA,NA,yes,touching,healthy,no,Same male as Hyaval 9+18
+BG,P5HYAVAL27,N,42919,P5,RT4,HYAVAL,29,2,1,38,150,over land,under,15.1,154.616,1602-1603,2,2,Moraceae,Soroceae pubivena,hairy,NA,NA,NA,yes,not touching,healthy,no,NA
+BG,P5TERSPI9,N,42919,P5,RT4,TERSPI,31,2,1,15,230,over water,under,0,78.477,1604,2,0.5,Araceae,NA,glabrous,15,medium,boulder,no,NA,healthy,yes,NA
+BG,P5HYAVAL28,N,42919,P5,RT4,HYAVAL,31.5,2,1,52,90,over water,under,11.7,345.063,1606-1607,2,0.5,Cyclanthaceae,NA,glabrous,1.3,slow,mud,yes,not touching,healthy,no,Same as Hyaval 9
+MET,P1ESPPRO5,D,42919,P1,RT2,ESPPRO,26,1,1,26,225,over water,moss,na,NA,NA,3,0,Moss,NA,other,10,medium,boulder,no,NA,healthy,no,on top of P1ESPPRO6
+MET - put in cluctch number,P1HYAVAL32,D,42919,P1,RT2,HYAVAL,50,1,2,40,130,over water,under,na,1133.054,1536,4,NA,Marantaceae,NA,glabrous,16,fast,mud,yes,touching,healthy,no,"hyaval 21, 22, 32 same male"
+MET,P15TERSPI1,N,42923,P15,RT3,TERSPI,25,4,1,1,78,over bank,under,na,84.92,1649,0,NA,Gesneriaceae,Besleria robusta,hairy,7,medium,rock,maybe,potential male parent calling 50am away,healthy,no,NA
+MET,P15TERSPI2,N,42923,P15,RT2,TERSPI,0,1,1,19,185,over bank,under,24,272.337,1650-1654,3,2,Rhamnaceae,Colubrina spinosa,glabrous,7,medium,mud,no,NA,1 fungus/parasite,no,NA
+MET,P15TERSPI3,N,42923,P15,RT2,TERSPI,0,1,1,17,190,over bank,under,0,143.299,1655-1656,3,2,Costaceae,NA,glabrous,4,slow,mud,no,NA,1 fungus/parasite,no,NA
+MET,P15HYAVAL7,N,42923,P15,RT2,HYAVAL,4,4,2,34,500,over water,under,na,NA,1657,3,NA,Rubiaceae,Warszewiczia coccinea,hairy,27,fast,rock,yes,not touching,healthy,no,"hyaval 7, 8, same male"
+MET,P15HYAVAL8,N,42923,P15,RT2,HYAVAL,4,4,2,24,500,over water,under,na,NA,1657,3,NA,Rubiaceae,Warszewiczia coccinea,hairy,27,fast,rock,yes,not touching,healthy,no,"hyaval 7, 8, same male"
+BG,P1ESPPRO8,D,42923,P1,RT1,ESPPRO,12,2,1,19+-2,200,over water,moss,na,NA,NA,1,0.1 (estimate),Moss,NA,other,NA,NA,sand,no,NA,healthy,NA,next to ESPPRO1
+BG,P1HYAVAL31,D,42923,P1,RT2,HYAVAL,48.5,1,2,36,120,over water,under,unk,351.788,REU38,4,0,Cyclanthaceae,NA,glabrous,25,fast,mud,yes,touching,healthy,no,same HYAVAL20
+MET,P5HYAVAL29,N,42924,P5,RT2,HYAVAL,0.5,"3, 4",3,42,55,over bank,under,na,139.126,1659-1660,2,0,Pteridophyta,NA,glabrous,6,slow,boulder,yes,not touching,healthy,no,"hyaval 29, 30, 31 same male"
+MET,P5HYAVAL30,N,42924,P5,RT2,HYAVAL,0.5,"3, 4",3,39,55,over bank,under,na,139.126,1659-1660,2,0,Pteridophyta,NA,glabrous,6,slow,boulder,yes,not touching,1 fungus/parasite,no,"hyaval 29, 30, 31 same male"
+MET,P5HYAVAL31,N,42924,P5,RT2,HYAVAL,0.5,4,3,14,55,over bank,under,na,139.126,1659-1660,2,0,Pteridophyta,NA,glabrous,6,slow,boulder,yes,not touching,2 fungus/parasite,no,"hyaval 29, 30, 31 same male"
+MET,P5HYAVAL32,N,42924,P5,RT1,HYAVAL,48,1,2,46,140,over water,under,21.6,993.996,1668,1,NA,Arecaceae,NA,glabrous,5,slow,mud,yes,not touching,healthy,no,same male as hyaval23
+MET,P5HYAVAL36,N,42924,P5,RT4,HYAVAL,29,1,3,47,150,over land,under,17.5,154.616,1672,5,0,Moraceae,Soroceae pubivena,hairy,NA,NA,NA,yes,not touching,healthy,no,"same male hyaval 33, 34, 27"
+MET,P5HYAVAL40,N,42924,P5,RT4,HYAVAL,29,2,3,36,150,over land,under,17.5,154.616,1672,5,0,Moraceae,Soroceae pubivena,hairy,NA,NA,NA,yes,not touching,healthy,no,"same male hyaval 33, 34, 27"
+MET,POT4TERSPI10,N,42926,POT4,RT3,TERSPI,19,2,1,21,52,over water,under,8,501.861,1726,0,NA,Araceae,Philodendron grandipes,glabrous,1,fast,boulder,no,NA,healthy,no,NA
+MET,POT4TERSPI11,N,42926,POT4,RT1,TERSPI,14,3,1,18,212,over water,under,na,296.791,1728-1730,0,5,Piperaceae,Piper pseudobumbratum,glabrous,1,medium,rock,no,NA,healthy,no,NA
+MET,POT4TERSPI12,N,42926,POT4,RT1,TERSPI,28,4,1,1,64,over water,under,na,128.503,1731-1732,2,2,Piperaceae,Piper pseudobumbratum,glabrous,7,fast,rock,no,NA,healthy,no,"terpi 12, 13 same plant"
+MET,POT4TERSPI13,N,42926,POT4,RT1,TERSPI,28,4,1,1,145,over water,under,na,153.32,1734-1735,2,2,Piperaceae,Piper pseudobumbratum,glabrous,7,fast,rock,no,NA,healthy,no,"terpi 12, 13 same plant"
+XOR,TIRESPPRO10,N,42926,TIR,RT2,ESPPRO,24,"3, 4",1,22,195,over water,top,na,29.106,1792,0,NA,Meliaceae,Guarea bullata,hairy,1,slow,mud,no,NA,healthy,yes,on dead leaf and moss
+XOR,TIRTERSPI10,N,42926,TIR,RT2,TERSPI,31,"1, 2",1,22,210,over water,under,0,443.487,1794,1,2,Piperaceae,Piper pentagonum,hairy,2,slow,mud,no,NA,healthy,no,NA
+XOR,TIRTERSPI11,N,42926,TIR,RT2,TERSPI,33,"3, 4",1,23,200,over water,under,na,155.635,1796,1,2,Gesneriaceae,Besleria robusta,hairy,10,slow,sand,no,NA,1 fungal,no,same plant as TIRTERSPI3
+XOR,TIRTERSPI12,N,42926,TIR,RT2,TERSPI,40.5,1,2,1,130,over water,under,3,192.709,1798-1799,1,8.6E-3,Piperaceae,Piper pentagonum,hairy,2,slow,mud,no,NA,undeveloped,no,"TERSPI12, 13 on same leaf"
+XOR,TIRTERSPI13,N,42926,TIR,RT2,TERSPI,40.5,1,2,22,130,over water,under,3,192.709,1798-1799,1,8.6E-3,Piperaceae,Piper pentagonum,hairy,2,slow,mud,no,NA,healthy,no,"TERSPI12, 13 on same leaf"
+XOR,TIRTERSPI14,N,42926,TIR,RT3,TERSPI,9,1,1,23,65,over land,under,0,23.643,1802,0,NA,Pteridophyta,NA,glabrous,NA,NA,NA,no,NA,healthy,no,NA
+XOR,TIRESPPRO11,N,42926,TIR,RT3,ESPPRO,17,2,1,26,350,over water,top,0,356.769,"1803, 1806",0,NA,Araceae,NA,glabrous,2,slow,sand,no,adult nearby,NA,yes,Adult near
+XOR,TIRTERSPI15,N,42926,TIR,RT3,TERSPI,28,1,1,25,100,over land,top,8.4,201.402,1807-1808,1,3,Pteridophyta,NA,glabrous,NA,NA,NA,NA,calling male nearby,healthy,no,male calling nearby
+XOR,TIRESPPRO12,N,42926,TIR,RT3,ESPPRO,31,4,1,23,65,over land,moss,na,NA,1802,3,1.5,Violaceae,Rinorea deflexiflora,hairy,NA,NA,NA,no,NA,NA,NA,"ESPPRO12, 13, 15, 16, same plant, male calling nearby"
+XOR,TIRESPPRO13,N,42926,TIR,RT3,ESPPRO,32.5,1,1,23+-1,205,over water,moss,na,NA,1809-10,3,0.03,Violaceae,Rinorea deflexiflora,hairy,10,slow,mud,no,adult calling nearby,healthy?,NA,"ESPPRO12, 13, 15, 16, same plant, male calling nearby"
+XOR,TIRESPPRO14,N,42926,TIR,RT3,ESPPRO,32.5,unk,1,unk,210,over water,moss,na,NA,NA,3,0.03,Violaceae,Rinorea deflexiflora,hairy,13,slow,mud,no,adult calling nearby,3 fungal,NA,"ESPPRO12, 13, 15, 16, same plant, male calling nearby"
+XOR,TIRESPPRO15,N,42926,TIR,RT3,ESPPRO,32.5,3,1,unk,210,over water,bottom of dead leaf,na,NA,NA,3,0.03,Violaceae,Rinorea deflexiflora,hairy,15,slow,mud,NA,adult calling nearby,at least 2 fuzzies,NA,"ESPPRO12, 13, 15, 16, same plant, male calling nearby"
+XOR,TIRESPPRO16,N,42926,TIR,RT3,ESPPRO,44.5,4,1,2,120,over water,top,na,172.137,NA,0,NA,Arecaceae,NA,glabrous,NA,NA,NA,no,NA,healthy,no,unsure about leaf area. chose the one part with a little bit of moss
+XOR,TIRTERSPI16,N,42926,TIR,RT3,TERSPI,50,1,1,24,130,over land,under,13,250.537,1816,NA,NA,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,no,NA,healthy,no,NA
+XOR,TIRTERSPI17,N,42926,TIR,RT1,TERSPI,19,1,1,25,235,over water,under,0,30.56,1817-1822,0,NA,NA,NA,glabrous,1,fast,sand,no,NA,NA,no,NA
+XOR,TIRESPPRO17,N,42926,TIR,RT1,ESPPRO,24.5,4,1,unk,190,over water,top,na,49.474,1828,2,2.5,Moraceae,Brosimum lactescens,glabrous,8,medium,sand,no,NA,healthy,no,moss on leaf
+XOR,TIRTERSPI18,N,42926,TIR,RT1,TERSPI,26,4,1,12,175,over water,under,na,221.6,1829,2,3.5000000000000003E-2,Rubiaceae,Palicourea hondensis,glabrous,1,medium,mud,no,NA,healthy,yes,"TERSPI 18, 19 same plant"
+XOR,TIRTERSPI19,N,42926,TIR,RT1,TERSPI,26,4,1,17,165,over bank,under,na,204.081,1830,2,3.5000000000000003E-2,Rubiaceae,Palicourea hondensis,glabrous,NA,NA,NA,no,NA,1 undeveloped at stage 2,yes,"TERSPI 18, 19 same plant"
+XOR,TIRTERSPI20,N,42926,TIR,RT1,TERSPI,36,3,1,21,110,over water,under,na,599.62,1836,2,1,Araceae,Philodendron sp.,glabrous,29,slow,mud,pair nearby,NA,healthy,yes,NA
+XOR,TIRTERSPI21,N,42926,TIR,RT1,TERSPI,37,1,1,22,90,over water,under,0,84.342,"1843, 1845",2,1,Pteridophyta,NA,glabrous,7,slow,sand,pair nearby,NA,parasitized,no,NA
+XOR,TIRTERSPI22,N,42926,TIR,RT1,TERSPI,38.5,4,1,5,190,over land,under,na,885.416,1847,3,1.5,Marantaceae,NA,glabrous,NA,NA,NA,no,NA,1 undeveloped at stage 1,no,NA
+XOR,TIRTERSPI23,N,42926,TIR,RT1,TERSPI,41,2,1,25+-2,250,over land,under,0,234.114,"1853, 1851",1,2.5,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,adult calling nearby,NA,healthy,no,adults calling nearby
+BG,P5HYAVAL34,D,42927,P5,RT2,HYAVAL,26,1,3,41,155,over water,under,55,472.991,1896-1897,4,0,Cyclanthaceae,NA,glabrous,12,fast,boulder,yes,touching,healthy,no,"Same male as HYAVAL 3,19,34,35"
+BG,P5HYAVAL35,D,42927,P5,RT2,HYAVAL,26,1,3,43,155,over water,under,35,472.991,1896-1897,4,0,Cyclanthaceae,NA,glabrous,12,fast,boulder,yes,not touching,healthy,no,"Same male as HYAVAL 3,19,34,36"
+BG,P5TERSPI15,D,42927,P5,RT2,TERSPI,50,1,1,21,160,over water,under,3,104.75,1931-1932,2,NA,NA,NA,glabrous,25,slow,rock,no,NA,healthy,no,"close to TERSPI 6,7"
+BG,P5HYAVAL37,D,42927,P5,RT4,HYAVAL,31.5,1,3,41,95,over water,under,10,345.063,1943,5,0,Cyclanthaceae,NA,glabrous,1.3,slow,mud,yes,touching,healthy,no,Right below HYAVAL27 touching other EM
+BG,P5HYAVAL38,D,42927,P5,RT4,HYAVAL,31.5,1,3,40,95,over water,under,15,345.063,1943,5,0,Cyclanthaceae,NA,glabrous,1.3,slow,mud,yes,not touching,healthy,no,Right below HYAVAL27 touching other EM
+BG,P1TERSPI16,D,42928,P1,RT2,TERSPI,0,3,1,26,95,over land,under,na,16.251,2066,0,17,NA,NA,glabrous,NA,NA,NA,NA,NA,healthy,yes,NA
+BG,P1ESPPRO10,D,42928,P1,RT1,ESPPRO,12,2,1,21+-1,185,over water,moss,0,NA,NA,1,0,NA,NA,NA,8,slow,mud,NA,NA,healthy,NA,on top of ESPPRO8
+BG,P1ESPPRO9,D,42928,P1,RT2,ESPPRO,26,4,1,17+-2,160,over water,moss,na,NA,44-46 REU,2,0,Moss,NA,other,15,slow,mud,no,NA,healthy,"Left of ESPPRO 5,6",NA
+BG,TIRTERSPI33,D,42929,TIR,RT1,TERSPI,26,1,1,27,165,over bank,under,na,NA,NA,NA,NA,Rubiaceae,Palicourea hondensis,glabrous,NA,NA,NA,NA,NA,healthy,yes,"Same as TERSPI 18,19"
+BG,P1TERSPI20,D,42932,P1,RT3,TERSPI,30,2,1,13,150,over water,under,0,108.647,2065,0,0,Burseraceae,Protium panamensis,glabrous,7,medium,mud,NA,NA,1 parasite,NA,"same as terspi15, above terspi5"
+BG,P15TERSPI4,N,42933,P15,RT1,TERSPI,17,1,1,21,115,over land,under,1.5,NA,1996,0,25.5,Araceae,(latex),glabrous,NA,NA,NA,no,NA,2 undeveloped st1,no,NA
+BG,P15TERSPI5,N,42933,P15,RT1,TERSPI,42.5,4,1,2,170,over water,under,na,NA,1997,0,25.5,Araceae,NA,glabrous,33,medium,sand,no,NA,healthy,NA,NA
+BG,P15TERSPI6,N,42933,P15,RT2,TERSPI,40,"3,4",1,17,185,over water,under,na,NA,2001,0,7,NA,NA,NA,59,fast,boulder,no,NA,healthy,no,NA
+BG,P15HYAVAL9,N,42933,P15,RT2,HYAVAL,47,1,1,14,400,over water,under,na,NA,2002-2003,0,7,Rhamnaceae,Colubrina spinosa,glabrous,36,fast,boulder,no,NA,healthy,no,"Same area as HYAVAL1,2,3,4,5"
+BG,P13TERSPI21,N,42933,P13,RT2,TERSPI,40,"3,4",1,24,170,over water,under,0,27.896,NA,0,NA,Araceae,NA,glabrous,30,fast,rock,no,NA,healthy,no,Same as TERSPI2
+MET,P13HYAVAL20,N,42933,P13,RT3,HYAVAL,20,2,1,43,160,over water,under,20.5,396.297,2414,0,na,Cyclanthaceae,NA,glabrous,9,medium,sand,yes,not touching,1 undeveloped,no,NA
+XOR,P1HYAVAL41,N,42934,P1,RT3,HYAVAL,24,2,1,42,370,over water,under,47.26,1060.306,2069-2070,0,5.5,Araceae,NA,glabrous,17,slow,mud,yes,not touching,NA,no,same plant as TERSPI15? CHECK
+XOR,P1HYAVAL42,N,42934,P1,RT3,HYAVAL,29.5,2,2,24,300,over water,under,24.82,439.288,2071-2073,2,0,Urticaceae,Myriocarpa longipes,hairy,7,medium,sand,no,"pair in amplexus on same plant, different leaf",2 fungal/parasite,no,leaf is bent/folded. Same plant as HYAVAL24
+BG,TIRTERSPI25,N,42935,TIR,RT2,TERSPI,35,1,1,23,225,over water,under,16,861.494,2242,1,2,Gesneriaceae,Besularia,hairy,14,slow,sand,no,NA,healthy,yes,male calling near
+BG,TIRTERSPI26,N,42935,TIR,RT2,TERSPI,40,1,1,18,80,over water,under,1.9,167.878,2243,2,0.5,Gesneriaceae,Besularia,hairy,13,medium,sand,no,NA,1 undeveloped,no,NA
+BG,TIRTERSPI27,N,42935,TIR,RT3,TERSPI,5.5,1,1,23,90,over land,under,6,109.816,2244,0,4.5,Gesneriaceae,Besularia,hairy,NA,NA,NA,no,NA,healthy,no,NA
+BG,TIRESPPRO21,N,42935,TIR,RT3,ESPPRO,17,1,1,3,150,over land,top,0,221.316,2249,0,11.5,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,NA,NA,4 fungis/parasite,no,eggs sprad out and messed up
+BG,TIRESPPRO20,N,42935,TIR,RT3,ESPPRO,32.5,1,1,NA,210,over water,moss,na,NA,NA,2,1.5,Moss,NA,other,8,slow,mud,no,NA,healthy,NA,amplexus near
+BG,TIRESPPRO22,N,42935,TIR,RT3,ESPPRO,39,"3,4",1,32+-2,200,over water,top,0,174.312,2257,0,6.5,Arecaceae,Palm (same as ESPPRO6),glabrous,19,slow,mud,no,NA,1 fungus/parasite,no,spider near
+BG,TIRESPPRO23,N,42935,TIR,RT1,ESPPRO,18,4,1,5,165,over water,moss,na,NA,NA,0,4.5,Moss,NA,other,8,medium,sand,no,NA,healthy,no,NA
+BG,TIRESPPRO24,N,42935,TIR,RT1,ESPPRO,22.5,uk,1,uk,390,over water,moss,na,NA,NA,0,4.5,Moss,NA,other,12,slow,mud,no,NA,NA,NA,NA
+BG,TIRTERSPI28,N,42935,TIR,RT1,TERSPI,38,1,1,12,220,over water,under,0.4,87.678,2270,3,0,Araceae,NA,glabrous,8,slow,mud,no,NA,healthy,no,"Grasshopper predation, Above TERSPI29"
+BG,TIRTERSPI29,N,42935,TIR,RT1,TERSPI,38,4,1,21,135,over water,under,na,36.347,2272,3,0,Araceae,NA,glabrous,4,slow,mud,no,NA,healthy,yes,Below TERSPI28
+BG,TIRTERSPI30,N,42935,TIR,RT1,TERSPI,50,3,1,20,190,over land,under,na,22.474,2274,0,1,Pteridophyta,NA,glabrous,NA,NA,NA,no,NA,1 undeveloped,no,NA
+BG,TIRTERSPI31,D,42935,TIR,RT1,TERSPI,26,2,1,26,uk,na,under,na,NA,na,1,1.5,Rubiaceae,Palicourea hondensis,glabrous,NA,NA,NA,no,NA,1 undeveloped st2,no,"Same area as TERSPI18,19"
+BG,TIRTERSPI32,D,42935,TIR,RT2,TERSPI,31,4,1,3,uk,na,under,na,NA,na,0,4,Piperaceae,Piper pentagonum,hairy,NA,NA,NA,no,NA,healthy,no,"Same area as TERSPI10, possibly still is TERSPI10 but that one was supposedly fungal/gone 13-jul"
+XOR,P13TERSPI30,N,42937,P13,RT2,TERSPI,9,2,1,25,30,over land,under,2.6,NA,2458,0,NA,Heliconiaceae,NA,glabrous,2,slow,mud,no,NA,healthy,no,NA
+BG,P13HYAVAL30,D,42937,P13,RT3,HYAVAL,20,2,1,38+-2,160,over water,under,20.5,396.297,2414,1,0,Cyclanthaceae,NA,glabrous,9,medium,sand,yes,not touching,healthy,no,Same leaf as HYAVAL20

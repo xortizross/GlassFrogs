@@ -1,0 +1,13 @@
+---
+title: "Notes"
+output: html_notebook
+---
+
+# Git
+
+Opening a branch from RStudio: use the shell (Tools > Shell) and type git checkout -b new-branch
+
+
+
+
+# Project

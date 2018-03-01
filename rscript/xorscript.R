@@ -1,15 +1,3 @@
-#### Making my pref data set ####
-
-Pref2<-read.csv('data/Pref2.csv',h=T)
-
-#Subset imported preference data frame to only contain night surveys
-
-pref<-subset(Pref2,Day.Night=='N')
-
-# add a Site.T column that unites site and transect just in case
-
-pref$site.t<-paste(pref$Site, pref$Transect, sep='.')
-
 #### Uploading excel workbooks with multiple sheets at once ####
 
 # uploading excel workbook (yes, with multiple sheets!)
