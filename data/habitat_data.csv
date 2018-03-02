@@ -1,0 +1,452 @@
+,who,date,habitat,site,transect,meter,family,species,leaf.type,no.damaged,moss,pres.predators,photos,leaf.area,leaf.area1,leaf.area2,leaf.area3,file,notes
+1,MET,20-Jul-17,secondary,P1,RT2,2,Ericaceae,Philodendron sp.,glabrous,2,no,no,2275,NA,22.779,14.557,18.619,P1.csv,NA
+2,MET,20-Jul-17,secondary,P1,RT2,4,Clusiaceae,Symphonia globulifera,glabrous,0,no,no,2277,NA,53.528,35.284,19.646,P1.csv,NA
+3,MET,20-Jul-17,secondary,P1,RT2,6,Piperaceae,Piper paulowniifolium,hairy,0,no,no,2278-2280,NA,425.167,739.584,292.407,P1.csv,NA
+4,MET,20-Jul-17,secondary,P1,RT2,8,Acanthaceae,Bravaisia integerrima,hairy,0,no,no,2281,NA,105.088,100.545,56.757,P1.csv,NA
+5,MET,20-Jul-17,secondary,P1,RT2,10,Thelypteridaceae,Thelypteris sp. ,glabrous,0,no,no,2282,NA,6.622,7.407,7.317,P1.csv,NA
+6,MET,20-Jul-17,secondary,P1,RT2,12,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,2283-2284,NA,67.072,61.321,37.445,P1.csv,NA
+7,MET,20-Jul-17,secondary,P1,RT2,14,Costaceae,Costus sp. ,glabrous,0,no,no,2285-2286,NA,102.135,64.363,103.463,P1.csv,NA
+8,MET,20-Jul-17,secondary,P1,RT2,16,Acanthaceae,Bravaisia integerrima,hairy,0,no,no,2287-2289,NA,90.333,151.098,115.424,P1.csv,NA
+9,MET,20-Jul-17,secondary,P1,RT2,18,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,2290,NA,46.102,66.378,103.14,P1.csv,NA
+10,MET,20-Jul-17,secondary,P1,RT2,20,Acanthaceae,Bravaisia integerrima,hairy,0,no,no,2291,NA,291.071,152.764,127.601,P1.csv,NA
+11,MET,20-Jul-17,secondary,P1,RT2,22,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,2292,NA,5.681,7.197,7.973,P1.csv,NA
+12,MET,20-Jul-17,secondary,P1,RT2,24,Heliconiaceae,Heliconia imbricata,glabrous,0,no,no,"2293, 2294, 2296",NA,745.495,797.802,1402.494,P1.csv,NA
+13,MET,20-Jul-17,secondary,P1,RT2,26,Heliconiaceae,Heliconia imbricata,glabrous,0,no,no,"2297, 98, 2301",NA,444.518,407.89,298.471,P1.csv,NA
+14,MET,20-Jul-17,secondary,P1,RT2,28,Melastomataceae,Miconia affinis,hairy,0,no,no,2302,NA,59.743,25.616,29.026,P1.csv,NA
+15,MET,20-Jul-17,secondary,P1,RT2,30,Ericaceae,,glabrous,0,no,no,2303,NA,56.911,129.312,76.976,P1.csv,NA
+16,MET,20-Jul-17,secondary,P1,RT2,32,Thelypteridaceae,Thelypteris sp. ,glabrous,0,no,no,2305,NA,4.978,6.552,7.062,P1.csv,NA
+17,MET,20-Jul-17,secondary,P1,RT2,34,Salicaceae,Pleuranthodendron linderii,hairy,0,no,no,2306-2308,NA,128.505,146.428,121.815,P1.csv,NA
+18,MET,20-Jul-17,secondary,P1,RT2,36,Ericaceae,Philodendron sp.,glabrous,0,no,no,2309-2311,NA,319.625,171.158,81.162,P1.csv,NA
+19,MET,20-Jul-17,secondary,P1,RT2,38,Begoniaceae,Begonia semiovata,glabrous,0,no,no,2312,NA,7.51,14.242,11.468,P1.csv,NA
+20,MET,20-Jul-17,secondary,P1,RT2,40,Piperaceae,Piper urophyllum,glabrous,0,no,no,2313,NA,28.51,32.155,33.095,P1.csv,NA
+21,MET,20-Jul-17,secondary,P1,RT2,42,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,2314-2316,NA,313.105,76.862,200.666,P1.csv,NA
+22,MET,20-Jul-17,secondary,P1,RT2,44,Ericaceae,Philodendron sp.,glabrous,0,no,no,2317-2319,NA,75.768,40.312,47.709,P1.csv,NA
+23,MET,20-Jul-17,secondary,P1,RT2,46,Thelypteridaceae,Thelypteris sp. ,glabrous,0,no,no,2321,NA,6.328,6.323,7.763,P1.csv,NA
+24,MET,20-Jul-17,secondary,P1,RT2,48,Piperaceae,Piper sp. ,hairy,0,no,no,2322,NA,248.416,126.611,249.326,P1.csv,NA
+25,MET,20-Jul-17,secondary,P1,RT2,50,Piperaceae,Piper urophyllum,glabrous,0,no,no,2323,NA,47.338,23.209,42.051,P1.csv,NA
+26,MET,20-Jul-17,secondary,P1,RT1,2,Melastomataceae,Henriettella tuberculosa,glandular,0,no,no,2324,NA,16.692,24.46,41.307,P1.csv,NA
+27,MET,20-Jul-17,secondary,P1,RT1,4,Ericaceae,Geonoma interupta,glabrous,0,no,no,2325,NA,464.867,353.606,218.214,P1.csv,NA
+28,MET,20-Jul-17,secondary,P1,RT1,6,Elaeocarpaceae,Sloanea geniculata,hairy,0,yes,no,2326,NA,151.387,95.602,270.361,P1.csv,NA
+29,MET,20-Jul-17,secondary,P1,RT1,8,Moraceae,Sorocea pubivena,hairy,0,no,no,2327,NA,55.89,62.799,83.537,P1.csv,NA
+30,MET,20-Jul-17,secondary,P1,RT1,10,Marattiaceae,,glabrous,0,no,no,2329,NA,3.283,3.734,3.38,P1.csv,NA
+31,MET,20-Jul-17,secondary,P1,RT1,12,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,spider,2330-2332,NA,221.307,135.934,114.116,P1.csv,NA
+32,MET,20-Jul-17,secondary,P1,RT1,14,Piperaceae,Piper urophyllum,glabrous,0,no,no,2335,NA,36.155,25.357,36.063,P1.csv,NA
+33,MET,20-Jul-17,secondary,P1,RT1,16,Fabaceae,Mimosa watsonii,glabrous,0,no,no,2333,NA,81.808,69.07,84.312,P1.csv,NA
+34,MET,20-Jul-17,secondary,P1,RT1,18,Piperaceae,Piper urophyllum,glabrous,0,no,no,2338,NA,36.41,25.772,37.159,P1.csv,NA
+35,MET,20-Jul-17,secondary,P1,RT1,20,Piperaceae,Piper urophyllum,glabrous,0,no,no,2339,NA,29.866,39.388,35.29,P1.csv,NA
+36,MET,20-Jul-17,secondary,P1,RT1,22,Marcgraviaceae,Marcglavia nepenthoides,glabrous,0,no,no,2341,NA,121.866,50.019,54.887,P1.csv,NA
+37,MET,20-Jul-17,secondary,P1,RT1,24,Thelypteridaceae,,glabrous,0,no,no,2342,NA,12.706,9.702,5.709,P1.csv,NA
+38,MET,20-Jul-17,secondary,P1,RT1,26,Thelypteridaceae,,glabrous,0,no,no,2344,NA,70.406,64.941,61.086,P1.csv,NA
+39,MET,20-Jul-17,secondary,P1,RT1,28,Ericaceae,Geonoma interupta,glabrous,0,no,no,2346-2347,NA,315.737,188.148,286.815,P1.csv,NA
+40,MET,20-Jul-17,secondary,P1,RT1,30,Urticaceae,Myriocarpa longipes,hairy,0,no,no,2348-2349,NA,142.864,310.352,119.02,P1.csv,NA
+41,MET,20-Jul-17,secondary,P1,RT1,32,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,2350,NA,36.447,27.418,25.066,P1.csv,NA
+42,MET,20-Jul-17,secondary,P1,RT1,34,Tectariaceae,Tectaria sp.,spores,0,no,no,2351,NA,181.489,72.529,63.126,P1.csv,NA
+43,MET,20-Jul-17,secondary,P1,RT1,36,Melastomataceae,Miconia affinis,glabrous,0,no,ants,2352-2356,NA,10.521,10.559,11.113,P1.csv,NA
+44,MET,20-Jul-17,secondary,P1,RT1,38,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,2357,NA,18.887,13.85,6.912,P1.csv,NA
+45,MET,20-Jul-17,secondary,P1,RT1,40,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,2358-2359,NA,24.455,41.359,70.667,P1.csv,NA
+46,MET,20-Jul-17,secondary,P1,RT1,42,Ericaceae,Rhodospatha wendlandii,glabrous,0,no,no,2360-2362,NA,110.141,122.4,23.193,P1.csv,NA
+47,MET,20-Jul-17,secondary,P1,RT1,44,Ericaceae,Rhodospatha wendlandii,glabrous,0,no,no,2363-2365,NA,96.608,89.077,85.728,P1.csv,NA
+48,MET,20-Jul-17,secondary,P1,RT1,46,Solanaceae,Solanum arboreum,glabrous,0,no,no,2367-2368,NA,93.32,66.712,78.999,P1.csv,NA
+49,MET,20-Jul-17,secondary,P1,RT1,48,Cannabaceae,Celtis iguanaca,glabrous,0,no,no,2369,NA,21.287,24.669,30.809,P1.csv,NA
+50,MET,20-Jul-17,secondary,P1,RT1,50,Fabaceae,Inga oestediana,hairy,0,no,no,2370,NA,69.341,61.85,60.598,P1.csv,NA
+51,MET,30-Jun-17,secondary,P13,RT2,2,Marantaceae,,glabrous,0,no,no,1420-1423,NA,606.864,510.123,591.252,P13.csv,NA
+52,MET,30-Jun-17,secondary,P13,RT2,4,Rubiaceae,Faramea suerrensis,glabrous,0,no,no,1424,NA,44.332,95.062,76.933,P13.csv,NA
+53,MET,30-Jun-17,secondary,P13,RT2,6,Marantaceae,Geoppertia inocephala,glabrous,0,no,ants,1427-1430,NA,2457.944,3096.365,845.307,P13.csv,NA
+54,MET,30-Jun-17,secondary,P13,RT2,8,Ericaceae,,glabrous,0,no,no,1431-1433,NA,69.384,76.331,109.412,P13.csv,NA
+55,MET,30-Jun-17,secondary,P13,RT2,10,Ericaceae,Prestobea decurrens,glabrous,0,no,no,1434-1435,NA,57.475,57.837,59.448,P13.csv,NA
+56,MET,30-Jun-17,secondary,P13,RT2,12,Ericaceae,,glabrous,0,no,no,1436-1438,NA,69.69,73.862,74.956,P13.csv,NA
+57,MET,30-Jun-17,secondary,P13,RT2,14,Ericaceae,Prestobea decurrens,glabrous,0,no,ants,1439-1441,NA,83.086,73.254,63.432,P13.csv,NA
+58,MET,30-Jun-17,secondary,P13,RT2,16,Rubiaceae,Psychotia ilata,glabrous,0,no,no,1442-1445,NA,84.037,56.459,97.969,P13.csv,NA
+59,MET,30-Jun-17,secondary,P13,RT2,18,Ericaceae,Astrogenia marteana,glabrous,0,no,no,1446-1449,NA,872.133,819.388,851.279,P13.csv,NA
+60,MET,30-Jun-17,secondary,P13,RT2,20,Melastomataceae,Henriettea tuberculosa,glandular,0,no,no,1450-1452,NA,21.478,20.888,44.567,P13.csv,NA
+61,MET,30-Jun-17,secondary,P13,RT2,22,Malvaceae,Herrania purpurea,glabrous,0,no,no,1453-1457,NA,74.836,145.81,183.402,P13.csv,NA
+62,MET,30-Jun-17,secondary,P13,RT2,24,Ericaceae,,glabrous,0,no,no,1458-1460,NA,68.797,70.92,88.11,P13.csv,NA
+63,MET,30-Jun-17,secondary,P13,RT2,26,Ericaceae,Spathaphyllum sp. ,glabrous,0,no,no,1461-1463,NA,309.938,305.864,420.191,P13.csv,NA
+64,MET,30-Jun-17,secondary,P13,RT2,28,Acanthaceae,,glabrous,0,no,no,1464-1468,NA,16.547,18.223,24.614,P13.csv,NA
+65,MET,30-Jun-17,secondary,P13,RT2,30,Melastomataceae,Henriettea tuberculosa,glandular,0,no,no,1469-1471,NA,27.47,23.039,23.629,P13.csv,NA
+66,MET,30-Jun-17,secondary,P13,RT2,32,Bignoniaceae,Tanaecium pyramidatum,glabrous,0,no,no,1473-1477,NA,44.577,48.036,37.428,P13.csv,NA
+67,MET,30-Jun-17,secondary,P13,RT2,34,Ericaceae,Philodendron grandipes,glabrous,0,no,no,1478-1481,NA,415.577,415.597,328.072,P13.csv,NA
+68,MET,30-Jun-17,secondary,P13,RT2,36,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1483-1485,NA,92.231,119.447,71.469,P13.csv,NA
+69,MET,30-Jun-17,secondary,P13,RT2,38,Bignoniaceae,Tanaecium pyramidatum,glabrous,0,no,no,1486-1491,NA,38.04,35.897,28.812,P13.csv,NA
+70,MET,30-Jun-17,secondary,P13,RT2,40,Costaceae,,glabrous,0,no,no,1493-1494,NA,119.41,171.291,56.788,P13.csv,NA
+71,MET,30-Jun-17,secondary,P13,RT2,42,Piperaceae,Piper decurrens,glabrous,0,no,no,1495-1496,NA,22.575,36.255,27.42,P13.csv,NA
+72,MET,30-Jun-17,secondary,P13,RT2,44,Rubiaceae,Chione venosa,glabrous,0,no,no,1497-1501,NA,92.293,74.074,106.462,P13.csv,NA
+73,MET,30-Jun-17,secondary,P13,RT2,46,Ericaceae,Prestobea decurrens,glabrous,0,no,no,1502-1504,NA,34.976,56.047,12.782,P13.csv,NA
+74,MET,30-Jun-17,secondary,P13,RT2,48,Ericaceae,Spathaphyllum sp. ,glabrous,0,no,no,1506-1508,NA,157.596,136.578,242.356,P13.csv,NA
+75,MET,30-Jun-17,secondary,P13,RT2,50,Ericaceae,longevaginata,glabrous,1,no,no,,NA,96.976,132.965,52.977,P13.csv,NA
+76,MET,21-Jul-17,secondary,P13,RT3,2,Piperaceae,Piper sp. ,glabrous,0,no,no,"2399, 2400-2401",NA,219.778,206.852,141.872,P13.csv,NA
+77,MET,21-Jul-17,secondary,P13,RT3,4,Piperaceae,Piper sp. ,hairy,0,no,no,2402,NA,91.723,89.898,90.348,P13.csv,NA
+78,MET,21-Jul-17,secondary,P13,RT3,6,Marantaceae ,Geonoma longevaginata,glabrous,0,no,no,2403-2406,NA,356.654,189.023,177.352,P13.csv,NA
+79,MET,21-Jul-17,secondary,P13,RT3,8,Ericaceae,,glabrous,0,no,no,2407,NA,35.748,47.484,47.817,P13.csv,NA
+80,MET,21-Jul-17,secondary,P13,RT3,10,Araliaceae,Dendropanax arboreus,glabrous,1,no,no,too tall,NA,NA,NA,NA,P13.csv,NA
+81,MET,21-Jul-17,secondary,P13,RT3,12,Ericaceae,,glabrous,0,no,no,2408,NA,42.103,63.682,53.115,P13.csv,NA
+82,MET,21-Jul-17,secondary,P13,RT3,14,Ericaceae,,glabrous,0,no,no,2409-2410,NA,39.949,70.273,50.982,P13.csv,NA
+83,MET,21-Jul-17,secondary,P13,RT3,16,Fabaceae,,glabrous,0,no,no,too tall,NA,NA,NA,NA,P13.csv,NA
+84,MET,21-Jul-17,secondary,P13,RT3,18,Poaceae,,hairy,0,no,no,2411,NA,33.118,31.194,38.552,P13.csv,NA
+85,MET,21-Jul-17,secondary,P13,RT3,20,Ericaceae,Prestobea decurrens,glabrous,0,no,no,2412-2413,NA,38.581,28.291,25.104,P13.csv,NA
+86,MET,21-Jul-17,secondary,P13,RT3,22,Apocynaceae,Tabernaemontana arborea,glabrous,0,no,no,2415-2417,NA,376.104,NA,NA,P13.csv,NA
+87,MET,21-Jul-17,secondary,P13,RT3,24,Thelypteridaceae,Thelypteris sp. ,glabrous,0,no,no,2419,NA,10.762,5.887,3.143,P13.csv,NA
+88,MET,21-Jul-17,secondary,P13,RT3,26,Unknown,,,0,no,no,2420 (too tall or same as below?),NA,NA,NA,NA,P13.csv,NA
+89,MET,21-Jul-17,secondary,P13,RT3,28,Olacaceae,Minquartia guianensis,glabrous,0,no,no,2421-2423,NA,79.518,73.037,62.136,P13.csv,NA
+90,MET,21-Jul-17,secondary,P13,RT3,30,Ericaceae,Spathaphyllum sp. ,glabrous,0,no,no,2424-2426,NA,343.384,286.219,201.024,P13.csv,NA
+91,MET,21-Jul-17,secondary,P13,RT3,32,Ericaceae,,glabrous,0,no,no,2427-2429,NA,101.397,89.199,107.703,P13.csv,NA
+92,MET,21-Jul-17,secondary,P13,RT3,34,Sapindaceae,Allophylus psilospermus,glabrous,0,no,no,2430-2431,NA,57.299,91.907,51.028,P13.csv,NA
+93,MET,21-Jul-17,secondary,P13,RT3,36,Melastomataceae,Miconia appendiculata,glabrous,0,no,no,2432-2434,NA,108.798,73.9,63.823,P13.csv,NA
+94,MET,21-Jul-17,secondary,P13,RT3,38,Melastomataceae,Miconia gracilis,glabrous,0,no,no,2435,NA,74.343,150.883,206.536,P13.csv,NA
+95,MET,21-Jul-17,secondary,P13,RT3,40,Heliconiaceae,Heliconia irrasa,glabrous,0,no,no,2436-2437,NA,546.581,438.236,360.394,P13.csv,NA
+96,MET,21-Jul-17,secondary,P13,RT3,42,Piperaceae,Piper colonense,hairy,0,yes,no,2438-2440,NA,20.908,22.031,42.518,P13.csv,NA
+97,MET,21-Jul-17,secondary,P13,RT3,44,Cyclanthaceae,,glabrous,0,no,no,2441-2443,NA,317.144,260.922,206.405,P13.csv,NA
+98,MET,21-Jul-17,secondary,P13,RT3,46,Helypteridaceae,,spores,0,no,no,2444,NA,20.824,26.83,27.222,P13.csv,NA
+99,MET,21-Jul-17,secondary,P13,RT3,48,Ericaceae,Philodendron sp. ,glabrous,0,no,no,2445-2447,NA,11.18,15.324,7.26,P13.csv,NA
+100,MET,21-Jul-17,secondary,P13,RT3,50,Siparunaceae,Siparuna pauciflora,hairy,0,no,no,2448-2455,NA,74.277,49.636,37.743,P13.csv,NA
+101,MET,28-Jun-17,secondary,P15,RT2,2,Pteridophyta unknown familiy,,spores,0,no,no,1156,NA,10.714,11.793,18.752,P15.csv,NA
+102,MET,28-Jun-17,secondary,P15,RT2,4,Pteridophyta unknown familiy,,spores,0,no,no,1157,NA,6.533,8.217,9.727,P15.csv,NA
+103,MET,28-Jun-17,secondary,P15,RT2,6,Burseraceae,Protium panemense,glabrous,0,no,no,1158-1160,NA,67.291,88.771,161.693,P15.csv,NA
+104,MET,28-Jun-17,secondary,P15,RT2,8,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,"1164, 1165, 1167",NA,171.303,141.716,148.22,P15.csv,NA
+105,MET,28-Jun-17,secondary,P15,RT2,10,Rubiaceae,Warszewiczia coccinea,hairy,1,yes,no,1168-1170,NA,187.864,160.43,132.046,P15.csv,NA
+106,MET,28-Jun-17,secondary,P15,RT2,12,Cyclanthaceae,,glabrous,0,no,no,1172-1174,NA,291.439,222.017,133.697,P15.csv,NA
+107,MET,28-Jun-17,secondary,P15,RT2,14,Heliconiaceae,Heliconia irrasa,glabrous,0,no,no,1175-,NA,254.86,163.69,47.772,P15.csv,NA
+108,MET,28-Jun-17,secondary,P15,RT2,16,Annonaceae ,Guataria auringinosa,hairy,0,no,no,1184-1186,NA,204.043,121.702,85.448,P15.csv,NA
+109,MET,28-Jun-17,secondary,P15,RT2,18,Lacistemataceae ,Lozania pittieri,glabrous,0,no,no,1187,NA,35.514,53.04,42.992,P15.csv,NA
+110,MET,28-Jun-17,secondary,P15,RT2,20,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1189,NA,148.601,60.91,51.14,P15.csv,NA
+111,MET,28-Jun-17,secondary,P15,RT2,22,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1190,NA,204.015,44.744,71.013,P15.csv,NA
+112,MET,28-Jun-17,secondary,P15,RT2,24,Rubiaceae,Warszewiczia coccinea,hairy,0,no,no,1191-1193,NA,59.093,42.631,35.42,P15.csv,NA
+113,MET,28-Jun-17,secondary,P15,RT2,26,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,2,no,no,1194-1196,NA,54.224,53.575,23.841,P15.csv,NA
+114,MET,28-Jun-17,secondary,P15,RT2,28,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,1198-1200,NA,160.583,193.116,135.408,P15.csv,NA
+115,MET,28-Jun-17,secondary,P15,RT2,30,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,1201-1203,NA,75.501,124.951,80.848,P15.csv,NA
+116,MET,28-Jun-17,secondary,P15,RT2,32,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1205,NA,137.262,60.194,142.778,P15.csv,NA
+117,MET,28-Jun-17,secondary,P15,RT2,34,Melastomataceae,Miconia multispicata,hairy,0,no,no,"1208, 1210",NA,103.606,98.835,138.471,P15.csv,NA
+118,MET,28-Jun-17,secondary,P15,RT2,36,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1212,NA,142.92,38.023,61.304,P15.csv,NA
+119,MET,28-Jun-17,secondary,P15,RT2,38,Cyclanthaceae,Asplunia sleeperie,glabrous,3,no,no,1214-1216,NA,1495.514,1276.674,1290.838,P15.csv,NA
+120,MET,28-Jun-17,secondary,P15,RT2,40,Cyclanthaceae,,glabrous,0,no,no,1218-1220,NA,156.381,94.227,100.146,P15.csv,NA
+121,MET,28-Jun-17,secondary,P15,RT2,42,Tectariaceae,Tectaria sp.,glabrous,NA,no,no,1222,NA,135.971,32.928,18.901,P15.csv,NA
+122,MET,28-Jun-17,secondary,P15,RT2,44,Ericaceae,Anthurium ochranthum,glabrous,1,no,no,1229-1231,NA,469.702,817.67,770.961,P15.csv,NA
+123,MET,28-Jun-17,secondary,P15,RT2,46,Tectariaceae,Tectaria sp.,glabrous,0,no,ants,1232,NA,145.655,52.223,61.874,P15.csv,NA
+124,MET,28-Jun-17,secondary,P15,RT2,48,Burseraceae,Protium panemense,glabrous,0,yes,no,1233-1235 (look up),NA,NA,NA,NA,P15.csv,NA
+125,MET,28-Jun-17,secondary,P15,RT2,50,Piperaceae,Piper pseudobumbratum,glabrous,0,no,no,1236-1240,NA,92.315,80.799,128.742,P15.csv,NA
+126,MET,28-Jun-17,secondary,P15,RT3,2,Gesneriaceae,Besleria robusta,hairy,0,yes,no,1254-1256,NA,171.977,119.062,220.125,P15.csv,NA
+127,MET,28-Jun-17,secondary,P15,RT3,4,Heliconiaceae,Heliconia irrasa,glabrous,0,no,no,1257-1259,NA,205.032,201.173,83.761,P15.csv,NA
+128,MET,28-Jun-17,secondary,P15,RT3,6,Heliconiaceae,Heliconia irrasa,glabrous,1,no,no,"1260, 1261, 1263",NA,529.837,231.646,644.945,P15.csv,NA
+129,MET,28-Jun-17,secondary,P15,RT3,8,Melastomataceae,Conostegia micrantha,hairy,0,no,no,1265-1267,NA,131.034,94.557,42.672,P15.csv,NA
+130,MET,28-Jun-17,secondary,P15,RT3,10,Tectariaceae,Tectaria sp.,spores,1,no,no,1268,NA,104.306,29.503,17.542,P15.csv,NA
+131,MET,28-Jun-17,secondary,P15,RT3,12,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1270,NA,127.381,50.32,48.8,P15.csv,NA
+132,MET,28-Jun-17,secondary,P15,RT3,14,Melastomataceae,Henriettea tuberculosa,glandular,0,no,no,1271-1273,NA,32.398,41.816,34.172,P15.csv,NA
+133,MET,28-Jun-17,secondary,P15,RT3,16,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1274,NA,116.698,47.698,37.926,P15.csv,NA
+134,MET,28-Jun-17,secondary,P15,RT3,18,Tectariaceae,Tectaria sp.,spores,0,no,no,1277,NA,263.998,77.297,93.007,P15.csv,NA
+135,MET,28-Jun-17,secondary,P15,RT3,20,Ericaceae,Philodendron grandipes,glabrous,0,no,no,"1279-1280, 1283",NA,457.012,319.785,206.709,P15.csv,NA
+136,MET,28-Jun-17,secondary,P15,RT3,22,Piperaceae,Piper culebranum,hairs,0,no,no,1287-1289,NA,57.141,37.7,48.392,P15.csv,NA
+137,MET,28-Jun-17,secondary,P15,RT3,24,Rubiaceae,Warszewiczia coccinea,glabrous,1,no,no,1294-1296,NA,442.728,206.497,149.731,P15.csv,NA
+138,MET,28-Jun-17,secondary,P15,RT3,26,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1297,NA,52.302,106.196,39.896,P15.csv,NA
+139,MET,28-Jun-17,secondary,P15,RT3,28,Convolvulaceae,Ipomodea sp. ,glabrous,0,no,no,1298 (look up),NA,NA,NA,NA,P15.csv,NA
+140,MET,28-Jun-17,secondary,P15,RT3,30,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1299,NA,240.603,67.29,59.801,P15.csv,NA
+141,MET,28-Jun-17,secondary,P15,RT3,32,Cyclanthaceae,,glabrous,0,no,no,1300-1302,NA,58.567,47.944,52.116,P15.csv,NA
+142,MET,28-Jun-17,secondary,P15,RT3,34,Rhamnaceae,Colubrina spinosa ,glabrous,0,yes,no,1303-1305,NA,117.982,80.845,166.114,P15.csv,NA
+143,MET,28-Jun-17,secondary,P15,RT3,36,Melastomataceae,Conostegia setifera,hairy,0,yes,no,1306-1309,NA,91.535,78.898,86.482,P15.csv,NA
+144,MET,28-Jun-17,secondary,P15,RT3,38,Melastomataceae,Conostegia setifera,hairy,0,yes,no,"1306-1308, 1312",NA,128.181,105.863,64.814,P15.csv,NA
+145,MET,28-Jun-17,secondary,P15,RT3,40,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,1,no,no,1313-1315,NA,165.29,105.834,133.118,P15.csv,NA
+146,MET,28-Jun-17,secondary,P15,RT3,42,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,1316-1319,NA,192.65,161.098,185.769,P15.csv,NA
+147,MET,28-Jun-17,secondary,P15,RT3,44,Melastomataceae,Conostegia micrantha,hairy,0,no,no,1320-1322,NA,117.976,176.895,139.64,P15.csv,NA
+148,MET,28-Jun-17,secondary,P15,RT3,46,Acanthaceae,Odontonema tubaeforme,glabrous,0,no,no,1323-1325,NA,26.347,30.47,16.958,P15.csv,NA
+149,MET,28-Jun-17,secondary,P15,RT3,48,Fabaceae,Inga leiocalycina,hairy,0,no,no,1326-1330,NA,40.831,24.914,37.007,P15.csv,NA
+150,MET,28-Jun-17,secondary,P15,RT3,50,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1331,NA,102.231,71.005,83.73,P15.csv,NA
+151,MET,3-Jun-17,old,P16,RT1,2,Ericaceae,Philodendron alliodorum,glabrous,0,no,,628-630,NA,81.87,79.96,89.42,P16.csv,NA
+152,MET,3-Jun-17,old,P16,RT1,4,Costaceae,Costus malorteanus,hairy,0,no,,623-627,NA,264.42,173.06,166.23,P16.csv,NA
+153,MET,3-Jun-17,old,P16,RT1,6,Myrtaceae,Eugenia hartshornii,glaucous,0,yes,,"615-619, 620-622",NA,86.85,75.56,104.29,P16.csv,NA
+154,MET,3-Jun-17,old,P16,RT1,8,Ochnaceae,Quiina macrophylla,glabrous,1,no,,"608-611, 612-614",NA,38.52,62.83,31.98,P16.csv,NA
+155,MET,3-Jun-17,old,P16,RT1,10,Fabaceae,Pentaclethra macroloba,glabrous,0,no,,606-607,NA,NA,NA,NA,P16.csv,NA
+156,MET,3-Jun-17,old,P16,RT1,12,Ericaceae,Welfia regia,glabrous,0,no,,603-605,NA,83.26,32.42,66.06,P16.csv,NA
+157,MET,3-Jun-17,old,P16,RT1,14,Moraceae,Maquira guianensis,glabrous,0,yes,,508-510,NA,161.62,198.07,228.1,P16.csv,NA
+158,MET,3-Jun-17,old,P16,RT1,16,Ericaceae,Spathiphyllum sp.,glabrous,2,no,,"511-516, 517-519",NA,464.08,801.01,709.15,P16.csv,NA
+159,MET,3-Jun-17,old,P16,RT1,18,Ericaceae,Spathiphyllum sp.,glabrous,1,no,,"520-522, 523-525",NA,159.89,141.18,168.81,P16.csv,NA
+160,MET,3-Jun-17,old,P16,RT1,20,Tectariaceae,Tectaria sp.,spores,1,no,,"526-527, 528",NA,122.51,44.42,69.72,P16.csv,NA
+161,MET,3-Jun-17,old,P16,RT1,22,Ericaceae,Spathiphyllum sp.,glabrous,0,no,,529-531,NA,317.55,188.38,155.48,P16.csv,NA
+162,MET,3-Jun-17,old,P16,RT1,24,Melastomataceae,Conostegia micrantha,hairy,0,no,,"532-536, 537-539",NA,38.99,132.66,219.79,P16.csv,NA
+163,MET,3-Jun-17,old,P16,RT1,26,Achariaceae,Carpotroche platyptera,,0,no,,"540-543, 544-546",NA,75.47,83.49,74.07,P16.csv,NA
+164,MET,3-Jun-17,old,P16,RT1,28,Ericaceae,Calyptrogyne ghiesbreghtiana,glabrous,3,no,,"547-549, 550-552",NA,1300.95,774.69,1172.13,P16.csv,NA
+165,MET,3-Jun-17,old,P16,RT1,30,Cyclanthaceae,Dicranopygium wedelii,glabrous,0,no,,"553-555, 556-558",NA,104.38,109.01,39.95,P16.csv,NA
+166,MET,3-Jun-17,old,P16,RT1,32,Ericaceae,Philodendron alliodorum,glabrous,0,no,,"559-560, 561-563",NA,135.24,114.76,157.12,P16.csv,NA
+167,MET,3-Jun-17,old,P16,RT1,34,Ericaceae,Philodendron alliodorum,glabrous,1,no,,564-566,NA,53.33,24.7,24.12,P16.csv,NA
+168,MET,3-Jun-17,old,P16,RT1,36,Ericaceae,Philodendron alliodorum,glabrous,0,no,,567-569,NA,148.77,182.54,115.23,P16.csv,NA
+169,MET,3-Jun-17,old,P16,RT1,38,Rubiaceae,Palicourea hondensis,glabrous,0,no,,"570-577, 578-580",NA,47.96,197.46,206.98,P16.csv,NA
+170,MET,3-Jun-17,old,P16,RT1,40,Ericaceae,Geonoma congesta,glabrous,2,no,,584-589,NA,1091.68,1156.62,482.21,P16.csv,NA
+171,MET,3-Jun-17,old,P16,RT1,42,Ericaceae,Geonoma congesta,glabrous,1,no,,584-589,NA,560.84,94.88,564.67,P16.csv,NA
+172,MET,3-Jun-17,old,P16,RT1,44,Achariaceae,Carpotroche platyptera,glabrous,2,no,,595-596,NA,145.83,100.99,149.72,P16.csv,NA
+173,MET,3-Jun-17,old,P16,RT1,46,Ericaceae,Geonoma congesta,glabrous,2,no,,597-599,NA,617.67,699.37,743.11,P16.csv,NA
+174,MET,3-Jun-17,old,P16,RT1,48,Ericaceae,Geonoma congesta,glabrous,2,no,,600-602,NA,1075.72,1294.13,443.66,P16.csv,NA
+175,MET,3-Jun-17,old,P16,RT1,50,Melastomataceae,Miconia appendiculata,glabrous,0,no,,505-507,NA,232.72,488.48,206.63,P16.csv,NA
+176,MET,18-Jul-17,old,P16,RT2,2,Gesneriaceae,Drymonia submarginalis,hairy,0,no,no,1704-1706,NA,119.149,92.42,77.603,P16.csv,NA
+177,MET,18-Jul-17,old,P16,RT2,4,Heliconiaceae,Heliconia mathiasiae,glabous,0,no,no,1707-1710,NA,177.487,145.799,296.147,P16.csv,NA
+178,MET,18-Jul-17,old,P16,RT2,6,Ericaceae,Asterogyne martiana,glabous,0,no,no,1711-1713,NA,NA,NA,NA,P16.csv,NA
+179,MET,18-Jul-17,old,P16,RT2,8,Costaceae,Costus sp.,glabrous,0,no,no,2004-2006,NA,95.328,85.469,80.197,P16.csv,NA
+180,MET,18-Jul-17,old,P16,RT2,10,Ericaceae,Asterogyne martiana,glabrous,0,no,no,2009-2011,NA,632.15,345.925,246.357,P16.csv,NA
+181,MET,18-Jul-17,old,P16,RT2,12,Rhamnaceae,Colubrina spinosa,glabrous,0,yes,no,2012-2014,NA,103.831,80.613,75.643,P16.csv,NA
+182,MET,18-Jul-17,old,P16,RT2,14,Rhamnaceae,Colubrina spinosa,glabrous,1,yes,no,2015-2017,NA,129.374,113.192,70.114,P16.csv,NA
+183,MET,18-Jul-17,old,P16,RT2,16,Costaceae,Costus sp.,glabrous,1,no,no,2018-2020,NA,51.704,149.556,81.413,P16.csv,NA
+184,MET,18-Jul-17,old,P16,RT2,18,Piperaceae,Piper decurrens,glabrous,0,no,no,2021,NA,29.214,23.012,31.451,P16.csv,NA
+185,MET,18-Jul-17,old,P16,RT2,20,Solanaceae,Solanum arboreum,glabrous,0,no,no,2022-2024,NA,106.447,128.401,122.638,P16.csv,NA
+186,MET,18-Jul-17,old,P16,RT2,22,Annonaceae,Desmopsis microcarpa,glabrous,0,no,no,2025-2027,NA,104.4,57.349,92.149,P16.csv,NA
+187,MET,18-Jul-17,old,P16,RT2,24,Piperaceae,Piper decurrens,glabrous,0,no,yes,2028,NA,30.948,24.682,31.066,P16.csv,NA
+188,MET,18-Jul-17,old,P16,RT2,26,Tectariaceae,Tectaria sp.,glabrous,1,no,no,2029-2031,NA,139.347,94.747,21.478,P16.csv,NA
+189,MET,18-Jul-17,old,P16,RT2,28,Ericaceae,Asterogyne martiana,glabrous,0,no,no,2033-2035,NA,1099.643,1044.321,542.707,P16.csv,NA
+190,MET,18-Jul-17,old,P16,RT2,30,Melastomataceae,Conostegia micrantha,hairy,1,no,no,2036-2037,NA,87.074,64.249,108.16,P16.csv,NA
+191,MET,18-Jul-17,old,P16,RT2,32,Piperaceae,Piper decurrens,glabrous,0,no,no,2038,NA,26.978,9.962,28.264,P16.csv,NA
+192,MET,18-Jul-17,old,P16,RT2,34,Primulaceae,Cybianthus schlimii,glabrous,0,no,no,2039-2042,NA,433.758,382.136,390.946,P16.csv,NA
+193,MET,18-Jul-17,old,P16,RT2,36,Piperaceae,Piper cenocladum,hairy,0,no,no,2043-2045,NA,367.468,518.648,156.442,P16.csv,NA
+194,MET,18-Jul-17,old,P16,RT2,38,Marattiaceae,Danaea wendlandii,glabrous,0,no,no,2062-2064,NA,322.604,303.633,136.756,P16.csv,NA
+195,MET,18-Jul-17,old,P16,RT2,40,Clusiaceae,Chrysochlamys nicaraguersis,glabrous,0,no,no,2054,NA,53.061,46.955,61.023,P16.csv,NA
+196,MET,18-Jul-17,old,P16,RT2,42,Melastomataceae,Henriettella tuberculosa,glandular,0,no,no,2053,NA,41.479,33.948,34.747,P16.csv,NA
+197,MET,18-Jul-17,old,P16,RT2,44,Gesneriaceae,Beseleria pauciflora,hairy,0,no,no,2050-2052,NA,105.941,115.311,50.362,P16.csv,NA
+198,MET,18-Jul-17,old,P16,RT2,46,Heliconiaceae,Heliconia irrasa,glabrous,2,no,spider,2047-2049,NA,514.855,496.013,145.995,P16.csv,NA
+199,MET,18-Jul-17,old,P16,RT2,48,Piperaceae,Piper decurrens,glabrous,0,no,no,2046,NA,25.683,17.091,16.066,P16.csv,NA
+200,MET,18-Jul-17,old,P16,RT2,50,Ericaceae,Asterogyne martiana,glabrous,0,no,no,"2056, 2058, 2061",NA,221.581,1001.973,261.127,P16.csv,NA
+201,MET,11-Jul-17,old,P5,RT2,2,Melastomataceae,Micronia nerviosa,hairy,1,no,no,1860-1862,NA,178.081,24,151.849,P5.csv,NA
+202,MET,11-Jul-17,old,P5,RT2,4,Ericaceae,Spathaphyllum sp. ,glabrous,1,no,no,1863-1865,NA,384.494,25,343.971,P5.csv,NA
+203,MET,11-Jul-17,old,P5,RT2,6,Violaceae,Gloeospermum diversipetalum,,1,no,no,1866-1868,NA,107.113,37,51.752,P5.csv,NA
+204,MET,11-Jul-17,old,P5,RT2,8,Ericaceae,Astrogenea marteana,glabrous,1,no,no,1870-1872,NA,924.53,4,455.996,P5.csv,NA
+205,MET,11-Jul-17,old,P5,RT2,10,Lauraceae,Ocotea dendrodaphne,glabrous,1,no,no,1873-1875,NA,133.681,46,162.685,P5.csv,NA
+206,MET,11-Jul-17,old,P5,RT2,12,Melastomataceae,Henriettea tuberculosa,glandular,1,no,no,1876-1878,NA,40.247,35,36.746,P5.csv,NA
+207,MET,11-Jul-17,old,P5,RT2,14,Ericaceae,Astrogenea marteana,glabrous,2,no,no,1879-1881,NA,764.836,38,1328.634,P5.csv,NA
+208,MET,11-Jul-17,old,P5,RT2,16,Ericaceae,Astrogenea marteana,glabrous,1,no,no,1882-1884,NA,1776.186,48,1363.639,P5.csv,NA
+209,MET,11-Jul-17,old,P5,RT2,18,Lacistemataceae,Lozania pitten,glabrous,0,no,no,1885,NA,30.795,15,24.334,P5.csv,NA
+210,MET,11-Jul-17,old,P5,RT2,20,Rubiaceae,Psychotis surrensis,glabrous,0,no,no,1886-88,NA,133.313,47,63.029,P5.csv,NA
+211,MET,11-Jul-17,old,P5,RT2,22,Tectariaceae,Tectaria sp.,glabrous,0,no,no,1889-191,NA,634.009,1,NA,P5.csv,NA
+212,MET,11-Jul-17,old,P5,RT2,24,Fabaceae,Inga alba,glabrous,0,no,no,1898-1900,NA,150.689,13,262.359,P5.csv,NA
+213,MET,11-Jul-17,old,P5,RT2,26,Cyclanthaceae,,glabrous,0,no,no,1903,NA,3.199,30,2.908,P5.csv,NA
+214,MET,11-Jul-17,old,P5,RT2,28,Thelidaceae,,glabrous,0,no,no,1904-1905,NA,24.498,45,24.586,P5.csv,NA
+215,MET,11-Jul-17,old,P5,RT2,30,Thelidaceae,,glabrous,0,no,no,1906-1908,NA,270.526,19,406.955,P5.csv,NA
+216,MET,11-Jul-17,old,P5,RT2,32,Ericaceae,,glabrous,0,no,no,1911-1913,NA,38.048,27,23.165,P5.csv,NA
+217,MET,11-Jul-17,old,P5,RT2,34,Melastomataceae,Henriettea tuberculosa,glandular,1,no,no,1914,NA,25.682,16,33.363,P5.csv,NA
+218,MET,11-Jul-17,old,P5,RT2,36,Salicaceae,Pleuranthodendron lindenii,glabrous,0,no,no,1915,NA,46.138,26,12.79,P5.csv,NA
+219,MET,11-Jul-17,old,P5,RT2,38,Ericaceae,,glabrous,0,no,no,1916-1918,NA,129.753,42,73.186,P5.csv,NA
+220,MET,11-Jul-17,old,P5,RT2,40,Ericaceae,,glabrous,0,no,no,1919-1920,NA,118.714,2,73.381,P5.csv,NA
+221,MET,11-Jul-17,old,P5,RT2,42,Melastomataceae,Micronia nerviosa,hairy,0,no,no,1921-1923,NA,333.261,12,417.953,P5.csv,NA
+222,MET,11-Jul-17,old,P5,RT2,44,Ericaceae,Geonoma congesta,glabrous,0,no,no,1924-1926,NA,489.974,9,271.475,P5.csv,NA
+223,MET,11-Jul-17,old,P5,RT2,46,Cyclanthaceae,,glabrous,0,no,no,1927-1929,NA,65.606,39,57.538,P5.csv,NA
+224,MET,11-Jul-17,old,P5,RT2,48,Costaceae,,glabrous,0,no,no,1930,NA,121.042,3,103.922,P5.csv,NA
+225,MET,19-Jul-17,old,P5,RT1,2,Moraceae,Brosimum lactescens,hairy,0,yes,no,2079-2081,NA,66.555,28,61.04,P5.csv,NA
+226,MET,19-Jul-17,old,P5,RT1,4,Ericaceae,Philodendron sp. ,glabrous,1,no,no,2082-2084,NA,36.665,31,35.654,P5.csv,NA
+227,MET,19-Jul-17,old,P5,RT1,6,Violaceae,Gloeospermum diversipetalum,,0,yes,no,2085,NA,38.761,17,51.808,P5.csv,NA
+228,MET,19-Jul-17,old,P5,RT1,8,Melastomataceae,rusty hairs,hairy,0,no,no,2086-2088,NA,139.212,14,122.469,P5.csv,NA
+229,MET,19-Jul-17,old,P5,RT1,10,Melastomataceae,Miconia approximata,hairy,0,no,no,2089-2091,NA,86.984,33,53.998,P5.csv,NA
+230,MET,19-Jul-17,old,P5,RT1,12,Ericaceae,,glabrous,0,no,no,"2092, 2093, 2094, 2095",NA,87.54,43,120.778,P5.csv,NA
+231,MET,19-Jul-17,old,P5,RT1,14,Ericaceae,,glabrous,0,no,no,"2100, 2101, 2096",NA,710.351,23,192.167,P5.csv,NA
+232,MET,19-Jul-17,old,P5,RT1,16,Ericaceae,,glabrous,0,no,no,2097-2099,NA,69.76,40,49.03,P5.csv,NA
+233,MET,19-Jul-17,old,P5,RT1,18,Araliaceae,Dendropanax arboreus,glabrous,0,no,no,tree too tall use avg leaf size,NA,NA,1,NA,P5.csv,NA
+234,MET,19-Jul-17,old,P5,RT1,20,Ericaceae,Prestobea decurrens,glabrous,0,no,no,2102-2104,NA,40.852,32,36.16,P5.csv,NA
+235,MET,19-Jul-17,old,P5,RT1,22,Cyclanthaceae,,glabrous,0,no,no,2106-2108,NA,211.802,22,315.135,P5.csv,NA
+236,MET,19-Jul-17,old,P5,RT1,24,Malvaceae,Goethalsia meiantha,hairy,0,no,no,"2109, 2110",NA,83.407,41,92.46,P5.csv,NA
+237,MET,19-Jul-17,old,P5,RT1,26,Heliconiaceae,Heliconis irrasa,glabrous,0,no,no,"2111, 2113, 2122",NA,330.653,29,222.716,P5.csv,NA
+238,MET,19-Jul-17,old,P5,RT1,28,Melastomataceae,Henriettea tuberculosa,glandular,0,no,no,2114-2116,NA,27.651,20,18.325,P5.csv,NA
+239,MET,19-Jul-17,old,P5,RT1,30,Cyclanthaceae,,glabrous,0,no,no,2117-2121,NA,267.709,10,299.851,P5.csv,NA
+240,MET,19-Jul-17,old,P5,RT1,32,Cyclanthaceae,,glabrous,0,no,no,2123-2125,NA,177.114,21,365.371,P5.csv,NA
+241,MET,19-Jul-17,old,P5,RT1,34,Rubiaceae,Dicranopygium umbrophilum,glabrous,0,no,no,2126-2128,NA,135.803,6,90.152,P5.csv,NA
+242,MET,19-Jul-17,old,P5,RT1,36,Moraceae,Brosium lactensis,glabrous,0,no,no,2129,NA,63.896,11,83.493,P5.csv,NA
+243,MET,19-Jul-17,old,P5,RT1,38,Moraceae,Ficus glaucescens,hairy,0,no,no,2130,NA,40.31,44,121.976,P5.csv,NA
+244,MET,19-Jul-17,old,P5,RT1,40,Ericaceae,Geonoma congesta,glabrous,40,no,spider,2131-2134,NA,179.031,36,113.209,P5.csv,NA
+245,MET,19-Jul-17,old,P5,RT1,42,Piperaceae,Piper concepcionis,glabrous,0,no,no,2148,NA,132.41,8,222.386,P5.csv,NA
+246,MET,19-Jul-17,old,P5,RT1,44,Piperaceae,Piper concepcionis,glabrous,1,no,no,2145-2147,NA,112.764,5,132.156,P5.csv,NA
+247,MET,19-Jul-17,old,P5,RT1,46,Ericaceae,,glabrous,1,no,no,2142-2144,NA,93.569,7,74.962,P5.csv,NA
+248,MET,19-Jul-17,old,P5,RT1,48,Ericaceae,Spathaphyllum sp. ,glabrous,0,no,no,2139-2141,NA,269.694,18,219.741,P5.csv,NA
+249,MET,19-Jul-17,old,P5,RT1,50,Costaceae,,glabrous,0,no,no,2135-2138,NA,51.165,34,35.401,P5.csv,NA
+250,MET,23-Jun-17,pasture,POT4,RT3,2,Gesneriaceae,Beseleria pauciflora,hairy,0,no,no,914-917,NA,89.545,126.66,60.908,POT4.csv,NA
+251,MET,23-Jun-17,pasture,POT4,RT3,4,Gesneriaceae,Beseleria pauciflora,hairy,2,no,no,918-921,NA,66.564,76.406,47.435,POT4.csv,NA
+252,MET,23-Jun-17,pasture,POT4,RT3,6,Tectariaceae,Tectaria sp.,spores,0,no,no,922-924,NA,220.746,93.432,48.8,POT4.csv,NA
+253,MET,23-Jun-17,pasture,POT4,RT3,8,Gesneriaceae,Beseleria pauciflora,hairy,2,no,no,926-927,NA,73.198,59.092,66.016,POT4.csv,NA
+254,MET,23-Jun-17,pasture,POT4,RT3,10,Gesneriaceae,Beseleria pauciflora,hairy,2,no,no,928,NA,65.724,72.001,53.723,POT4.csv,NA
+255,MET,23-Jun-17,pasture,POT4,RT3,12,Gesneriaceae,Beseleria pauciflora,hairy,1,no,no,931,NA,40.451,53.607,45.153,POT4.csv,NA
+256,MET,23-Jun-17,pasture,POT4,RT3,14,Gesneriaceae,Beseleria pauciflora,hairy,0,no,no,932-934,NA,95.547,124.73,103.625,POT4.csv,NA
+257,MET,23-Jun-17,pasture,POT4,RT3,16,Ericaceae,Philodendron grandipes,glabrous,1,no,no,935-937,NA,521.243,530.835,232.565,POT4.csv,NA
+258,MET,23-Jun-17,pasture,POT4,RT3,18,Tectariaceae,Tectaria sp.,spores,0,no,yes(ants),939,NA,208.862,93.423,214.225,POT4.csv,NA
+259,MET,23-Jun-17,pasture,POT4,RT3,20,Ericaceae,Philodendron grandipes,glabrous,0,no,no,"949, 950, 952",NA,733.335,628.501,481.42,POT4.csv,NA
+260,MET,23-Jun-17,pasture,POT4,RT3,22,Gesneriaceae,Beseleria pauciflora,hairy,1,no,no,946-948,NA,57.966,60.662,56.387,POT4.csv,NA
+261,MET,23-Jun-17,pasture,POT4,RT3,24,Gesneriaceae,Beseleria pauciflora,hairy,0,no,no,953-955,NA,35.036,38.364,62.46,POT4.csv,NA
+262,MET,23-Jun-17,pasture,POT4,RT3,26,Tectariaceae,Tectaria sp.,spores,0,no,no,960-962,NA,126.48,172.833,77.505,POT4.csv,NA
+263,MET,23-Jun-17,pasture,POT4,RT3,28,Ericaceae,Philodendron grandipes,glabrous,1,no,yes(spider),963-965,NA,218.055,276.951,211.963,POT4.csv,NA
+264,MET,23-Jun-17,pasture,POT4,RT3,30,Acanthaceae,Odontonema cuspidatum,hairy,0,no,no,966-968,NA,77.455,45.446,29.812,POT4.csv,NA
+265,MET,23-Jun-17,pasture,POT4,RT3,32,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,973,NA,11.055,10.661,11.667,POT4.csv,NA
+266,MET,23-Jun-17,pasture,POT4,RT3,34,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,974,NA,6.876,5.876,5.825,POT4.csv,NA
+267,MET,23-Jun-17,pasture,POT4,RT3,36,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,975,NA,9.796,9.611,8.851,POT4.csv,NA
+268,MET,23-Jun-17,pasture,POT4,RT3,38,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,976,NA,15.601,17.889,13.658,POT4.csv,NA
+269,MET,23-Jun-17,pasture,POT4,RT3,40,Melastomataceae,Clidemia discolor,hairy,0,no,no,"977, 978, 981",NA,222.873,231.353,139.216,POT4.csv,NA
+270,MET,23-Jun-17,pasture,POT4,RT3,42,Fabaceae,Pentaclethra macroloba,glabrous,0,yes,no,982,NA,9.776,10.981,11.529,POT4.csv,NA
+271,MET,23-Jun-17,pasture,POT4,RT3,44,Melastomataceae,Clidemia hammelii,hairy,0,no,yes(ants),"983, 984, 986",NA,95.915,98.248,146.494,POT4.csv,NA
+272,MET,23-Jun-17,pasture,POT4,RT3,46,Helypteridaceae,,spores,1,no,no,987,NA,67.215,81.569,81.234,POT4.csv,NA
+273,MET,23-Jun-17,pasture,POT4,RT3,48,Cyclanthaceae,Cyclanthus bipartitus,glabrous,0,no,no,"990, 991, 993",NA,2387.087,859.763,1241.072,POT4.csv,NA
+274,MET,23-Jun-17,pasture,POT4,RT3,50,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,988-989,NA,140.292,135.043,156.156,POT4.csv,NA
+275,MET,26-Jun-17,pasture,POT4,RT1,2,Ericaceae,Philodendron sp.,glabrous,0,no,yes(ants),1065-1067,NA,95.184,72.306,68.655,POT4.csv,NA
+276,MET,26-Jun-17,pasture,POT4,RT1,4,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,,NA,NA,NA,NA,POT4.csv,NA
+277,MET,26-Jun-17,pasture,POT4,RT1,6,Ericaceae,Philodendron sp.,glabrous,0,no,no,"1068, 70, 71",NA,76.936,125.593,77.903,POT4.csv,NA
+278,MET,26-Jun-17,pasture,POT4,RT1,8,Cyathaceae,,spores,0,no,no,1072,NA,5.954,6.771,6.304,POT4.csv,NA
+279,MET,26-Jun-17,pasture,POT4,RT1,10,Heliconiaceae,Heliconia irrasa,glabrous,3,no,no,1073-1075,NA,141.73,113.53,211.93,POT4.csv,NA
+280,MET,26-Jun-17,pasture,POT4,RT1,12,Apocynaceae,Tabernaemontana amygdalifolia,glabrous,0,no,no,"1077-1079, 1081",NA,51.353,39.201,35.555,POT4.csv,NA
+281,MET,26-Jun-17,pasture,POT4,RT1,14,Ericaceae,Anthurium ochanthum,glabrous,0,no,no,1082-1084,NA,48.603,39.174,58.627,POT4.csv,NA
+282,MET,26-Jun-17,pasture,POT4,RT1,16,Cyclanthaceae,Dicranopygium umbrophilum,glabrous,0,no,no,"1085-86, 1088",NA,185.973,130.981,105.867,POT4.csv,NA
+283,MET,26-Jun-17,pasture,POT4,RT1,18,Marantaceae,Geoppertia inocephala,glabrous,1,no,no,1089-1092,NA,905.86,2860.871,1584.975,POT4.csv,NA
+284,MET,26-Jun-17,pasture,POT4,RT1,20,Ericaceae,Anthurium ochanthum,glabrous,0,no,no,1093-1095,NA,1252.785,1491.351,1534.59,POT4.csv,NA
+285,MET,26-Jun-17,pasture,POT4,RT1,22,Marantaceae,Goeppertia leucostachys,glabrous,0,no,no,1096-1099,NA,327.311,253.709,262.538,POT4.csv,NA
+286,MET,26-Jun-17,pasture,POT4,RT1,24,Thelypteridaceae,Thelypteris sp. ,spores,0,no,no,1100,NA,9.313,7.684,7.739,POT4.csv,NA
+287,MET,26-Jun-17,pasture,POT4,RT1,26,Piperaceae,Piper pseudobumbratum,glabrous,0,yes,no,"1101, 1102, 1104",NA,149.923,321.062,118.535,POT4.csv,NA
+288,MET,26-Jun-17,pasture,POT4,RT1,28,Hernandiaceae,Hernandia didymantha,glabrous,0,no,no,1108-1110,NA,267.583,318.002,256.793,POT4.csv,NA
+289,MET,26-Jun-17,pasture,POT4,RT1,30,Ericaceae,Philodendron grandipes,glabrous,1,no,no,1111-1113,NA,568.295,638.107,518.271,POT4.csv,NA
+290,MET,26-Jun-17,pasture,POT4,RT1,32,Ericaceae,Philodendron grandipes,glabrous,0,no,no,1115-1117,NA,639.048,650.525,578.69,POT4.csv,NA
+291,MET,26-Jun-17,pasture,POT4,RT1,34,Fabaceae,Pentaclethra macroloba,glabrous,0,yes,no,no photo?,NA,NA,NA,NA,POT4.csv,NA
+292,MET,26-Jun-17,pasture,POT4,RT1,36,Ericaceae,,glabrous,0,no,no,1118-1120,NA,46.602,33.895,53.864,POT4.csv,NA
+293,MET,26-Jun-17,pasture,POT4,RT1,38,Ericaceae,,glabrous,0,no,no,"1121, 1123, 1125",NA,84.083,129.517,133.169,POT4.csv,NA
+294,MET,26-Jun-17,pasture,POT4,RT1,40,Piperaceae,Piper urostachyum,hairy,0,no,no,1126,NA,319.969,193.87,220.828,POT4.csv,NA
+295,MET,26-Jun-17,pasture,POT4,RT1,42,Rubiaceae,Hippotis panamensis,hairy,0,no,no,1128-1130,NA,320.988,277.908,194.341,POT4.csv,NA
+296,MET,26-Jun-17,pasture,POT4,RT1,44,Ericaceae,Philodendron grandipes,glabrous,1,no,no,1131-1133,NA,482.223,405.29,458.45,POT4.csv,NA
+297,MET,26-Jun-17,pasture,POT4,RT1,46,Ericaceae,,glabrous,0,no,no,1139-1141,NA,237.512,398.515,234.703,POT4.csv,NA
+298,MET,26-Jun-17,pasture,POT4,RT1,48,Ericaceae,,glabrous,1,no,no,1142-1144,NA,60.496,59.935,78.37,POT4.csv,NA
+299,MET,26-Jun-17,pasture,POT4,RT1,50,Marantaceae,Geoppertia inocephala,glabrous,0,no,no,1147-1149,NA,411.505,454.813,499.118,POT4.csv,NA
+300,MET,5-Jul-17,,POT8,RT1,2,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,1512-1514,NA,102.732,124.822,113.528,POT8.csv,NA
+301,MET,5-Jul-17,,POT9,RT1,4,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,1515-1517,NA,82.747,54.407,46.878,POT8.csv,NA
+302,MET,5-Jul-17,,POT10,RT1,6,Euphorbiaceae,Acalypha diversifolia,glabrous,1,no,no,1518-1520,NA,113.802,61.63,90.479,POT8.csv,NA
+303,MET,5-Jul-17,,POT11,RT1,8,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,1521-1523,NA,9.89,6.847,8.665,POT8.csv,NA
+304,MET,5-Jul-17,,POT12,RT1,10,Lomariopsis,Cyclopeltis semicordata,glabrous,0,no,no,1524-1525,NA,1.298,1.38,1.022,POT8.csv,NA
+305,MET,5-Jul-17,,POT13,RT1,12,Ericaceae,Alocasia macrorrhizos,glabrous,0,no,no,1526-1529,NA,661.912,743.844,525.862,POT8.csv,NA
+306,MET,5-Jul-17,,POT14,RT1,14,Ericaceae,Alocasia macrorrhizos,glabrous,0,no,no,1530-1532,NA,620.243,1267.286,689.722,POT8.csv,NA
+307,MET,5-Jul-17,,POT15,RT1,16,Ericaceae,Alocasia macrorrhizos,glabrous,0,no,no,1533-1535,NA,812.112,634.729,1013.568,POT8.csv,NA
+308,MET,5-Jul-17,,POT16,RT1,18,Poaceae,,glabrous,0,no,no,1536-1537,NA,57.37,44.987,59.275,POT8.csv,NA
+309,MET,5-Jul-17,,POT17,RT1,20,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,"tree too tall, same species as photos 1521-1523 - should be extra leaves in photos to use",NA,10.986,8.548,10.871,POT8.csv,NA
+310,MET,5-Jul-17,,POT18,RT1,22,Melastomataceae,Conostegia micrantha,hairy,0,no,no,1538-1540,NA,106.504,82.214,115,POT8.csv,NA
+311,MET,5-Jul-17,,POT19,RT1,24,Thelypteridaceae,,glabrous,0,no,no,1541-1542,NA,6.445,6.402,5.449,POT8.csv,NA
+312,MET,5-Jul-17,,POT20,RT1,26,Ericaceae,,glabrous,0,no,no,1543-1546,NA,116.878,143.308,30.518,POT8.csv,NA
+313,MET,5-Jul-17,,POT21,RT1,28,Lomariopsis,,glabrous,0,no,no,1547-1548,NA,7.783,7.239,5.26,POT8.csv,NA
+314,MET,5-Jul-17,,POT22,RT1,30,Tectariaceae,Tectaria sp.,spores,0,no,no,1549,NA,111.736,92.614,76.948,POT8.csv,NA
+315,MET,5-Jul-17,,POT23,RT1,32,Ericaceae,,glabrous,0,no,no,1550-1554,NA,197.936,182.915,245.744,POT8.csv,NA
+316,MET,5-Jul-17,,POT24,RT1,34,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,1521-1523,NA,8.676,9.388,7.935,POT8.csv,NA
+317,MET,5-Jul-17,,POT25,RT1,36,Tectariaceae,Tectaria sp.,spores,0,no,no,1555,NA,91.767,69.705,47.366,POT8.csv,NA
+318,MET,5-Jul-17,,POT26,RT1,38,Melastomataceae,Leandra dichotoma,hairy,0,no,no,1556-1558,NA,196.269,106.02,136.763,POT8.csv,NA
+319,MET,5-Jul-17,,POT27,RT1,40,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,1559,NA,9.846,11.089,11.31,POT8.csv,NA
+320,MET,5-Jul-17,,POT28,RT1,42,Thelypteridaceae,,spores,0,no,no,1560-1561,NA,24.064,19.47,25.479,POT8.csv,NA
+321,MET,5-Jul-17,,POT29,RT1,44,Fabaceae,Inga ruiziana,hairy,0,no,no,1562,NA,38.161,42.137,43.226,POT8.csv,NA
+322,MET,5-Jul-17,,POT30,RT1,46,Fabaceae,Inga ruiziana,hairy,0,no,no,1563-1564,NA,68.488,54.299,51.255,POT8.csv,NA
+323,MET,5-Jul-17,,POT31,RT1,48,Zingeberaceae,Hedychium coronarium,hairy,3,no,no,1565-1569,NA,23.098,30.223,14.212,POT8.csv,NA
+324,MET,5-Jul-17,,POT32,RT1,50,Fabaceae,Inga ruiziana,hairy,0,no,no,1570-1572,NA,37.261,27.351,19.295,POT8.csv,NA
+325,MET,5-Jul-17,,POT33,RT2,2,Melastomataceae,Miconia impetiolaris,hairy,0,no,no,1573-1575,NA,340.477,551.136,318.163,POT8.csv,NA
+326,MET,5-Jul-17,,POT34,RT2,4,Rubiaceae,Odontonema tubaeforme,glabrous,0,no,no,1576-1579,NA,64.367,69.947,46.674,POT8.csv,NA
+327,MET,5-Jul-17,,POT35,RT2,6,Fabaceae,Zygia longifolia,glabrous,0,no,no,1580-1582,NA,27.302,37.428,23.915,POT8.csv,NA
+328,MET,5-Jul-17,,POT36,RT2,8,Piperaceae,Piper sp.D,hairy,0,no,no,1583-1585,NA,83.243,77.11,75.389,POT8.csv,NA
+329,MET,5-Jul-17,,POT37,RT2,10,Thelypteridaceae,,spores,0,no,no,1586,NA,2.556,2.582,2.191,POT8.csv,NA
+330,MET,5-Jul-17,,POT38,RT2,12,Melastomataceae,Clidenia hirta,hairy,3,no,no,1587-1592,NA,62.828,43.15,61.254,POT8.csv,NA
+331,MET,5-Jul-17,,POT39,RT2,14,Urticaceae,Ortiga sp.,hairy,0,no,no,1594-1596,NA,779.662,749.494,319.98,POT8.csv,NA
+332,MET,5-Jul-17,,POT40,RT2,16,Burseraceae,Protium panemense,glabrous,0,no,no,1597-1599,NA,NA,NA,NA,POT8.csv,NA
+333,MET,5-Jul-17,,POT41,RT2,18,Burseraceae,Protium panemense,glabrous,0,no,no,1597-1599,NA,NA,NA,NA,POT8.csv,NA
+334,MET,5-Jul-17,,POT42,RT2,20,Fabaceae,Inga oerstediana,hairy,2,no,ants,1601-1604,NA,224.534,120.116,98.343,POT8.csv,NA
+335,MET,5-Jul-17,,POT43,RT2,22,Ericaceae,,glabrous,0,no,no,1605-1607,NA,694.951,624.823,627.847,POT8.csv,NA
+336,MET,5-Jul-17,,POT44,RT2,24,Urticaceae,Ortiga sp. ,hairy,0,no,no,1608-1610,NA,264.157,482.784,456.91,POT8.csv,NA
+337,MET,5-Jul-17,,POT45,RT2,26,Melastomataceae,Miconia impetiolaris,hairy,0,no,no,1611-1613,NA,580.377,185.595,544.152,POT8.csv,NA
+338,MET,5-Jul-17,,POT46,RT2,28,Thelypteridaceae,,spores,0,no,no,1614,NA,33.788,26.409,18.674,POT8.csv,NA
+339,MET,5-Jul-17,,POT47,RT2,30,Thelypteridaceae,,spores,0,no,ants,1615,NA,1.79,2.046,2.03,POT8.csv,NA
+340,MET,5-Jul-17,,POT48,RT2,32,Fabaceae,Zygia longifolia,glabrous,0,no,no,1616-1617,NA,19.228,19.386,17.379,POT8.csv,NA
+341,MET,5-Jul-17,,POT49,RT2,34,Euphorbiaceae,Acalypha diversifolia,glabrous,0,no,no,1618,NA,34.286,33.152,31.892,POT8.csv,NA
+342,MET,5-Jul-17,,POT50,RT2,36,Fabaceae,Zygia longifolia,glabrous,1,yes,no,1619,NA,12.793,9.104,3.283,POT8.csv,NA
+343,MET,5-Jul-17,,POT51,RT2,38,Fabaceae,Zygia longifolia,glabrous,1,yes,no,1619,NA,12.681,9.605,13.308,POT8.csv,NA
+344,MET,5-Jul-17,,POT52,RT2,40,Fabaceae,Zygia longifolia,glabrous,0,yes,no,1620,NA,29.409,22.575,32.576,POT8.csv,NA
+345,MET,5-Jul-17,,POT53,RT2,42,Fabaceae,Pentaclethra macroloba,glabrous,0,no,no,tree too tall  ,NA,0.113,0.113,0.113,POT8.csv,NA
+346,MET,5-Jul-17,,POT54,RT2,44,Cyclanthaceae,Carludovica sulcata,glabrous,0,no,no,1621,NA,NA,NA,NA,POT8.csv,NA
+347,MET,5-Jul-17,,POT55,RT2,46,Piperaceae,Piper culebrenum,hairy,0,no,no,1622-1624,NA,133.687,137.421,91.743,POT8.csv,NA
+348,MET,5-Jul-17,,POT56,RT2,48,Moraceae,Ficus crassivenosa,glabrous,0,no,no,1625,NA,NA,NA,NA,POT8.csv,NA
+349,MET,5-Jul-17,,POT57,RT2,50,Fabaceae,Inga oerstediana,hairy,0,no,no,1626-1628,NA,178.452,286.982,96.431,POT8.csv,NA
+350,XOR,19-Jun,,POTDL,RT1,0,Fabaceae,Inga ruiziana,hairy,1,no,NA,761-763,NA,69.091,100.197,168.903,POTDL.csv,NA
+351,XOR,19-Jun,,POTDL,RT1,2,Maranraceae,Goeppertia donnell-smithii,glabrous,0,no,NA,764-766,NA,593.057,379.567,312.883,POTDL.csv,NA
+352,XOR,19-Jun,,POTDL,RT1,4,Fabaceae,Inga ruiziana,hairy,0,no,NA,768-770,NA,63.499,94.204,63.587,POTDL.csv,NA
+353,XOR,19-Jun,,POTDL,RT1,6,Solanaceae,,hairy,0,no,NA,771,NA,10.809,8.321,16.897,POTDL.csv,NA
+354,XOR,19-Jun,,POTDL,RT1,8,Maranraceae,Goeppertia donnell-smithii,glabrous,2,no,NA,772-774,NA,149.342,416.785,43.884,POTDL.csv,NA
+355,XOR,19-Jun,,POTDL,RT1,10,Poaceae,,hairy,0,no,NA,775,NA,12.414,11.933,9.599,POTDL.csv,NA
+356,XOR,19-Jun,,POTDL,RT1,12,Poaceae,,hairy,0,no,NA,777,NA,9.197,4.2,3.286,POTDL.csv,NA
+357,XOR,19-Jun,,POTDL,RT1,14,Poaceae,,hairy,0,no,NA,779,NA,3.632,7.727,8.325,POTDL.csv,NA
+358,XOR,19-Jun,,POTDL,RT1,16,Poaceae,,hairy,0,no,NA,781,NA,10.924,11.871,9.272,POTDL.csv,NA
+359,XOR,19-Jun,,POTDL,RT1,18,Poaceae,,hairy,0,no,NA,785-786,NA,6.71,8.299,5.798,POTDL.csv,NA
+360,XOR,19-Jun,,POTDL,RT1,20,Amarantaceae,Cyathula achyranthoides,glabrous,0,no,NA,782-784,NA,46.274,41.922,45.925,POTDL.csv,NA
+361,XOR,19-Jun,,POTDL,RT1,22,Tectariaceae,Tectaria sp.,glabrous,0,no,NA,787,NA,70.652,25.163,37.477,POTDL.csv,NA
+362,XOR,19-Jun,,POTDL,RT1,24,Tectariaceae,Tectaria sp.,glabrous,0,no,NA,788,NA,47.384,26.078,11.239,POTDL.csv,NA
+363,XOR,19-Jun,,POTDL,RT1,26,Poaceae,,hairy,0,no,NA,789,NA,6.996,8.335,10.403,POTDL.csv,NA
+364,XOR,19-Jun,,POTDL,RT1,28,Amarantaceae,Chamissoa altissima,hairy,0,no,NA,790,NA,22.368,29.745,20.342,POTDL.csv,NA
+365,XOR,19-Jun,,POTDL,RT1,30,Maranraceae,Goeppertia donnell-smithii,glabrous,0,no,NA,791-793,NA,334.289,316.589,84.131,POTDL.csv,NA
+366,XOR,19-Jun,,POTDL,RT1,32,Poaceae,,hairy,0,no,NA,795-797,NA,95.582,154.138,42.515,POTDL.csv,NA
+367,XOR,19-Jun,,POTDL,RT1,34,Poaceae,,hairy,0,no,NA,798,NA,12.159,15.056,9.339,POTDL.csv,NA
+368,XOR,19-Jun,,POTDL,RT1,36,Urticaceae,Coussapoa villosa,hairy,0,no,NA,799-801,NA,77.77,141.487,146.526,POTDL.csv,NA
+369,XOR,19-Jun,,POTDL,RT1,38,Poaceae,,hairy,0,no,NA,802,NA,9.775,10.425,8.977,POTDL.csv,NA
+370,XOR,19-Jun,,POTDL,RT1,40,Musaceae,Musa sp.,glabrous,0,no,NA,804-806 (803 for ID),NA,790.584,985.23,1070.4,POTDL.csv,NA
+371,XOR,19-Jun,,POTDL,RT1,42,Fabaceae,Pterocarpus officinalis,glabrous,0,no,NA,807,NA,48.918,78.676,64.825,POTDL.csv,NA
+372,XOR,19-Jun,,POTDL,RT1,44,Fabaceae,Pterocarpus officinalis,glabrous,0,no,NA,814,NA,48.263,42.151,48.291,POTDL.csv,NA
+373,XOR,19-Jun,,POTDL,RT1,46,Fabaceae,Pterocarpus officinalis,glabrous,0,no,NA,815,NA,53.592,49.425,32.586,POTDL.csv,NA
+374,XOR,19-Jun,,POTDL,RT1,48,Tectariaceae,Tectaria sp.,glabrous,0,no,NA,816,NA,35.771,24.42,18.869,POTDL.csv,NA
+375,XOR,19-Jun,,POTDL,RT1,50,Pteridaceae,Adiantum sp.,glabrous,0,no,NA,817,NA,2.159,2.83,2.733,POTDL.csv,NA
+376,MET,20-Jul-17,,POTDL,RT3,0,Fabaceae,,glabrous,0,no,0,2371,NA,8.883,10,6.289,POTDL.csv,NA
+377,MET,20-Jul-17,,POTDL,RT3,2,Poaceae,,hairy,0,no,0,2372,NA,82.252,81.787,33.188,POTDL.csv,NA
+378,MET,20-Jul-17,,POTDL,RT3,4,Poaceae,,hairy,0,no,0,2373,NA,64.903,76.083,117.127,POTDL.csv,NA
+379,MET,20-Jul-17,,POTDL,RT3,6,Poaceae,,hairy,0,no,0,2374,NA,115.873,97.373,117.983,POTDL.csv,NA
+380,MET,20-Jul-17,,POTDL,RT3,8,Poaceae,,hairy,0,no,0,2375,NA,69.42,67.079,44.818,POTDL.csv,NA
+381,MET,20-Jul-17,,POTDL,RT3,10,Poaceae,,hairy,0,no,0,2376,NA,69.381,66.272,50.502,POTDL.csv,NA
+382,MET,20-Jul-17,,POTDL,RT3,12,Poaceae,,hairy,0,no,0,2377,NA,50.81,23.178,102.035,POTDL.csv,NA
+383,MET,20-Jul-17,,POTDL,RT3,14,Poaceae,,hairy,0,no,0,2378,NA,75.871,61.469,50.65,POTDL.csv,NA
+384,MET,20-Jul-17,,POTDL,RT3,16,Poaceae,,hairy,0,no,0,2379,NA,51.454,101.829,56.85,POTDL.csv,NA
+385,MET,20-Jul-17,,POTDL,RT3,18,Poaceae,,hairy,0,no,0,2380,NA,39.828,12.028,8.306,POTDL.csv,NA
+386,MET,20-Jul-17,,POTDL,RT3,20,Poaceae,,hairy,0,no,0,2381,NA,85.951,80.798,63.01,POTDL.csv,NA
+387,MET,20-Jul-17,,POTDL,RT3,22,Poaceae,,hairy,0,no,0,2382,NA,110.242,35.798,60.296,POTDL.csv,NA
+388,MET,20-Jul-17,,POTDL,RT3,24,Poaceae,,hairy,0,no,0,2383,NA,84.248,60.41,83.525,POTDL.csv,NA
+389,MET,20-Jul-17,,POTDL,RT3,26,Poaceae,,hairy,0,no,0,2384,NA,120.878,117.239,74.165,POTDL.csv,NA
+390,MET,20-Jul-17,,POTDL,RT3,28,Poaceae,,hairy,0,no,0,2385,NA,66.483,79.563,50.827,POTDL.csv,NA
+391,MET,20-Jul-17,,POTDL,RT3,30,Poaceae,,hairy,0,no,0,2386,NA,83.632,66.461,113.313,POTDL.csv,NA
+392,MET,20-Jul-17,,POTDL,RT3,32,Urticaceae,Coussapoa villosa,hairy,0,no,0,2387,NA,82.184,149.906,65.15,POTDL.csv,NA
+393,MET,20-Jul-17,,POTDL,RT3,34,Urticaceae,Coussapoa villosa,hairy,0,no,0,2388-2389,NA,222.465,148.224,118.291,POTDL.csv,NA
+394,MET,20-Jul-17,,POTDL,RT3,36,Urticaceae,Coussapoa villosa,hairy,0,no,0,2390,NA,112.836,151.329,100.77,POTDL.csv,NA
+395,MET,20-Jul-17,,POTDL,RT3,38,Poaceae,,hairy,0,no,0,2391,NA,109.875,72.75,156.206,POTDL.csv,NA
+396,MET,20-Jul-17,,POTDL,RT3,40,Poaceae,,hairy,0,no,0,2392,NA,79.912,106.774,40.226,POTDL.csv,NA
+397,MET,20-Jul-17,,POTDL,RT3,42,Poaceae,,hairy,0,no,0,2393,NA,113.095,69.918,126.114,POTDL.csv,NA
+398,MET,20-Jul-17,,POTDL,RT3,44,Poaceae,,hairy,0,no,0,2394,NA,42.668,55.963,57.721,POTDL.csv,NA
+399,MET,20-Jul-17,,POTDL,RT3,46,Poaceae,,hairy,0,no,0,2395,NA,10.94,50.682,35.981,POTDL.csv,NA
+400,MET,20-Jul-17,,POTDL,RT3,48,Poaceae,,hairy,0,no,0,2396,NA,104.282,84.265,42.171,POTDL.csv,NA
+401,MET,20-Jul-17,,POTDL,RT3,50,Poaceae,,hairy,0,no,0,2397,NA,68.448,67.758,104.684,POTDL.csv,NA
+402,MET,19-Jul-17,old,TIR,RT1,2,Melastomataceae,Miconia solearis,hairy,0,no,no,2149-2150,1,43,128.048,198.848,TIR.csv,NA
+403,MET,19-Jul-17,old,TIR,RT1,4,Melastomataceae,Miconia laxivenula,glabrous,0,no,no,2151-2152,1,4,123.358,135.924,TIR.csv,NA
+404,MET,19-Jul-17,old,TIR,RT1,6,Melastomataceae,Conostegia micrantha,hairy,0,no,no,2153-2154,1,7,92.077,69.284,TIR.csv,NA
+405,MET,19-Jul-17,old,TIR,RT1,8,Ericaceae,Welfia regia,glabrous,0,no,no,2155,1,6,37.518,29.283,TIR.csv,NA
+406,MET,19-Jul-17,old,TIR,RT1,10,Ericaceae,,glabrous,0,no,no,2157,1,33,149.599,72.817,TIR.csv,NA
+407,MET,19-Jul-17,old,TIR,RT1,12,Tectariaceae,Tectaria sp.,glabrous,0,no,no,2158,1,27,98.341,26.611,TIR.csv,NA
+408,MET,19-Jul-17,old,TIR,RT1,14,Tectariaceae,Tectaria sp.,glabrous,0,no,no,2161,1,41,25.156,13.078,TIR.csv,NA
+409,MET,19-Jul-17,old,TIR,RT1,16,Ericaceae,,glabrous,0,no,no,2162,1,38,46.602,64.481,TIR.csv,NA
+410,MET,19-Jul-17,old,TIR,RT1,18,Heliconiaceae,Heliconia irrasa,glabrous,0,no,spider,2163,1,29,309.094,103.966,TIR.csv,NA
+411,MET,19-Jul-17,old,TIR,RT1,20,Fabaceae,Lonchocarpus oliganthus,glabrous,0,yes,no,2164-2167,2,1,NA,NA,TIR.csv,NA
+412,MET,19-Jul-17,old,TIR,RT1,22,Heliconiaceae,,glabrous,0,no,no,2168-2169,1,42,436.969,74.94,TIR.csv,NA
+413,MET,19-Jul-17,old,TIR,RT1,24,Apocynaceae,Geoppertia donnell-smithii,glabrous,0,no,ants,2170,1,44,64.722,67.513,TIR.csv,NA
+414,MET,19-Jul-17,old,TIR,RT1,26,Piperaceae,Piper cenocladum,hairy,0,no,no,2171-2172,1,32,427.264,367.993,TIR.csv,NA
+415,MET,19-Jul-17,old,TIR,RT1,28,Piperaceae,Piper cenocladum,hairy,0,no,no,2173-2174,1,18,159.191,211.954,TIR.csv,NA
+416,MET,19-Jul-17,old,TIR,RT1,30,Thelypteridaceae,,glabrous,0,no,no,2175,1,16,33.416,21.254,TIR.csv,NA
+417,MET,19-Jul-17,old,TIR,RT1,32,Piperaceae,Piper cenocladum,hairy,0,no,no,2176,1,20,194.174,190.865,TIR.csv,NA
+418,MET,19-Jul-17,old,TIR,RT1,34,Tectariaceae,Tectaria sp.,glabrous,0,no,no,2177,1,36,11.928,22.087,TIR.csv,NA
+419,MET,19-Jul-17,old,TIR,RT1,36,Ericaceae,Philodendron sp. ,glabrous,0,no,no,2178,1,47,117.031,131.8,TIR.csv,NA
+420,MET,19-Jul-17,old,TIR,RT1,38,Tectariaceae,Tectaria sp.,glabrous,0,no,no,2179,1,45,14.518,18.641,TIR.csv,NA
+421,MET,19-Jul-17,old,TIR,RT1,40,Marattiaceae,,glabrous,0,no,no,2180,1,30,31.027,28.563,TIR.csv,NA
+422,MET,19-Jul-17,old,TIR,RT1,42,Rhamnaceae,Colubrina spinosa,glabrous,0,no,no,2181,1,2,79.354,126.888,TIR.csv,NA
+423,MET,19-Jul-17,old,TIR,RT1,44,Piperaceae,,glabrous,0,no,ants,2182-2184,1,25,213.093,210.895,TIR.csv,NA
+424,MET,19-Jul-17,old,TIR,RT1,46,Euphorbiaceae,Tetrorchidium euryphyllum,,0,no,no,2185?,1,17,146.856,277.02,TIR.csv,NA
+425,MET,19-Jul-17,old,TIR,RT1,48,Piperaceae,Piper pentagonum,glabrous,0,no,no,2186,1,8,132.383,137.8,TIR.csv,NA
+426,MET,19-Jul-17,old,TIR,RT1,50,Woody liana,,na,0,yes,no,woody liana - no photos,1,1,NA,NA,TIR.csv,NA
+427,MET,19-Jul-17,old,TIR,RT2,2,Ericaceae,,glabrous,0,no,no,"2213, 2214",1,39,61.602,73.644,TIR.csv,NA
+428,MET,19-Jul-17,old,TIR,RT2,4,Ericaceae,,glabrous,0,no,no,2212,1,28,22.664,18.609,TIR.csv,NA
+429,MET,19-Jul-17,old,TIR,RT2,6,Heliconiaceae,,glabrous,0,no,no,2110-2111,1,15,784.773,1223.755,TIR.csv,NA
+430,MET,19-Jul-17,old,TIR,RT2,8,Melastomataceae,Miconia append.,glabrous,0,no,no,2209,1,48,126.739,69.441,TIR.csv,NA
+431,MET,19-Jul-17,old,TIR,RT2,10,Ericaceae,Philodendron grandipes,glabrous,0,no,no,2206-2208,1,40,740.945,900.219,TIR.csv,NA
+432,MET,19-Jul-17,old,TIR,RT2,12,Melastomataceae,variabilis,glabrous,0,no,no,2204,1,23,266.244,117.539,TIR.csv,NA
+433,MET,19-Jul-17,old,TIR,RT2,14,Cyclanthaceae,,glabrous,0,no,no,2199-2200,1,12,159.725,161.162,TIR.csv,NA
+434,MET,19-Jul-17,old,TIR,RT2,16,Melastomataceae,Miconia solearis,,0,no,no,2196-2198,1,46,476.007,990.414,TIR.csv,NA
+435,MET,19-Jul-17,old,TIR,RT2,18,Ericaceae,,glabrous,0,no,no,2193-2195,1,26,162.197,575.115,TIR.csv,NA
+436,MET,19-Jul-17,old,TIR,RT2,20,Unknown,Unknown,,0,no,no,2215-2217,1,49,NA,NA,TIR.csv,NA
+437,MET,19-Jul-17,old,TIR,RT2,22,Ericaceae,Syngonium triphyllum,glabrous,0,no,no,2219,1,10,59.622,58.932,TIR.csv,NA
+438,MET,19-Jul-17,old,TIR,RT2,24,Gesneriaceae,Drymonia pilifera,hairy,0,no,no,2220,1,34,22.377,48.174,TIR.csv,NA
+439,MET,19-Jul-17,old,TIR,RT2,26,Piperaceae,Piper cenocladum,hairy,0,no,ants,2221,1,22,249.91,190.58,TIR.csv,NA
+440,MET,19-Jul-17,old,TIR,RT2,28,Ericaceae,,glabrous,0,no,no,2222-2224,1,14,903.537,1058.805,TIR.csv,NA
+441,MET,19-Jul-17,old,TIR,RT2,30,Piperaceae,Piper cenocladum,hairy,0,no,no,2225,1,21,144.791,163.475,TIR.csv,NA
+442,MET,19-Jul-17,old,TIR,RT2,32,Ericaceae,Prestobea decurrens,glabrous,0,no,no,2226-2228,1,35,41.579,53.377,TIR.csv,NA
+443,MET,19-Jul-17,old,TIR,RT2,34,Melastomataceae,new sp. ,glabrous,0,no,no,2229,1,11,227.825,315.505,TIR.csv,NA
+444,MET,19-Jul-17,old,TIR,RT2,36,Melastomataceae,new sp. ,glabrous,0,yes,no,2231,1,13,221.364,173.94,TIR.csv,NA
+445,MET,19-Jul-17,old,TIR,RT2,38,Euphorbiaceae,Tetrorchidium euryphyllum,,0,no,ants,2232-2233,1,3,142.943,184.858,TIR.csv,NA
+446,MET,19-Jul-17,old,TIR,RT2,40,Ericaceae,,glabrous,0,no,no,2234,1,9,103.905,189.641,TIR.csv,NA
+447,MET,19-Jul-17,old,TIR,RT2,42,Piperaceae,Piper pentagonum,glabrous,0,no,no,2235,1,5,111.826,110.852,TIR.csv,NA
+448,MET,19-Jul-17,old,TIR,RT2,44,Ericaceae,,glabrous,0,no,no,2236,1,37,156.105,141.301,TIR.csv,NA
+449,MET,19-Jul-17,old,TIR,RT2,46,Ericaceae,,glabrous,0,no,no,2238,1,19,161.269,169.219,TIR.csv,NA
+450,MET,19-Jul-17,old,TIR,RT2,48,Heliconiaceae,Heliconia irrasa,glabrous,0,no,no,2239,1,31,676.073,606.506,TIR.csv,NA
+451,MET,19-Jul-17,old,TIR,RT2,50,Cyclanthaceae,,glabrous,0,no,no,2240,1,24,41.881,38.466,TIR.csv,NA
