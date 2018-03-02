@@ -42,4 +42,4 @@ Pref_t<-table(Pref$species, Pref$site)
 chit<-chisq.test(Pref_t)
 chit$expected
 
-Pref$habitat<-if
+#Pref$habitat<-if
