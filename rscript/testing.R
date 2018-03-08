@@ -1,3 +1,4 @@
+library(tidyverse)
 
 #pref_xl<-read_excel("data/Pref_data_13Sep17.xlsx",sheet='data') %>% ## I NEED TO CHANGE THIS!
   #write_csv('data/pref-raw.csv')
@@ -46,14 +47,58 @@ chit.ahs<-chisq.test(abund.habitat.sp)
 chit.ahs$expected
 chit.ahs$observed
 
-##### abundance / frog species / site ####
+##### abundance / frog species / site #### CAN'T
 
-Pref_t<-table(Pref$species, Pref$site)
+Pref_t<-table(Pref$species[Pref$species!='ESPPRO'], Pref$site)
+Pref_t.noesppro <- table(Pref$species[Pref$species!='ESPPRO'], Pref$site[Pref$species!='ESPPRO'])
+Pref_t.nopasture<- table(Pref$species[Pref$site!='POT4'], Pref$site[Pref$site!='POT4'])
 
 chit<-chisq.test(Pref_t)
 chit$expected
 
-#Pref$habitat<-if
+chit.noesppro <- chisq.test(Pref_t.noesppro)
+chit.noesppro$expected
+chit.noesppro$observed
+
+chit.nopasture <- chisq.test(Pref_t.nopasture)
+chit.nopasture$expected
+chit.nopasture$observed
+
+  # I want to run a goodness of fit against a poisson distribution
+
+#### Mean selected leaf area / site ####
+
+hist(Pref$`leaf area`)
+hist(log(Pref$`leaf area`)) # much better
+
+tapply(Pref$`leaf area`, Pref$site, mean, na.rm=T)
+tapply(log(Pref$`leaf area`), Pref$site, mean, na.rm=T)
+
+anova.ls<- aov(log(Pref$`leaf area`)~Pref$site)
+summary(anova.ls)
+
+TukeyHSD(anova.ls)
+
+anova.lh<- aov(log(Pref$`leaf area`)~Pref$habitat)
+summary(anova.lh)
+
+#### Mean selectted leaf area / species ####
+
+anova.lsp<- aov(log(Pref$`leaf area`)~Pref$species)
+summary(anova.lsp)
+
+TukeyHSD(anova.lsp)
+
+par(mfrow=c(3,1))
+hist(log(Pref$`leaf area`[Pref$species=="HYAVAL"]),xlim=c(3,10),ylim=c(0,25))
+hist(log(Pref$`leaf area`[Pref$species=="ESPPRO"]),xlim=c(3,10),ylim=c(0,25))
+hist(log(Pref$`leaf area`[Pref$species=="TERSPI"]),xlim=c(3,10),ylim=c(0,25))
+
+mean.leaf.sp<-tapply(log(Pref$`leaf area`), Pref$species, mean, na.rm=T)
+
+par(mfrow=c(1,1))
+
+barplot(mean.leaf.sp)
 
 #### visualizing stream ####
 
