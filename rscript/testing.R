@@ -10,6 +10,17 @@ Pref<-subset(Pref,species!='UK')
 
 Pref<-Pref[c('ID','habitat','site','transect','species','leaf area')]
 
+library(readxl) 
+
+read_excel_allsheets <- function(filename) {
+  sheets <- readxl::excel_sheets(filename)
+  x <-    lapply(sheets, function(X) readxl::read_excel(filename, sheet = X))
+  names(x) <- sheets
+  x
+}
+
+stream <- read_excel_allsheets("data/Stream_13Sep17.xlsx")
+
 ### abundance / site
 
 abund.site <- table(Pref$site)
@@ -43,3 +54,28 @@ chit<-chisq.test(Pref_t)
 chit$expected
 
 #Pref$habitat<-if
+
+#### visualizing stream ####
+
+library(dbplyr)
+stream %>% goupby(site)
+P1 <- as.data.frame(stream$P1)
+P1$site<- paste('P1')
+P5 <- as.data.frame(stream$P5)
+P5$site <- paste('P5')
+TIR <- as.data.frame(stream$TIR)
+TIR$site<-paste('TIR')
+A <- rbind(P1,P5,TIR)
+
+P13<-as.data.frame(stream$P13)
+P13$site<-paste('P13')
+P15<-as.data.frame(stream$P15)
+P15$site<-paste('P15')
+POTDL<-as.data.frame(stream$POTDL)
+POTDL$site<-paste('POTDL')
+P16<-as.data.frame(stream$P16)
+P16<-P16[-9]
+P16$site<-paste('P16')
+B <- rbind(P13,P15,P16,POTDL)
+
+hist(A)
