@@ -59,7 +59,7 @@ leveneTest(habitat$avg.leaf.area, habitat$site)
 #We fail to reject the null that there is a difference in population variance.
 #However, it's a very close thing!
 
-####Do frogs prefer certain leaf areas, given the available area at each site?###
+#####Do frogs prefer certain leaf areas, given the available area at each site?####
 
 HP1boot=NULL
 HP13boot=NULL
@@ -100,3 +100,51 @@ par(mfrow=c(2,3))
 hist(log(HP1boot)); hist(log(HP13boot));hist(log(HP15boot));hist(log(HP5boot))
 hist(log(EP1boot)); hist(log(EP16boot));hist(log(EP5boot));hist(log(EPOT4boot))
 hist(log(TP1boot)); hist(log(TP13boot));hist(log(TP15boot));hist(log(TP16boot));hist(log(TP5boot));hist(log(TPOT4boot))
+
+###Create objects for actual
+P1obs = subset(pref_raw, site=="P1")
+P13obs = subset(pref_raw, site=="P13")
+P15obs = subset(pref_raw, site=="P15")
+P16obs = subset(pref_raw, site=="P16")
+POT4obs = subset(pref_raw, site=="POT4")
+TIRobs = subset(pref_raw, site=="TIR")
+P5obs = subset(pref_raw, site=="P5")
+HP1obs = unlist(subset(P1obs, species=="HYAVAL", select='leaf area'), use.names=FALSE)
+HP13obs = unlist(subset(P13obs, species=="HYAVAL", select='leaf area'), use.names = FALSE)
+HP15obs = unlist(subset(P15obs, species=="HYAVAL", select='leaf area'), use.names = FALSE)
+HP16obs = unlist(subset(P16obs, species=="HYAVAL", select='leaf area'), use.names = FALSE)
+HP5obs = unlist(subset(P5obs, species=="HYAVAL", select='leaf area'), use.names = FALSE)
+HPOT4obs = unlist(subset(POT4obs, species=="HYAVAL", select='leaf area'), use.names = FALSE)
+HTIRobs = unlist(subset(TIRobs, species=="HYAVAL", select='leaf area'), use.names = FALSE)
+EP1obs = unlist(subset(P1obs, species=="ESPPRO", select='leaf area'), use.names = FALSE)
+EP13obs = unlist(subset(P13obs, species=="ESPPRO", select='leaf area'), use.names = FALSE)
+EP15obs = unlist(subset(P15obs, species=="ESPPRO", select='leaf area'), use.names = FALSE)
+EP16obs = unlist(subset(P16obs, species=="ESPPRO", select='leaf area'), use.names = FALSE)
+EP5obs = unlist(subset(P5obs, species=="ESPPRO", select='leaf area'), use.names = FALSE)
+EPOT4obs = unlist(subset(POT4obs, species=="ESPPRO", select='leaf area'), use.names = FALSE)
+ETIRobs = unlist(subset(TIRobs, species=="ESPPRO", select='leaf area'), use.names = FALSE)
+TP1obs = unlist(subset(P1obs, species=="TERSPI", select='leaf area'), use.names = FALSE)
+TP13obs = unlist(subset(P13obs, species=="TERSPI", select='leaf area'), use.names = FALSE)
+TP15obs = unlist(subset(P15obs, species=="TERSPI", select='leaf area'), use.names = FALSE)
+TP16obs = unlist(subset(P16obs, species=="TERSPI", select='leaf area'), use.names = FALSE)
+TP5obs = unlist(subset(P5obs, species=="TERSPI", select='leaf area'), use.names = FALSE)
+TPOT4obs = unlist(subset(POT4obs, species=="TERSPI", select='leaf area'), use.names = FALSE)
+TTIRobs = unlist(subset(TIRobs, species=="TERSPI", select='leaf area'), use.names = FALSE)
+
+##Graph results
+par(mfrow=c(2,2))
+hist(log(HP1boot), xlim = c(1,8), xlab = "", main = "P1: HYAVAL bootstrap", col = "lightblue1"); hist(log(HP13boot), xlim=c(0,9), xlab = "", main = "P13: HYAVAL bootstrap", col = "lightblue1")
+hist(log(HP1obs), xlim = c(1,8), xlab = "Leaf area (log)", main = "P1: HYAVAL observations", col = "lightblue3"); hist(log(HP13obs), xlim=c(0,9), xlab = "Leaf area (log)", main = "P13: HYAVAL observations", col = "lightblue3")
+par(mfrow=c(2,3))
+hist(log(EP16boot), xlim = c(1,8), xlab = "", main = "P16: ESPPRO bootstrap", col = "palegreen3");hist(log(EP5boot), xlim = c(0,8), xlab = "", main = "P5: ESPPRO bootstrap", col = "palegreen3");hist(log(ETIRboot), xlim = c(1,8), xlab = "", main = "TIR: ESPPRO bootstrap", col = "palegreen3")
+hist(log(EP16obs), xlim = c(1,8), xlab = "Leaf area (log)", main = "P16: ESPPRO observations", col = "palegreen4");hist(log(EP5obs), xlim = c(0,8), xlab = "Leaf area (log)", main = "P5: ESPPRO observations", col = "palegreen4");hist(log(ETIRobs), xlim = c(1,8), xlab = "Leaf area (log)", main = "TIR: ESPPRO observations", col = "palegreen4")
+par(mfrow=c(2,3))
+hist(log(TP1boot), xlab = "", main = "P1: TERSPI bootstrap", col = "lightblue1", xlim = c(0,9));hist(log(TP13boot), xlab = "", main = "P13: TERSPI bootstrap", col = "lightblue1", xlim = c(0,10));hist(log(TP15boot), xlab = "", main = "P15: TERSPI bootstrap", col = "lightblue1", xlim=c(0,9));
+hist(log(TP1obs), xlab = "Leaf area (log)", main = "P1: TERSPI observations", col = "lightblue3", xlim = c(0,9));hist(log(TP13obs), xlab = "Leaf area (log)", main = "P13: TERSPI observations", col = "lightblue3", xlim = c(0,10));hist(log(TP15obs), xlab = "Leaf area (log)", main = "P15: TERSPI observations", col = "lightblue3", xlim=c(0,9));
+hist(log(TP16boot), xlab = "", main = "P16: TERSPI bootstrap", col = "palegreen3", xlim=c(1,9));hist(log(TP5boot), xlab = "", main = "P5: TERSPI bootstrap", col = "palegreen3",xlim=(c(0,9)));hist(log(TPOT4boot), xlab = "", main = "POT4: TERSPI bootstrap", col = "salmon1", xlim=c(0,9))
+hist(log(TP16obs), xlab = "Leaf area (log)", main = "P16: TERSPI observations", col = "palegreen4",xlim=c(1,9));hist(log(TP5obs), xlab = "Leaf area (log)", main = "P5: TERSPI observations", col = "palegreen4",xlim=c(0,9));hist(log(TPOT4obs), xlab = "Leaf area (log)", main = "POT4: TERSPI observations", col = "salmon3",xlim=c(0,9))
+###Pretty graphics for final presentation
+par(mfrow=c(2,3))
+hist(log(TP1boot), xlab = "", main = "P1: TERSPI bootstrap", col = "lightblue1", xlim = c(0,9));hist(log(TP5boot), xlab = "", main = "P5: TERSPI bootstrap", col = "palegreen3",xlim=(c(0,9)));hist(log(TPOT4boot), xlab = "", main = "POT4: TERSPI bootstrap", col = "salmon1", xlim=c(0,9))
+hist(log(TP1obs), xlab = "Leaf area (log)", main = "P1: TERSPI observations", col = "lightblue3", xlim = c(0,9));hist(log(TP5obs), xlab = "Leaf area (log)", main = "P5: TERSPI observations", col = "palegreen4",xlim=c(0,9));hist(log(TPOT4obs), xlab = "Leaf area (log)", main = "POT4: TERSPI observations", col = "salmon3",xlim=c(0,9))
+
