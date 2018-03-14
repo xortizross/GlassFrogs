@@ -131,20 +131,31 @@ TP5obs = unlist(subset(P5obs, species=="TERSPI", select='leaf area'), use.names 
 TPOT4obs = unlist(subset(POT4obs, species=="TERSPI", select='leaf area'), use.names = FALSE)
 TTIRobs = unlist(subset(TIRobs, species=="TERSPI", select='leaf area'), use.names = FALSE)
 
+##Write means for observations##
+obsmean = matrix(c(mean(log(HP1obs), na.rm = TRUE), mean(log(HP13obs), na.rm = TRUE), 0,
+                   0, mean(log(HP5obs), na.rm = TRUE), mean(log(HPOT4obs), na.rm = TRUE),
+                   0,mean(log(EP1obs), na.rm = TRUE), 0, 0,
+                   mean(log(EP16obs), na.rm = TRUE), mean(log(EP5obs), na.rm = TRUE), 0,
+                   mean(log(ETIRobs), na.rm = TRUE), mean(log(TP1obs), na.rm = TRUE), mean(log(TP13obs), na.rm = TRUE), mean(log(TP15obs), na.rm = TRUE),
+                   mean(log(TP16obs), na.rm = TRUE), mean(log(TP5obs), na.rm = TRUE), mean(log(TPOT4obs), na.rm = TRUE),
+                   mean(log(TTIRobs), na.rm = TRUE)), ncol = 3)
+dimnames(obsmean)= list(c("P1", "P13", "P15", "P16", "P5", "POT4", "TIR"), c("HYAVAL", "ESPPRO", "TERSPI"))
 ##Graph results
 par(mfrow=c(2,2))
-hist(log(HP1boot), xlim = c(1,8), xlab = "", main = "P1: HYAVAL bootstrap", col = "lightblue1"); hist(log(HP13boot), xlim=c(0,9), xlab = "", main = "P13: HYAVAL bootstrap", col = "lightblue1")
-hist(log(HP1obs), xlim = c(1,8), xlab = "Leaf area (log)", main = "P1: HYAVAL observations", col = "lightblue3"); hist(log(HP13obs), xlim=c(0,9), xlab = "Leaf area (log)", main = "P13: HYAVAL observations", col = "lightblue3")
+hist(log(HP1boot), xlim = c(1,8), xlab = "", main = "P1: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[1,1], 750, obsmean[1,1], 0, lwd = 2, length = 0.1)
+hist(log(HP13boot), xlim=c(0,9), xlab = "", main = "P13: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[2,1], 750, obsmean[2,1], 0, lwd = 2, length = 0.1)
+hist(log(HP5boot), xlim=c(0,9), xlab = "", main = "P5: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[5,1], 750, obsmean[5,1], 0, lwd = 2, length = 0.1)
+hist(log(HPOT4boot), xlim=c(0,9), xlab = "", main = "P13: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[6,1], 750, obsmean[6,1], 0, lwd = 2, length = 0.1)
+par(mfrow=c(2,2))
+hist(log(EP1boot), xlim = c(1,8), xlab = "", main = "P1: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[1,2], 750, obsmean[1,2], 0, lwd = 2, length = 0.1)
+hist(log(EP16boot), xlim = c(1,8), xlab = "", main = "P16: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[4,2], 750, obsmean[4,2], 0, lwd = 2, length = 0.1)
+hist(log(EP5boot), xlim = c(0,8), xlab = "", main = "P5: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[4,2], 750, obsmean[4,2], 0, lwd = 2, length = 0.1)
+hist(log(ETIRboot), xlim = c(1,8), xlab = "", main = "TIR: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[7,2], 750, obsmean[7,2], 0, lwd = 2, length = 0.1)
 par(mfrow=c(2,3))
-hist(log(EP16boot), xlim = c(1,8), xlab = "", main = "P16: ESPPRO bootstrap", col = "palegreen3");hist(log(EP5boot), xlim = c(0,8), xlab = "", main = "P5: ESPPRO bootstrap", col = "palegreen3");hist(log(ETIRboot), xlim = c(1,8), xlab = "", main = "TIR: ESPPRO bootstrap", col = "palegreen3")
-hist(log(EP16obs), xlim = c(1,8), xlab = "Leaf area (log)", main = "P16: ESPPRO observations", col = "palegreen4");hist(log(EP5obs), xlim = c(0,8), xlab = "Leaf area (log)", main = "P5: ESPPRO observations", col = "palegreen4");hist(log(ETIRobs), xlim = c(1,8), xlab = "Leaf area (log)", main = "TIR: ESPPRO observations", col = "palegreen4")
-par(mfrow=c(2,3))
-hist(log(TP1boot), xlab = "", main = "P1: TERSPI bootstrap", col = "lightblue1", xlim = c(0,9));hist(log(TP13boot), xlab = "", main = "P13: TERSPI bootstrap", col = "lightblue1", xlim = c(0,10));hist(log(TP15boot), xlab = "", main = "P15: TERSPI bootstrap", col = "lightblue1", xlim=c(0,9));
-hist(log(TP1obs), xlab = "Leaf area (log)", main = "P1: TERSPI observations", col = "lightblue3", xlim = c(0,9));hist(log(TP13obs), xlab = "Leaf area (log)", main = "P13: TERSPI observations", col = "lightblue3", xlim = c(0,10));hist(log(TP15obs), xlab = "Leaf area (log)", main = "P15: TERSPI observations", col = "lightblue3", xlim=c(0,9));
-hist(log(TP16boot), xlab = "", main = "P16: TERSPI bootstrap", col = "palegreen3", xlim=c(1,9));hist(log(TP5boot), xlab = "", main = "P5: TERSPI bootstrap", col = "palegreen3",xlim=(c(0,9)));hist(log(TPOT4boot), xlab = "", main = "POT4: TERSPI bootstrap", col = "salmon1", xlim=c(0,9))
-hist(log(TP16obs), xlab = "Leaf area (log)", main = "P16: TERSPI observations", col = "palegreen4",xlim=c(1,9));hist(log(TP5obs), xlab = "Leaf area (log)", main = "P5: TERSPI observations", col = "palegreen4",xlim=c(0,9));hist(log(TPOT4obs), xlab = "Leaf area (log)", main = "POT4: TERSPI observations", col = "salmon3",xlim=c(0,9))
-###Pretty graphics for final presentation
-par(mfrow=c(2,3))
-hist(log(TP1boot), xlab = "", main = "P1: TERSPI bootstrap", col = "lightblue1", xlim = c(0,9));hist(log(TP5boot), xlab = "", main = "P5: TERSPI bootstrap", col = "palegreen3",xlim=(c(0,9)));hist(log(TPOT4boot), xlab = "", main = "POT4: TERSPI bootstrap", col = "salmon1", xlim=c(0,9))
-hist(log(TP1obs), xlab = "Leaf area (log)", main = "P1: TERSPI observations", col = "lightblue3", xlim = c(0,9));hist(log(TP5obs), xlab = "Leaf area (log)", main = "P5: TERSPI observations", col = "palegreen4",xlim=c(0,9));hist(log(TPOT4obs), xlab = "Leaf area (log)", main = "POT4: TERSPI observations", col = "salmon3",xlim=c(0,9))
-
+hist(log(TP1boot), xlab = "", main = "P1: TERSPI bootstrap", col = "lightblue1", xlim = c(0,9));arrows(obsmean[1,3], 750, obsmean[1,3], 0, lwd = 2, length = 0.1)
+hist(log(TP13boot), xlab = "", main = "P13: TERSPI bootstrap", col = "lightblue1", xlim = c(0,10));arrows(obsmean[2,3], 750, obsmean[2,3], 0, lwd = 2, length = 0.1)
+hist(log(TP15boot), xlab = "", main = "P15: TERSPI bootstrap", col = "lightblue1", xlim=c(0,9));arrows(obsmean[3,3], 750, obsmean[3,3], 0, lwd = 2, length = 0.1)
+hist(log(TP16boot), xlab = "", main = "P16: TERSPI bootstrap", col = "palegreen3", xlim=c(1,9));arrows(obsmean[4,3], 750, obsmean[4,3], 0, lwd = 2, length = 0.1)
+hist(log(TP5boot), xlab = "", main = "P5: TERSPI bootstrap", col = "palegreen3",xlim=(c(0,9)));arrows(obsmean[5,3], 750, obsmean[5,3], 0, lwd = 2, length = 0.1)
+hist(log(TPOT4boot), xlab = "", main = "POT4: TERSPI bootstrap", col = "salmon1", xlim=c(0,9)); arrows(obsmean[6,3], 750, obsmean[6,3], 0, lwd = 2, length = 0.1)
+hist(log(TTIRboot), xlab = "", main = "TIR: TERSPI bootstrap", col = "salmon1", xlim=c(0,9)); arrows(obsmean[7,3], 750, obsmean[7,3], 0, lwd = 2, length = 0.1)
