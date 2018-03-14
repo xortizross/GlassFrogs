@@ -159,3 +159,28 @@ hist(log(TP16boot), xlab = "", main = "P16: TERSPI bootstrap", col = "palegreen3
 hist(log(TP5boot), xlab = "Leaf area (log)", main = "P5: TERSPI bootstrap", col = "palegreen3",xlim=(c(0,9)));arrows(obsmean[5,3], 750, obsmean[5,3], 0, lwd = 2, length = 0.1)
 hist(log(TPOT4boot), xlab = "Leaf area (log)", main = "POT4: TERSPI bootstrap", col = "salmon1", xlim=c(0,9)); arrows(obsmean[6,3], 750, obsmean[6,3], 0, lwd = 2, length = 0.1)
 hist(log(TTIRboot), xlab = "Leaf area (log)", main = "TIR: TERSPI bootstrap", col = "salmon1", xlim=c(0,9)); arrows(obsmean[7,3], 750, obsmean[7,3], 0, lwd = 2, length = 0.1)
+##Test potentially significant graphs##
+sortHP1boot = sort(log(HP1boot))
+sortHP1boot[9749:9999]
+###HP1 is ranked at 111
+sortHP13boot = sort(log(HP13boot))
+sortHP13boot[9002:9252]
+##HP13 not significant
+sortHP5boot = sort(log(HP5boot))
+sortHP5boot[9550:9800]
+##HP5 not significant
+sortHPOT4boot=sort(log(HPOT4boot))
+sortHPOT4boot[9002:9252]
+##HPOT4 not significant
+
+
+#######Descriptive statistics#####
+##Leaf area##
+par(mfrow = c(1,1), ps = 20, cex = 1.5)
+hist(corrData, main = "Leaf area histogram", xlab = "Leaf area (cm2)", col = "darkcyan")
+hist(log(corrData), main = "Transformed leaf area histogram", xlab = "Leaf area (log)", col = "darkcyan")
+##HYAVAL P1 example##
+hist(log(HP1boot), xlim = c(1,8), xlab = "", main = "P1: HYAVAL bootstrap", col = "palegreen3"); arrows(obsmean[1,1], 750, obsmean[1,1], 0, lwd = 4, length = 0.4)
+##HYAVAL P5 example##
+hist(log(HP5boot), xlim=c(0,9), xlab = "Leaf area (log)", main = "P5: HYAVAL bootstrap", col = "salmon1"); arrows(obsmean[5,1], 750, obsmean[5,1], 0, lwd = 4, length = 0.4)
+
