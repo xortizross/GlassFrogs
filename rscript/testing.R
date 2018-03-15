@@ -60,6 +60,7 @@ leveneTest(habitat$avg.leaf.area, habitat$site)
 #However, it's a very close thing!
 
 #####Do frogs prefer certain leaf areas, given the available area at each site?####
+####Simulating the data###
 
 HP1boot=NULL
 HP13boot=NULL
@@ -67,6 +68,7 @@ HP15boot=NULL
 HP16boot=NULL
 HP5boot=NULL
 HPOT4boot=NULL
+HTIRboot=NULL
 
 EP1boot=NULL
 EP13boot=NULL
@@ -74,6 +76,7 @@ EP15boot=NULL
 EP16boot=NULL
 EP5boot=NULL
 EPOT4boot=NULL
+ETIRboot=NULL
 
 TP1boot=NULL
 TP13boot=NULL
@@ -81,13 +84,13 @@ TP15boot=NULL
 TP16boot=NULL
 TP5boot=NULL
 TPOT4boot=NULL
+TTIRboot=NULL
 #Replace relevant fields in code for each series of bootstrapping
-corrData <- unlist(P5[,c("leaf.area1", "leaf.area2", "leaf.area3")], use.names = FALSE)
-long = length(pref_raw$site == "P5"&pref_raw$species=="ESPPRO")
+corrData <- unlist(TIR[,c("leaf.area1", "leaf.area2", "leaf.area3")], use.names = FALSE)
 
 for (i in c(1:9999)) {
-  samp=sample(corrData,size=length(which(pref_raw$site=="P5"&pref_raw$species=="ESPPRO")),replace=T)
-  EP5boot[i]=samp
+  samp=sample(corrData,size=length(which(pref_raw$site=="TIR"&pref_raw$species=="TERSPI")),replace=T)
+  TTIRboot[i]=samp
 }
 
 #Write CSVs
@@ -142,45 +145,48 @@ obsmean = matrix(c(mean(log(HP1obs), na.rm = TRUE), mean(log(HP13obs), na.rm = T
 dimnames(obsmean)= list(c("P1", "P13", "P15", "P16", "P5", "POT4", "TIR"), c("HYAVAL", "ESPPRO", "TERSPI"))
 ##Graph results
 par(mfrow=c(2,2), ps = 20, mar=c(5,6,4,1)+.1)
-hist(log(HP1boot), xlim = c(1,8), xlab = "", main = "P1: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[1,1], 750, obsmean[1,1], 0, lwd = 2, length = 0.1)
-hist(log(HP13boot), xlim=c(0,9), xlab = "", main = "P13: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[2,1], 750, obsmean[2,1], 0, lwd = 2, length = 0.1)
-hist(log(HP5boot), xlim=c(0,9), xlab = "Leaf area (log)", main = "P5: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[5,1], 750, obsmean[5,1], 0, lwd = 2, length = 0.1)
-hist(log(HPOT4boot), xlim=c(0,9), xlab = "Leaf area (log)", main = "P13: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[6,1], 750, obsmean[6,1], 0, lwd = 2, length = 0.1)
+hist(log(HP1boot$x), xlim = c(1,8), xlab = "", main = "SG1: HYAVAL bootstrap", col = "palegreen3"); arrows(obsmean[1,1], 750, obsmean[1,1], 0, lwd = 2, length = 0.1)
+hist(log(HP13boot), xlim=c(0,9), xlab = "", main = "SG2: HYAVAL bootstrap", col = "palegreen3"); arrows(obsmean[2,1], 750, obsmean[2,1], 0, lwd = 2, length = 0.1)
+hist(log(HP5boot$x), xlim=c(0,9), xlab = "Leaf area (log)", main = "OG1: HYAVAL bootstrap", col = "salmon1"); arrows(obsmean[5,1], 750, obsmean[5,1], 0, lwd = 2, length = 0.1)
+hist(log(HPOT4boot), xlim=c(0,9), xlab = "Leaf area (log)", main = "Pas1: HYAVAL bootstrap", col = "lightblue1"); arrows(obsmean[6,1], 750, obsmean[6,1], 0, lwd = 2, length = 0.1)
 par(mfrow=c(2,2), ps = 20, mar=c(5,6,4,1)+.1)
-hist(log(EP1boot), xlim = c(1,8), xlab = "", main = "P1: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[1,2], 750, obsmean[1,2], 0, lwd = 2, length = 0.1)
-hist(log(EP16boot), xlim = c(1,8), xlab = "", main = "P16: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[4,2], 750, obsmean[4,2], 0, lwd = 2, length = 0.1)
-hist(log(EP5boot), xlim = c(0,8), xlab = "Leaf area (log)", main = "P5: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[4,2], 750, obsmean[4,2], 0, lwd = 2, length = 0.1)
-hist(log(ETIRboot), xlim = c(1,8), xlab = "Leaf area (log)", main = "TIR: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[7,2], 750, obsmean[7,2], 0, lwd = 2, length = 0.1)
+hist(log(EP1boot), xlim = c(1,8), xlab = "", main = "SG1: ESPPRO bootstrap", col = "palegreen3");arrows(obsmean[1,2], 750, obsmean[1,2], 0, lwd = 2, length = 0.1)
+hist(log(EP16boot), xlim = c(1,8), xlab = "", main = "OG2: ESPPRO bootstrap", col = "salmon1");arrows(obsmean[4,2], 750, obsmean[4,2], 0, lwd = 2, length = 0.1)
+hist(log(EP5boot), xlim = c(0,8), xlab = "Leaf area (log)", main = "OG1: ESPPRO bootstrap", col = "salmon1");arrows(obsmean[4,2], 750, obsmean[4,2], 0, lwd = 2, length = 0.1)
+hist(log(ETIRboot), xlim = c(1,8), xlab = "Leaf area (log)", main = "OG3: ESPPRO bootstrap", col = "salmon1");arrows(obsmean[7,2], 750, obsmean[7,2], 0, lwd = 2, length = 0.1)
 par(mfrow=c(2,3), ps = 20, mar=c(5,6,4,1)+.1)
-hist(log(TP1boot), xlab = "", main = "P1: TERSPI bootstrap", col = "lightblue1", xlim = c(0,9));arrows(obsmean[1,3], 750, obsmean[1,3], 0, lwd = 2, length = 0.1)
-hist(log(TP13boot), xlab = "", main = "P13: TERSPI bootstrap", col = "lightblue1", xlim = c(0,10));arrows(obsmean[2,3], 750, obsmean[2,3], 0, lwd = 2, length = 0.1)
-hist(log(TP15boot), xlab = "", main = "P15: TERSPI bootstrap", col = "lightblue1", xlim=c(0,9));arrows(obsmean[3,3], 750, obsmean[3,3], 0, lwd = 2, length = 0.1)
-hist(log(TP16boot), xlab = "", main = "P16: TERSPI bootstrap", col = "palegreen3", xlim=c(1,9));arrows(obsmean[4,3], 750, obsmean[4,3], 0, lwd = 2, length = 0.1)
-hist(log(TP5boot), xlab = "Leaf area (log)", main = "P5: TERSPI bootstrap", col = "palegreen3",xlim=(c(0,9)));arrows(obsmean[5,3], 750, obsmean[5,3], 0, lwd = 2, length = 0.1)
-hist(log(TPOT4boot), xlab = "Leaf area (log)", main = "POT4: TERSPI bootstrap", col = "salmon1", xlim=c(0,9)); arrows(obsmean[6,3], 750, obsmean[6,3], 0, lwd = 2, length = 0.1)
-hist(log(TTIRboot), xlab = "Leaf area (log)", main = "TIR: TERSPI bootstrap", col = "salmon1", xlim=c(0,9)); arrows(obsmean[7,3], 750, obsmean[7,3], 0, lwd = 2, length = 0.1)
-##Test potentially significant graphs##
-sortHP1boot = sort(log(HP1boot))
-sortHP1boot[9749:9999]
-###HP1 is ranked at 111
-sortHP13boot = sort(log(HP13boot))
-sortHP13boot[9002:9252]
-##HP13 not significant
-sortHP5boot = sort(log(HP5boot))
-sortHP5boot[9550:9800]
-##HP5 not significant
-sortHPOT4boot=sort(log(HPOT4boot))
-sortHPOT4boot[9002:9252]
-##HPOT4 not significant
-
+hist(log(TP1boot), xlab = "", main = "SG1: TERSPI bootstrap", col = "palegreen3", xlim = c(0,9));arrows(obsmean[1,3], 750, obsmean[1,3], 0, lwd = 2, length = 0.1)
+hist(log(TP13boot), xlab = "", main = "SG2: TERSPI bootstrap", col = "palegreen3", xlim = c(0,10));arrows(obsmean[2,3], 750, obsmean[2,3], 0, lwd = 2, length = 0.1)
+hist(log(TP16boot), xlab = "", main = "OG2: TERSPI bootstrap", col = "salmon1", xlim=c(1,9));arrows(obsmean[4,3], 750, obsmean[4,3], 0, lwd = 2, length = 0.1)
+hist(log(TP5boot), xlab = "Leaf area (log)", main = "OG1: TERSPI bootstrap", col = "salmon1",xlim=(c(0,9)));arrows(obsmean[5,3], 750, obsmean[5,3], 0, lwd = 2, length = 0.1)
+hist(log(TTIRboot), xlab = "Leaf area (log)", main = "OG3: TERSPI bootstrap", col = "salmon1", xlim=c(0,9)); arrows(obsmean[7,3], 750, obsmean[7,3], 0, lwd = 2, length = 0.1)
+hist(log(TPOT4boot), xlab = "Leaf area (log)", main = "Pas1: TERSPI bootstrap", col = "lightblue1", xlim=c(0,9)); arrows(obsmean[6,3], 750, obsmean[6,3], 0, lwd = 2, length = 0.1)
+hist(log(TP15boot), xlab = "", main = "SG3: TERSPI bootstrap", col = "palegreen3", xlim=c(0,9));arrows(obsmean[3,3], 750, obsmean[3,3], 0, lwd = 2, length = 0.1)
 
 #######Descriptive statistics#####
 ##Leaf area##
 par(mfrow = c(1,1), ps = 20, cex = 1.5)
 hist(corrData, main = "Leaf area histogram", xlab = "Leaf area (cm2)", col = "darkcyan")
 hist(log(corrData), main = "Transformed leaf area histogram", xlab = "Leaf area (log)", col = "darkcyan")
+mean(log(corrData), na.rm = TRUE)
+sd(log(corrData), na.rm=TRUE)
 ##HYAVAL P1 example##
-hist(log(HP1boot), xlim = c(1,8), xlab = "", main = "P1: HYAVAL bootstrap", col = "palegreen3"); arrows(obsmean[1,1], 750, obsmean[1,1], 0, lwd = 4, length = 0.4)
+hist(log(HP1boot$x), xlim = c(1,8), xlab = "", main = "SG1: HYAVAL bootstrap", col = "palegreen3"); arrows(obsmean[1,1], 750, obsmean[1,1], 0, lwd = 4, length = 0.4)
 ##HYAVAL P5 example##
-hist(log(HP5boot), xlim=c(0,9), xlab = "Leaf area (log)", main = "P5: HYAVAL bootstrap", col = "salmon1"); arrows(obsmean[5,1], 750, obsmean[5,1], 0, lwd = 4, length = 0.4)
+hist(log(HP5boot$x), xlim=c(0,9), xlab = "Leaf area (log)", main = "OG1: HYAVAL bootstrap", col = "salmon1"); arrows(obsmean[5,1], 750, obsmean[5,1], 0, lwd = 4, length = 0.4)
 
+sortHP1boot = sort(log(HP1boot))
+sortHP1boot[9749:9999]
+sd(log(HP1boot$x))
+###HP1 is ranked at 111
+sortHP13boot = sort(log(HP13boot))
+sortHP13boot[9002:9252]
+##HP13 not significant
+sortHP5boot = sort(log(HP5boot))
+sortHP5boot[9550:9800]
+HP5boot1=unlist(HP5boot$x, use.names = FALSE)
+sd(log(HP5boot1), na.rm = TRUE)
+##HP5 not significant
+sortHPOT4boot=sort(log(HPOT4boot))
+sortHPOT4boot[9002:9252]
+##HPOT4 not significant
